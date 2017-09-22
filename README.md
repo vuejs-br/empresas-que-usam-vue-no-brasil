@@ -18,6 +18,7 @@ Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, Postgre
 Precisão Sistemas | http://www.precisaosistemas.com.br | Electron
 RealizaTI | http://realizati.com.br | Node
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
+Sorte7 | http://www.sorte7.com.br/ | Node
 Virtual Age | http://www.virtualage.com.br/ | Electron 
 
 ## Projetos que usam Vue.js no Brasil
@@ -25,11 +26,13 @@ Virtual Age | http://www.virtualage.com.br/ | Electron
 
 Nome | Link | Tecnologias
 ------------ | ------- | ------------
+Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
 Debate 3D | https://debate3d.com.br/ | Firebase
+
 
 # Como contribuir
 
-Basta mansar um [Pull Request (PR)](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/) editando este `readme.md`
+Basta mandar um [Pull Request (PR)](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/) editando este `readme.md`
 
 ## Regras e boas práticas
 - Sem links de afiliados.
@@ -41,4 +44,3 @@ Basta mansar um [Pull Request (PR)](https://blog.da2k.com.br/2015/02/04/git-e-gi
   - Muitas vezes ha projetos pessoais ou open-source, que não possuem relações com empresas, esses casos ficam nesta lista.
   - Basta ser um projeto *pt_BR* ou criado por um brasileiro.
   - Produtos criados pelas empresas da lista anterior também podem ficar nesta lista.
-  
