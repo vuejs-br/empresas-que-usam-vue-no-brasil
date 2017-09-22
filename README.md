@@ -58,3 +58,4 @@ Mantenha contato com a comunidade Vue.js Brasil
 - [Telegram (Quasar)](https://t.me/quasarframeworkbrasil)
 - [Twitter](https://t.me/quasarframeworkbrasil)
 - [G+](https://plus.google.com/communities/104012886918830494146)
+- [Meetups e outras comunidades](https://github.com/vuejs-br/comunidades)
