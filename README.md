@@ -13,6 +13,8 @@ Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, Postgre
 Precisão Sistemas | http://www.precisaosistemas.com.br | Electron
 RealizaTI | http://realizati.com.br | Node
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
+Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vuejs, Laravel | Maringá-PR
+Empari | https://www.empari.com.br/ | Vuejs, Laravel | Maringá-PR
 
 ## Projetos que usam Vue.js no Brasil
 
