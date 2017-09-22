@@ -18,6 +18,7 @@ Just Digital | http://www.justdigital.com.br | Node, PHP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE 
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
+O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
 Plugae | https://www.plugae.com.br | Laravel, Node, PostreSQL
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
