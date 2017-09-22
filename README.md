@@ -13,7 +13,7 @@ Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 InCuca | https://incuca.net/ | Vuejs, Angular 1.x, Node/Loopack, Wordpress
 Just Digital | http://www.justdigital.com.br | Node, PHP
-Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS
+Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE 
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vuejs, Laravel | Maringá-PR
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
 Plugae | https://www.plugae.com.br | Laravel, Node, PostreSQL
