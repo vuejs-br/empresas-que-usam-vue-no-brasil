@@ -10,6 +10,7 @@ Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 Empari | https://www.empari.com.br/ | Vuejs, Laravel | Maringá-PR
 Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
+Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 InCuca | https://incuca.net/ | Vuejs, Angular 1.x, Node/Loopack, Wordpress
 Just Digital | http://www.justdigital.com.br | Node, PHP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS
@@ -47,14 +48,13 @@ Basta mandar um [Pull Request (PR)](https://blog.da2k.com.br/2015/02/04/git-e-gi
   - Basta ser um projeto *pt_BR* ou criado por um brasileiro.
   - Produtos criados pelas empresas da lista anterior também podem ficar nesta lista.
 
+## Comunidades
+Mantenha contato com a comunidade Vue.js Brasil
 
-## Comunidades		
- Mantenha contato com a comunidade Vue.js Brasil		
- 		
- - [Blog](http://www.vuejs-brasil.com.br)		
- - [Facebook (grupo)](https://www.facebook.com/groups/vuejsbr/)		
- - [Facebook (página)](https://www.facebook.com/vuejsbrasil/)		
- - [Telegram](https://t.me/vuejsbrasil)		
- - [Telegram (Quasar)](https://t.me/quasarframeworkbrasil)		
- - [Twitter](https://t.me/quasarframeworkbrasil)		
- - [G+](https://plus.google.com/communities/104012886918830494146)
+- [Blog](http://www.vuejs-brasil.com.br)
+- [Facebook (grupo)](https://www.facebook.com/groups/vuejsbr/)
+- [Facebook (página)](https://www.facebook.com/vuejsbrasil/)
+- [Telegram](https://t.me/vuejsbrasil)
+- [Telegram (Quasar)](https://t.me/quasarframeworkbrasil)
+- [Twitter](https://t.me/quasarframeworkbrasil)
+- [G+](https://plus.google.com/communities/104012886918830494146)
