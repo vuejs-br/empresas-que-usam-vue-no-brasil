@@ -13,6 +13,7 @@ Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, Postgre
 Precisão Sistemas | http://www.precisaosistemas.com.br | Electron
 RealizaTI | http://realizati.com.br | Node
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
+Virtual Age | http://www.virtualage.com.br/ | Electron
 
 ## Projetos que usam Vue.js no Brasil
 
