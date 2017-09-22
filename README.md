@@ -1,4 +1,4 @@
-# Empresas que usam Vue no Brasil
+# Empresas que usam Vue.js no Brasil
 
 Nome | Website | Tecnologias Relacionadas
 ------------ | ------- | ------------
