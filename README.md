@@ -3,6 +3,7 @@
 Nome | Website | Tecnologias Relacionadas | Cidade
 ------------ | ------- | ------------ | -------
 Adapcon | http://www.adapcon.com.br/ | Vue, Vuex, Node, Amazon AWS | Jaraguá do Sul/SC
+Anima Educação | http://www.animaeducacao.com.br/ | Vuejs, ASPNET, Laravel | Belo Horizonte/MG
 Amo | http://amo.delivery/ | Vue, Vuex, Node | Chapecó/RS
 Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Convenia | https://www.convenia.com.br | Laravel
@@ -15,6 +16,7 @@ InCuca | https://incuca.net/ | Vuejs, Angular 1.x, Node/Loopack, Wordpress
 Just Digital | http://www.justdigital.com.br | Node, PHP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE 
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vuejs, Laravel | Maringá-PR
+Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá-PR
 O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
 Plugae | https://www.plugae.com.br | Laravel, Node, PostreSQL
