@@ -17,10 +17,10 @@ Plugae | https://www.plugae.com.br | Laravel, Node, PostreSQL
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
 Precisão Sistemas | http://www.precisaosistemas.com.br | Electron
 RealizaTI | http://realizati.com.br | Node
+RG Sistemas | http://rgsistemas.com.br/ | Vuejs, Vuex, Nodejs
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
 Sorte7 | http://www.sorte7.com.br/ | Node
 Virtual Age | http://www.virtualage.com.br/ | Electron 
-
 ## Projetos que usam Vue.js no Brasil
 
 
