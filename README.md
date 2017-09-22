@@ -17,6 +17,6 @@ Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
 ## Projetos que usam Vue.js no Brasil
 
 
-Nome | Link | Técnologias
+Nome | Link | Tecnologias
 ------------ | ------- | ------------
 Debate 3D | https://debate3d.com.br/ | Firebase
