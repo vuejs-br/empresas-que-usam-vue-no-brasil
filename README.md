@@ -5,6 +5,7 @@ Nome | Website | Tecnologias Relacionadas | Cidade
 Adapcon | http://www.adapcon.com.br/ | Vue, Vuex, Node, Amazon AWS | Jaraguá do Sul/SC
 Anima Educação | http://www.animaeducacao.com.br/ | Vue, ASPNET, Laravel | Belo Horizonte/MG
 Amo | http://amo.delivery/ | Vue, Vuex, Node | Chapecó/RS
+App2Sales | http://app2sales.com/ | Laravel, Vue, React, Electron, Firebase, Heroku | Feira de Santana/BA
 Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Convenia | https://www.convenia.com.br | Laravel
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
