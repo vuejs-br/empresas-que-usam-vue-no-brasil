@@ -2,6 +2,7 @@
 
 Nome | Website | Tecnologias Relacionadas | Cidade
 ------------ | ------- | ------------ | -------
+Convenia | https://www.convenia.com.br | Laravel
 Decision6 | https://decision6.com | Quasar, Node, GraphQL
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 Just Digital | http://www.justdigital.com.br | Node, PHP
