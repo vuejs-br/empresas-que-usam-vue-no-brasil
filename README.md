@@ -44,3 +44,14 @@ Basta mandar um [Pull Request (PR)](https://blog.da2k.com.br/2015/02/04/git-e-gi
   - Muitas vezes ha projetos pessoais ou open-source, que não possuem relações com empresas, esses casos ficam nesta lista.
   - Basta ser um projeto *pt_BR* ou criado por um brasileiro.
   - Produtos criados pelas empresas da lista anterior também podem ficar nesta lista.
+  
+## Comunidades
+Mantenha contato com a comunidade Vue.js Brasil
+
+- [Blog](http://www.vuejs-brasil.com.br)
+- [Facebook (grupo)](https://www.facebook.com/groups/vuejsbr/)
+- [Facebook (página)](https://www.facebook.com/vuejsbrasil/)
+- [Telegram](https://t.me/vuejsbrasil)
+- [Telegram (Quasar)](https://t.me/quasarframeworkbrasil)
+- [Twitter](https://t.me/quasarframeworkbrasil)
+- [G+](https://plus.google.com/communities/104012886918830494146)
