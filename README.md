@@ -7,10 +7,12 @@ Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Convenia | https://www.convenia.com.br | Laravel
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
+Empari | https://www.empari.com.br/ | Vuejs, Laravel | Maringá-PR
 Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 InCuca | https://incuca.net/ | Vuejs, Angular 1.x, Node/Loopack, Wordpress
 Just Digital | http://www.justdigital.com.br | Node, PHP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS
+Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vuejs, Laravel | Maringá-PR
 Plugae | https://www.plugae.com.br | Laravel, Node, PostreSQL
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
 Precisão Sistemas | http://www.precisaosistemas.com.br | Electron
