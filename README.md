@@ -9,3 +9,4 @@ Plugae | https://www.plugae.com.br | Laravel, Node, PostreSQL
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostregreSQL, PHP
 Precisão Sistemas | http://www.precisaosistemas.com.br | Electron
 RealizaTI | http://realizati.com.br | Node
+Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
