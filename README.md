@@ -1,2 +1,5 @@
-# empresas-que-usam-vue-no-brasil
-Empresas que usam Vue no Brasil
+# Empresas que usam Vue no Brasil
+
+Nome | Website | Tecnologias Relacionadas
+------------ | ------- | ------------
+Decision6 | https://decision6.com | Quasar, Node, GraphQL
