@@ -18,6 +18,7 @@ Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress
 Just Digital | http://www.justdigital.com.br | Node, PHP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE 
+Leosoft | http://leosoft.com.br | Vue, Vuex, Ruby | Francisco Beltrão/PR
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
 LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
