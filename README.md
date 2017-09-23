@@ -31,6 +31,7 @@ RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
 Sorte7 | http://www.sorte7.com.br/ | Node
 Virtual Age | http://www.virtualage.com.br/ | Electron
+Nova M3 | http://www.novam3.com | Vue, React, Laravel, CakePHP | Natal RN
 
 ## Projetos que usam Vue.js no Brasil
 
