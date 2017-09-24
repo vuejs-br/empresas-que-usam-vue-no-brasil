@@ -20,6 +20,7 @@ Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress
+Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
@@ -44,6 +45,8 @@ Nome | Link | Tecnologias
 Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
 Debate 3D | https://debate3d.com.br/ | Firebase
 Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
+Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
+Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
 Viesualizen | https://github.com/danilowoz/Visualizen
 
 # Como contribuir
