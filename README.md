@@ -40,6 +40,7 @@ Nome | Link | Tecnologias
 Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
 Debate 3D | https://debate3d.com.br/ | Firebase
 Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
+Viesualizen | https://github.com/danilowoz/Visualizen
 
 # Como contribuir
 
