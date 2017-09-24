@@ -11,6 +11,7 @@ Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
 Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Convenia | https://www.convenia.com.br | Laravel
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
+Dessis Sistemas | http://dessis.com.br | Vue, Vuex, Quasar, Node, Hapi, Mongo | Jaraguá do Sul/SC
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 Empari | https://www.empari.com.br/ | Vue, Laravel | Maringá/PR
 Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
