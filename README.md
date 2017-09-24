@@ -24,8 +24,8 @@ Magnetis | https://magnetis.com.br | Vue, Ruby on Rails, Heroku, PWA | São Paul
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
 O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
-Plugae | https://www.plugae.com.br | Laravel, Node, PostreSQL
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
+Plugae | https://www.plugae.com.br | Laravel, NodeJS, PostreSQL, Vue | Barueri/SP
 Precisão Sistemas | http://www.precisaosistemas.com.br | Electron
 RealizaTI | http://realizati.com.br | Node
 RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
