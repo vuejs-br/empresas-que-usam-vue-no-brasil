@@ -48,6 +48,7 @@ Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
 Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
 Viesualizen | https://github.com/danilowoz/Visualizen
+ICC (Parcial) | https://news.microsoft.com/pt-br/atento-utiliza-inteligencia-artificial-da-microsoft-para-entender-perfil-consumidor/ | Vue, Vuex, Vuetify
 
 # Como contribuir
 
