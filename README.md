@@ -12,6 +12,7 @@ Convenia | https://www.convenia.com.br | Laravel
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 Empari | https://www.empari.com.br/ | Vue, Laravel | Maringá/PR
+Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
 Fatec Taquaritinga | http://www.fatectq.edu.br/ | Vue, Vuex, Nuxt, Node | Taquaritinga/SP
 Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
