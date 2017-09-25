@@ -31,7 +31,7 @@ O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Ja
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
 Plugae | https://www.plugae.com.br | Laravel, NodeJS, PostreSQL, Vue | Barueri/SP
-Precisão Sistemas | http://www.precisaosistemas.com.br | Electron
+Precisão Sistemas | http://www.precisaosistemas.com.br | Vue, Vuex, Angular 1.x, Electron | Jales/SP
 RealizaTI | http://realizati.com.br | Node
 RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
