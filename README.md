@@ -12,6 +12,7 @@ Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Convenia | https://www.convenia.com.br | Laravel
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
 Dessis Sistemas | http://dessis.com.br | Vue, Vuex, Quasar, Node, Hapi, Mongo | Jaraguá do Sul/SC
+Dito | http://dito.com.br | Vue, Ruby, NodeJS, Mongo, Angular 1.x | Belo Horizonte/MG
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 Empari | https://www.empari.com.br/ | Vue, Laravel | Maringá/PR
 Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
@@ -24,7 +25,7 @@ Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP
-Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE 
+Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
 Leosoft | http://leosoft.com.br | Vue, Vuex, Ruby | Francisco Beltrão/PR
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
 LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
