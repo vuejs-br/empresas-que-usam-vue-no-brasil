@@ -16,8 +16,9 @@ DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 Empari | https://www.empari.com.br/ | Vue, Laravel | Maringá/PR
 Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
 Fatec Taquaritinga | http://www.fatectq.edu.br/ | Vue, Vuex, Nuxt, Node | Taquaritinga/SP
-Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
+FLAGCX | https://facebook.com/flagcx/ | Vue, Vuex, Nuxt, Node | São Paulo/SP
 Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
+Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress
@@ -28,6 +29,7 @@ Leosoft | http://leosoft.com.br | Vue, Vuex, Ruby | Francisco Beltrão/PR
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
 LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
 Magnetis | https://magnetis.com.br | Vue, Ruby on Rails, Heroku, PWA | São Paulo/SP
+Melhor Envio | http://melhorenvio.com.br | Vue, Laravel | Pelotas/RS
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
 Nova M3 | http://www.novam3.com | Vue, React, Laravel, CakePHP | Natal RN
 O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
@@ -39,6 +41,7 @@ RealizaTI | http://realizati.com.br | Node
 RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
 Sorte7 | http://www.sorte7.com.br/ | Node
+STORED E-commerce | http://stored.com.br/ | Vue, Vuex, Nuxt, Node | Ribeiro Preto/SP
 Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, Python, Machine learning, Visão computacional | São Paulo / remoto
 Virtual Age | http://www.virtualage.com.br/ | Electron
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
@@ -50,6 +53,7 @@ Nome | Link | Tecnologias
 Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
 Debate 3D | https://debate3d.com.br/ | Firebase
 Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
+Evolutio | http://evolutio.io/ | Vue, Nuxt, Django
 Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
 Viesualizen | https://github.com/danilowoz/Visualizen
