@@ -21,6 +21,7 @@ Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custód
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
 LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
+Nova M3 | http://www.novam3.com | Vue, React, Laravel, CakePHP | Natal RN
 O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
 Plugae | https://www.plugae.com.br | Laravel, Node, PostreSQL
@@ -31,7 +32,6 @@ RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
 Sorte7 | http://www.sorte7.com.br/ | Node
 Virtual Age | http://www.virtualage.com.br/ | Electron
-Nova M3 | http://www.novam3.com | Vue, React, Laravel, CakePHP | Natal RN
 
 ## Projetos que usam Vue.js no Brasil
 
