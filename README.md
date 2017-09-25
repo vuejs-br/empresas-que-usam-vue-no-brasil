@@ -27,6 +27,7 @@ Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Mari
 LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
 Magnetis | https://magnetis.com.br | Vue, Ruby on Rails, Heroku, PWA | São Paulo/SP
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
+Nova M3 | http://www.novam3.com | Vue, React, Laravel, CakePHP | Natal RN
 O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
