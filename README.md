@@ -52,6 +52,7 @@ Nome | Link | Tecnologias
 Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
 Debate 3D | https://debate3d.com.br/ | Firebase
 Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
+Evolutio | http://evolutio.io/ | Vue, Nuxt, Django
 Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
 Viesualizen | https://github.com/danilowoz/Visualizen
