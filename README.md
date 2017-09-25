@@ -22,7 +22,7 @@ Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte
-InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress
+InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Florianópolis/SC
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
