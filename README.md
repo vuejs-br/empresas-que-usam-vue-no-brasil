@@ -38,6 +38,7 @@ RealizaTI | http://realizati.com.br | Node
 RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
 Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
 Sorte7 | http://www.sorte7.com.br/ | Node
+Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, Python, Machine learning, Visão computacional | São Paulo / remoto
 Virtual Age | http://www.virtualage.com.br/ | Electron
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
 128Bits   | http://128bits.cc/  | Django, PostgreSQL, VueJs,Vuex  | Teresina-PI
