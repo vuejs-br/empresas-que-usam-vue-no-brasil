@@ -16,6 +16,7 @@ Dito | http://dito.com.br | Vue, Ruby, NodeJS, Mongo, Angular 1.x | Belo Horizon
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 Empari | https://www.empari.com.br/ | Vue, Laravel | Maringá/PR
 Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
+Facilite | https://facilite.online | Vue, Firebase | Jaraguá do Sul/SC
 Fatec Taquaritinga | http://www.fatectq.edu.br/ | Vue, Vuex, Nuxt, Node | Taquaritinga/SP
 FLAGCX | https://facebook.com/flagcx/ | Vue, Vuex, Nuxt, Node | São Paulo/SP
 Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
