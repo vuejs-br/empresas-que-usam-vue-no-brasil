@@ -34,6 +34,7 @@ LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
 Magnetis | https://magnetis.com.br | Vue, Ruby on Rails, Heroku, PWA | São Paulo/SP
 Melhor Envio | http://melhorenvio.com.br | Vue, Laravel | Pelotas/RS
 MG Papelaria | http://mgpapelaria.com.br | Vue, Quasar, Laravel e PostgreSQL | Sinop/MT
+Moip | https://moip.com.br/ | Vue, Ruby, Java, AWS | São Paulo/SP
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
 Notoriun Tecnologia | http://www.notoriun.com.br | Vue, Vuex, Mongo, Redis, ArcGIS, PostGIS, GeoServer, ESRI JS, NodeJS | Brasília/DF
 Nova M3 | http://www.novam3.com | Vue, React, Laravel, CakePHP | Natal RN
