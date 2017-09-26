@@ -52,7 +52,8 @@ STORED E-commerce | http://stored.com.br/ | Vue, Vuex, Nuxt, Node | Ribeiro Pret
 Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, Python, Machine learning, Visão computacional | São Paulo / remoto
 Virtual Age | http://www.virtualage.com.br/ | Electron
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
-128Bits   | http://128bits.cc/  | Django, PostgreSQL, VueJs,Vuex  | Teresina-PI
+Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Uberlândia/MG
+128Bits | http://128bits.cc/  | Django, PostgreSQL, VueJs,Vuex  | Teresina-PI
 ## Projetos que usam Vue.js no Brasil
 
 Nome | Link | Tecnologias
