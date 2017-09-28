@@ -26,7 +26,7 @@ Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Florianópolis/SC
 Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, .net | Belo Horizonte
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
-Just Digital | http://www.justdigital.com.br | Node, PHP
+Just Digital | http://www.justdigital.com.br | Node, PHP | São Paulo/SP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
 Leosoft | http://leosoft.com.br | Vue, Vuex, Ruby | Francisco Beltrão/PR
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
@@ -65,6 +65,7 @@ Debate 3D | https://debate3d.com.br/ | Firebase
 Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
 Evolutio | http://evolutio.io/ | Vue, Nuxt, Django
 Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
+OdontoPrev | https://loja.odontoprevonline.com.br/#/?sku=vip | Vue, Vuex, Vue Router, etc...
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
 Viesualizen | https://github.com/danilowoz/Visualizen
 ICC (Parcial) | https://news.microsoft.com/pt-br/atento-utiliza-inteligencia-artificial-da-microsoft-para-entender-perfil-consumidor/ | Vue, Vuex, Vuetify
