@@ -22,7 +22,7 @@ FLAGCX | https://facebook.com/flagcx/ | Vue, Vuex, Nuxt, Node | São Paulo/SP
 Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
-Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte
+Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Florianópolis/SC
 Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, .net | Belo Horizonte
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
@@ -34,6 +34,7 @@ LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
 Magnetis | https://magnetis.com.br | Vue, Ruby on Rails, Heroku, PWA | São Paulo/SP
 Melhor Envio | http://melhorenvio.com.br | Vue, Laravel | Pelotas/RS
 MG Papelaria | http://mgpapelaria.com.br | Vue, Quasar, Laravel e PostgreSQL | Sinop/MT
+mLearn | https://mlearn.com.br/ | Vue, Laravel/Lumen | Belo Horizonte/MG
 Moip | https://moip.com.br/ | Vue, Ruby, Java, AWS | São Paulo/SP
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
 Notoriun Tecnologia | http://www.notoriun.com.br | Vue, Vuex, Mongo, Redis, ArcGIS, PostGIS, GeoServer, ESRI JS, NodeJS | Brasília/DF
