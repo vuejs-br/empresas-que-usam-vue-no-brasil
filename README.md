@@ -5,7 +5,7 @@ Nome | Website | Tecnologias Relacionadas | Cidade
 Abacomm | http://www.abacomm.com.br | Vue, Vuex, Node, Laravel, AWS | Rio de Janeiro/RJ
 Adapcon | http://www.adapcon.com.br/ | Vue, Vuex, Node, Amazon AWS | Jaraguá do Sul/SC
 Anima Educação | http://www.animaeducacao.com.br/ | Vue, ASPNET, Laravel | Belo Horizonte/MG
-Amo | http://amo.delivery/ | Vue, Vuex, Node | Chapecó/RS
+Amo | http://amo.delivery/ | Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ, Hapijs, Firebase pra push | Chapecó/SC
 App2Sales | http://app2sales.com/ | Laravel, Vue, React, Electron, Firebase, Heroku | Feira de Santana/BA
 Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
 Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
