@@ -47,7 +47,7 @@ Precisão Sistemas | http://www.precisaosistemas.com.br | Vue, Vuex, Angular 1.x
 RealizaTI | http://realizati.com.br | Node
 RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
 SAS Plataforma de Educação | http://portalsas.com.br | Vue, Vuex, Node, Mongo, AWS | Fortaleza/CE
-Schoolastic | https://www.schoolastic-app.com/ | Node.js, Java
+Schoolastic | http://www.schoolastic-app.com/ | Vue, Vuex, Node.js, Java, MySQL, MongoDB | Porto Alegre, RS
 Softbox | http://www.softbox.com.br/ | Vue, Vuex, Angular, Node, Java, PHP, Python, MongoDB  | Uberlândia/MG
 Sorte7 | http://www.sorte7.com.br/ | Node
 STORED E-commerce | http://stored.com.br/ | Vue, Vuex, Nuxt, Node | Ribeiro Preto/SP
