@@ -9,7 +9,7 @@ Amo | http://amo.delivery/ | Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ,
 App2Sales | http://app2sales.com/ | Laravel, Vue, React, Electron, Firebase, Heroku | Feira de Santana/BA
 Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
 Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
-Convenia | https://www.convenia.com.br | Laravel
+Convenia | https://www.convenia.com.br | Vue, Vuex, Laravel | São Paulo/SP
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
 Dessis Sistemas | http://dessis.com.br | Vue, Vuex, Quasar, Node, Hapi, Mongo | Jaraguá do Sul/SC
 Dito | http://dito.com.br | Vue, Ruby, NodeJS, Mongo, Angular 1.x | Belo Horizonte/MG
