@@ -14,6 +14,7 @@ Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
 Dessis Sistemas | http://dessis.com.br | Vue, Vuex, Quasar, Node, Hapi, Mongo | Jaraguá do Sul/SC
 Dito | http://dito.com.br | Vue, Ruby, NodeJS, Mongo, Angular 1.x | Belo Horizonte/MG
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
+EduQC | http://eduqc.com.br | Vue, Vuex, Quasar | Brasília/DF
 Empari | https://www.empari.com.br/ | Vue, Laravel | Maringá/PR
 Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
 Facilite | https://facilite.online | Vue, Firebase | Jaraguá do Sul/SC
