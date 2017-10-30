@@ -62,7 +62,7 @@ Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Ub
 Nome | Link | Tecnologias
 ------------ | ------- | ------------
 Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
-Debate 3D | https://debate3d.com.br/ | Firebase
+Debate 3D | https://debate3d.com.br/ | Vue, Vue Apollo, NodeJS, Postgres e GraphQL
 Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
 Evolutio | http://evolutio.io/ | Vue, Nuxt, Django
 Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
