@@ -28,6 +28,7 @@ Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, 
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP | São Paulo/SP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
+Let's Grow Sistemas | http://www.letsgrow.com.br/ | Vue, Vuex, Laravel, PostgreSQL | Guarapuava/PR
 Leosoft | http://leosoft.com.br | Vue, Vuex, Ruby | Francisco Beltrão/PR
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
 LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
