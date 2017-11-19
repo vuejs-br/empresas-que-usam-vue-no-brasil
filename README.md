@@ -48,6 +48,7 @@ Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
 Plugae | https://www.plugae.com.br | Laravel, NodeJS, PostreSQL, Vue | Barueri/SP
 Precisão Sistemas | http://www.precisaosistemas.com.br | Vue, Vuex, Angular 1.x, Electron | Jales/SP
+Raro Labs | https://rarolabs.com.br/ | Vue, Vuex, Angular, Node, Ruby on Rails | Belo Horizonte/MG
 RealizaTI | http://realizati.com.br | Node
 RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
 SAS Plataforma de Educação | http://portalsas.com.br | Vue, Vuex, Node, Mongo, AWS | Fortaleza/CE
