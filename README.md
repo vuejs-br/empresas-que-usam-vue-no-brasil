@@ -58,6 +58,7 @@ Softbox | http://www.softbox.com.br/ | Vue, Vuex, Angular, Node, Java, PHP, Pyth
 Sorte7 | http://www.sorte7.com.br/ | Node
 STORED E-commerce | http://stored.com.br/ | Vue, Vuex, Nuxt, Node | Ribeiro Preto/SP
 Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, Python, Machine learning, Visão computacional | São Paulo / remoto
+Unimake Software |http://www.unimake.com.br/ | Vue, PHP, C#, EXT.NET, Xamarin, ASP.NET | Paranavaí, Campo Mourão / PR
 Virtual Age | http://www.virtualage.com.br/ | Electron
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
 Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Uberlândia/MG
