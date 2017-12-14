@@ -53,6 +53,7 @@ Precisão Sistemas | http://www.precisaosistemas.com.br | Vue, Vuex, Angular 1.x
 Prodweb | https://www.prodweb.com.br/ | Vue, Vuex | Passa Quatro/MG
 Raro Labs | https://rarolabs.com.br/ | Vue, Vuex, Angular, Node, Ruby on Rails | Belo Horizonte/MG
 RealizaTI | http://realizati.com.br | Node
+Rebuut Criação e Comunicação Digital | https://www.rebuut.com.br/ | PHP, Vue, Laravel, MySQL, AWS | Sâo José do Rio Preto/SP
 RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
 SAS Plataforma de Educação | http://portalsas.com.br | Vue, Vuex, Node, Mongo, AWS | Fortaleza/CE
 Schoolastic | http://www.schoolastic-app.com/ | Vue, Vuex, Node.js, Java, MySQL, MongoDB | Porto Alegre, RS
