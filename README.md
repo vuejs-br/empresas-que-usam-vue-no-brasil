@@ -26,6 +26,7 @@ FLAGCX | https://facebook.com/flagcx/ | Vue, Vuex, Nuxt, Node | São Paulo/SP
 Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
+HiMaker | http://http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Florianópolis/SC
 Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, .net | Belo Horizonte
