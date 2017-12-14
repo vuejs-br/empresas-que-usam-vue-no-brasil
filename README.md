@@ -12,7 +12,7 @@ BeautyDate | https://beautydate.com.br/ | Vue, Angular, Docker, Google Cloud, JS
 BizCapital | https://bizcap.com.br/ | Vue, Vuex, Quazar, Django, Zappa, AWS Lambda | Rio de Janeiro/RJ
 Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
 Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
-Convenia | https://www.convenia.com.br | Vue, Vuex, Laravel | São Paulo/SP
+Convenia | https://www.convenia.com.br | Vue, Vuex, Axios, Laravel, GraphQL | São Paulo/SP
 Dataview | http://www.dataview.com.br | Vue, Vuex, VueRouter, Quasar, Axios | Gurupi/TO
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
 Dessis Sistemas | http://dessis.com.br | Vue, Vuex, Quasar, Node, Hapi, Mongo | Jaraguá do Sul/SC
