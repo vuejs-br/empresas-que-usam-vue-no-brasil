@@ -96,7 +96,7 @@ Basta mandar um [Pull Request (PR)](https://blog.da2k.com.br/2015/02/04/git-e-gi
 - Sem links de afiliados.
 - Sempre manter a ordem Alfabética.
 - **Empresas que usam Vue.js no Brasil**
-  - Prencha todas as Colunas.
+  - Preencha todas as colunas.
   - A empresa pode não *estar* no Brasil, porém se sua origem e/ou equipe for brasileira, ela pode estar nessa lista sem problemas.
 - **Projetos que usam Vue.js no Brasil**
   - Muitas vezes ha projetos pessoais ou open-source, que não possuem relações com empresas, esses casos ficam nesta lista.
