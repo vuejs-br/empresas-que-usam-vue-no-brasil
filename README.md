@@ -85,6 +85,7 @@ Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervid
 OdontoPrev | https://loja.odontoprevonline.com.br/#/?sku=vip | Vue, Vuex, Vue Router, etc...
 RadioterapiaIrradiarPWA | https://radioterapiairradiar.com.br/app | Quasar, Vue, PWA
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
+Treinar Front-End | https://www.treinarfrontend.com | Vue, Laravel
 Viesualizen | https://github.com/danilowoz/Visualizen
 ICC (Parcial) | https://news.microsoft.com/pt-br/atento-utiliza-inteligencia-artificial-da-microsoft-para-entender-perfil-consumidor/ | Vue, Vuex, Vuetify
 /dev/All | http://www.devall.com.br | Grails, Spring, Apache Camel, Solr
