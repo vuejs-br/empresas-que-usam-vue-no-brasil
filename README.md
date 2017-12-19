@@ -36,6 +36,7 @@ iTFLEX Tecnologia Ltda | https://www.itflex.com.br/ | Vue, Python, MongoDB, Linu
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP | São Paulo/SP
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
+LegalLabs | http://legalabs.com.br/ | Node, Vue, Vuex, Rethinkdb | Brasília/DF
 Let's Grow Sistemas | http://www.letsgrow.com.br/ | Vue, Vuex, Laravel, PostgreSQL | Guarapuava/PR
 Leosoft | http://leosoft.com.br | Vue, Vuex, Ruby | Francisco Beltrão/PR
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
