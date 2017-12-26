@@ -43,6 +43,7 @@ Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Mari
 LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
 Magnetis | https://magnetis.com.br | Vue, Ruby on Rails, Heroku, PWA | São Paulo/SP
 Melhor Envio | http://melhorenvio.com.br | Vue, Laravel | Pelotas/RS
+Mercado Eletrônico | https://me.com.br | Vue, Vuex, Vue Router, ASP.NET | São Paulo/SP
 MG Papelaria | http://mgpapelaria.com.br | Vue, Quasar, Laravel e PostgreSQL | Sinop/MT
 mLearn | https://mlearn.com.br/ | Vue, Laravel/Lumen | Belo Horizonte/MG
 Moip | https://moip.com.br/ | Vue, Ruby, Java, AWS | São Paulo/SP
