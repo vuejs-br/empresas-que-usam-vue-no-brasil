@@ -35,6 +35,7 @@ Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, 
 iTFLEX Tecnologia Ltda | https://www.itflex.com.br/ | Vue, Python, MongoDB, Linux | Joinville/SC
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP | São Paulo/SP
+Kino Contabilidade Online | https://sejakino.com.br | Vue, Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA | Belo Horizonte/MG
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
 LegalLabs | http://legalabs.com.br/ | Node, Vue, Vuex, Rethinkdb | Brasília/DF
 Let's Grow Sistemas | http://www.letsgrow.com.br/ | Vue, Vuex, Laravel, PostgreSQL | Guarapuava/PR
