@@ -75,6 +75,7 @@ Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, 
 uMov.me | http://www.umov.me/ | Vue, Java, Ruby, Go, Swift, Kotlin | Porto Alegre, RS
 Unimake Software |http://www.unimake.com.br/ | Vue, PHP, C#, EXT.NET, Xamarin, ASP.NET | Paranavaí, Campo Mourão / PR
 Virtual Age | http://www.virtualage.com.br/ | Electron
+Yapay | https://www.yapay.com.br/ | Vue, Vuex, Axios, Ruby, Lodash | Marília - SP
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
 Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Uberlândia/MG
 128Bits | http://128bits.cc/  | Django, PostgreSQL, VueJs,Vuex  | Teresina-PI
