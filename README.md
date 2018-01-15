@@ -51,6 +51,7 @@ MG Papelaria | http://mgpapelaria.com.br | Vue, Quasar, Laravel e PostgreSQL | S
 mLearn | https://mlearn.com.br/ | Vue, Laravel/Lumen | Belo Horizonte/MG
 Moip | https://moip.com.br/ | Vue, Ruby, Java, AWS | São Paulo/SP
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
+Multitherm Sistemas e Automação | http://multitherm.com.br/ | Vue, Java | Blumenau/SC
 Notoriun Tecnologia | http://www.notoriun.com.br | Vue, Vuex, Mongo, Redis, ArcGIS, PostGIS, GeoServer, ESRI JS, NodeJS | Brasília/DF
 Nova M3 | http://www.novam3.com | Vue, React, Laravel, CakePHP | Natal RN
 O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
