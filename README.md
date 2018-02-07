@@ -124,6 +124,7 @@ Basta mandar um [Pull Request (PR)](https://blog.da2k.com.br/2015/02/04/git-e-gi
 Mantenha contato com a comunidade Vue.js Brasil
 
 - [Blog](http://www.vuejs-brasil.com.br)
+- [Fórum](https://github.com/vuejs-br/forum)
 - [Facebook (grupo)](https://www.facebook.com/groups/vuejsbr/)
 - [Facebook (página)](https://www.facebook.com/vuejsbrasil/)
 - [Telegram](https://t.me/vuejsbrasil)
