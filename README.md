@@ -79,6 +79,7 @@ STORED E-commerce | http://stored.com.br/ | Vue, Vuex, Nuxt, Node | Ribeiro Pret
 Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, Python, Machine learning, Visão computacional | São Paulo / remoto
 uMov.me | http://www.umov.me/ | Vue, Java, Ruby, Go, Swift, Kotlin | Porto Alegre, RS
 Unimake Software |http://www.unimake.com.br/ | Vue, PHP, C#, EXT.NET, Xamarin, ASP.NET | Paranavaí, Campo Mourão / PR
+UDS Tecnologia |https://uds.com.br/ | Vue, Laravel, Java, PHP, C# | Maringá / PR
 Virtual Age | http://www.virtualage.com.br/ | Electron
 Yapay | https://www.yapay.com.br/ | Vue, Vuex, Axios, Ruby, Lodash | Marília - SP
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
