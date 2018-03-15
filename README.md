@@ -71,6 +71,7 @@ RealizaTI | http://realizati.com.br | Node
 Rebuut Criação e Comunicação Digital | https://www.rebuut.com.br/ | PHP, Vue, Laravel, MySQL, AWS | São José do Rio Preto/SP
 Reuna.me | https://reuna.me/ | Vue, Laravel, MySQL, AWS | Fortaleza/CE
 RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
+Rock Content | http://rockcontent.com/ | Vue, Rails, Postgres, Redis, AWS | Belo Horizonte, MG
 SAS Plataforma de Educação | http://portalsas.com.br | Vue, Vuex, Node, Mongo, AWS | Fortaleza/CE
 Schoolastic | http://www.schoolastic-app.com/ | Vue, Vuex, Node.js, Java, MySQL, MongoDB | Porto Alegre, RS
 Sistema Athos | http://www.sistemaathos.com.br | Vue, Laravel, MySQL | São José dos Campos - SP
