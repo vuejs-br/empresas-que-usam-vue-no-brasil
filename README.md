@@ -8,6 +8,7 @@ AgileTI | http://agileti.com.br | Vue, Vuex, VueRouter, Quasar, Axios | Gurupi/T
 Anima Educação | http://www.animaeducacao.com.br/ | Vue, ASPNET, Laravel | Belo Horizonte/MG
 Amo | http://amo.delivery/ | Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ, Hapijs, Firebase pra push | Chapecó/SC
 App2Sales | http://app2sales.com/ | Laravel, Vue, React, Electron, Firebase, Heroku | Feira de Santana/BA
+ARPNET | http://arpnet.biz/ | Laravel & Vue.js, ASPNET, VB.net, SQLServer | Teresina/PI
 AutoSeg | http://autoseg.com/ | Ruby on Rails, Vue, Electron | São Paulo/SP
 B2rent | http://b2rent.com.br/ | Laravel, TypeScript, Sass, Node | Fortaleza/CE
 BeautyDate | https://beautydate.com.br/ | Vue, Angular, Docker, Google Cloud, JSONAPI | Curitiba/PR
@@ -93,8 +94,6 @@ Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Ub
 
 Nome | Link | Tecnologias
 ------------ | ------- | ------------
-Books-C11 | | Laravel & Vue.js
-C11-RP | | Laravel & Vue.js
 Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
 Debate 3D | https://debate3d.com.br/ | Vue, Vue Apollo, NodeJS, Postgres e GraphQL
 Evolutio | http://evolutio.io/ | Vue, Nuxt, Django
