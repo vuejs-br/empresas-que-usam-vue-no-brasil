@@ -93,6 +93,8 @@ Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Ub
 
 Nome | Link | Tecnologias
 ------------ | ------- | ------------
+Books-C11 | | Laravel & Vue.js
+C11-RP | | Laravel & Vue.js
 Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
 Debate 3D | https://debate3d.com.br/ | Vue, Vue Apollo, NodeJS, Postgres e GraphQL
 Evolutio | http://evolutio.io/ | Vue, Nuxt, Django
