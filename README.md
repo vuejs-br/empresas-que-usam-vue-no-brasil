@@ -61,6 +61,7 @@ Notoriun Tecnologia | http://www.notoriun.com.br | Vue, Vuex, Mongo, Redis, ArcG
 Nova M3 | http://www.novam3.com | Vue, React, Laravel, CakePHP | Natal RN
 O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
 Octadesk | https://www.octadesk.com | Vue, AngularJS, Angular, Polymer, Node, C#, .Net Core, Docker, MongoDB | São Paulo/SP
+Operand | https://www.operand.com.br | Vue.js, Vuex, VueRouter, Axios, PHP, Phalcon PHP, Node.js, MariaDB, Redis, Memcached | Joinville/SC
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
 Plugae | https://www.plugae.com.br | Laravel, NodeJS, PostreSQL, Vue | Barueri/SP
