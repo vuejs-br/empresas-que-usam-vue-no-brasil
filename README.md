@@ -24,6 +24,7 @@ Dito | http://dito.com.br | Vue, Ruby, NodeJS, Mongo, Angular 1.x | Belo Horizon
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 EBANX | https://ebanx.com | Vue, VueRouter, VueMC, Ruby on Rails, Docker | Curitiba/PR
 EduQC | http://eduqc.com.br | Vue, Vuex, Quasar | Brasília/DF
+eMiolo.com | http://emiolo.com | Vue, Vuex, Nuxt, NodeJS, Laravel | Juiz de Fora/MG
 Empari | https://www.empari.com.br/ | Vue, Laravel | Maringá/PR
 Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
 Escavador | https://www.escavador.com | Vue, Laravel, Php, Python, MySQL  | Salvador/BA
