@@ -49,6 +49,7 @@ LegalLabs | http://legalabs.com.br/ | Node, Vue, Vuex, Rethinkdb | Brasília/DF
 Let's Grow Sistemas | http://www.letsgrow.com.br/ | Vue, Vuex, Laravel, PostgreSQL | Guarapuava/PR
 Leosoft | http://leosoft.com.br | Vue, Vuex, Ruby | Francisco Beltrão/PR
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
+LogusTech | https://logus.tech/ | Nodejs, Express, Vue, Vuex, Vuetify, PWA, MongoDB, MariaDB, GraphQL, Python, Flask | Recife/PE
 LojasKD.com.br | https://www.lojaskd.com.br/ | Vuejs, Vuex | Curitiba/PR
 Magnetis | https://magnetis.com.br | Vue, Ruby on Rails, Heroku, PWA | São Paulo/SP
 Melhor Envio | http://melhorenvio.com.br | Vue, Laravel | Pelotas/RS
