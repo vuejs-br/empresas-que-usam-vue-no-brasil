@@ -78,6 +78,7 @@ RG Sistemas | http://rgsistemas.com.br/ | Vue, Vuex, Nodejs
 Rock Content | http://rockcontent.com/ | Vue, Rails, Postgres, Redis, AWS | Belo Horizonte, MG
 SAS Plataforma de Educação | http://portalsas.com.br | Vue, Vuex, Node, Mongo, AWS | Fortaleza/CE
 Schoolastic | http://www.schoolastic-app.com/ | Vue, Vuex, Node.js, Java, MySQL, MongoDB | Porto Alegre, RS
+Signa Consultoria | http://www.signainfo.com.br/ | Vue, Node.js, ReactN Native, C#, .NET, NativeScript-Vue | São Paulo, SP
 Sistema Athos | http://www.sistemaathos.com.br | Vue, Laravel, MySQL | São José dos Campos - SP
 Softbox | http://www.softbox.com.br/ | Vue, Vuex, Angular, Node, Java, PHP, Python, MongoDB  | Uberlândia/MG
 Sorte7 | http://www.sorte7.com.br/ | Node
