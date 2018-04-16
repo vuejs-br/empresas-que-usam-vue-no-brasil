@@ -40,6 +40,7 @@ Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Florianópolis/SC
 Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, .net | Belo Horizonte
 iTFLEX Tecnologia Ltda | https://www.itflex.com.br/ | Vue, Python, MongoDB, Linux | Joinville/SC
+INTI | https://www.byinti.com/ | Vue, Vuex, Vue-Router, SPA, Quasar-Framework, WebPack, Yii2 | São Paulo/SP
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP | São Paulo/SP
 Keycar | http://www.keycar.com.br/ | Vue, VueRouter, Laravel, Node, AWS, Java, Kotlin, Swift, Python, PHP, Docker, MongoDB | Santos/SP
