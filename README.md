@@ -109,6 +109,7 @@ OdontoPrev | https://loja.odontoprevonline.com.br/#/?sku=vip | Vue, Vuex, Vue Ro
 Operand Is Cool | http://iscool.operand.com.br/ | PHP, Phalcon Framework, Vue, Axios
 RadioterapiaIrradiarPWA | https://radioterapiairradiar.com.br/app | Quasar, Vue, PWA
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
+Salic | http://salic.cultura.gov.br | Vue.2, PHP, Zend Framework
 Treinar Front-End | https://www.treinarfrontend.com | Vue, Laravel
 VagasCG | https://vagascg.com.br/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, DigitalOcean, Google Cloud Plataform
 Viesualizen | https://github.com/danilowoz/Visualizen
