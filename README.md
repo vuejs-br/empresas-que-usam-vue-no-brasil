@@ -8,6 +8,7 @@ AgileTI | http://agileti.com.br | Vue, Vuex, VueRouter, Quasar, Axios | Gurupi/T
 Anima Educação | http://www.animaeducacao.com.br/ | Vue, ASPNET, Laravel | Belo Horizonte/MG
 Amo | http://amo.delivery/ | Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ, Hapijs, Firebase pra push | Chapecó/SC
 App2Sales | http://app2sales.com/ | Laravel, Vue, React, Electron, Firebase, Heroku | Feira de Santana/BA
+AppCívico | https://appcivico.com/ | Vue, Vuex, React, React Native, Netlify, Perl | São Paulo/SP
 ARPNET | http://arpnet.biz/ | Laravel & Vue.js, ASPNET, VB.net, SQLServer | Teresina/PI
 AutoSeg | http://autoseg.com/ | Ruby on Rails, Vue, Electron | São Paulo/SP
 B2rent | http://b2rent.com.br/ | Laravel, TypeScript, Sass, Node | Fortaleza/CE
@@ -26,6 +27,7 @@ EBANX | https://ebanx.com | Vue, VueRouter, VueMC, Ruby on Rails, Docker | Curit
 EduQC | http://eduqc.com.br | Vue, Vuex, Quasar | Brasília/DF
 eMiolo.com | http://emiolo.com | Vue, Vuex, Nuxt, NodeJS, Laravel | Juiz de Fora/MG
 Empari | https://www.empari.com.br/ | Vue, Laravel | Maringá/PR
+Eokoe | https://www.eokoe.com/ | Vue, Vuex, React, React Native, Netlify, Perl | São Paulo/SP
 Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
 Escavador | https://www.escavador.com | Vue, Laravel, Php, Python, MySQL  | Salvador/BA
 EzDevs | http://ezdevs.com.br | Vue, .net core, Node, Mongo, Ionic, React native, MySql, Firebase, | Bauru/SP
@@ -105,17 +107,19 @@ Debate 3D | https://debate3d.com.br/ | Vue, Vue Apollo, NodeJS, Postgres e Graph
 Evolutio | http://evolutio.io/ | Vue, Nuxt, Django
 Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
 ICC (Parcial) | https://news.microsoft.com/pt-br/atento-utiliza-inteligencia-artificial-da-microsoft-para-entender-perfil-consumidor/ | Vue, Vuex, Vuetify
+Mandado Aberto | https://nosso.mandatoaberto.com.br/ | Vue, Vuex, Perl
 Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
 OdontoPrev | https://loja.odontoprevonline.com.br/#/?sku=vip | Vue, Vuex, Vue Router, etc...
 Operand Is Cool | http://iscool.operand.com.br/ | PHP, Phalcon Framework, Vue, Axios
+PegaBot | https://pegabot.com.br/ | Vue, Node
 RadioterapiaIrradiarPWA | https://radioterapiairradiar.com.br/app | Quasar, Vue, PWA
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
 Salic | http://salic.cultura.gov.br | Vue.2, PHP, Zend Framework
 Treinar Front-End | https://www.treinarfrontend.com | Vue, Laravel
 VagasCG | https://vagascg.com.br/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, DigitalOcean, Google Cloud Plataform
 Viesualizen | https://github.com/danilowoz/Visualizen
+Voto Legal | https://votolegal.com.br/ | Vue
 /dev/All | http://www.devall.com.br | Grails, Spring, Apache Camel, Solr
-
 
 # Como contribuir
 
