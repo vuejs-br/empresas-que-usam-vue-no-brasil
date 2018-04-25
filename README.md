@@ -145,6 +145,6 @@ Mantenha contato com a comunidade Vue.js Brasil
 - [Facebook (página)](https://www.facebook.com/vuejsbrasil/)
 - [Telegram](https://t.me/vuejsbrasil)
 - [Telegram (Quasar)](https://t.me/quasarframeworkbrasil)
-- [Twitter](https://t.me/quasarframeworkbrasil)
+- [Twitter](https://twitter.com/vuejs_brasil)
 - [G+](https://plus.google.com/communities/104012886918830494146)
 - [Meetups e outras comunidades](https://github.com/vuejs-br/comunidades)
