@@ -93,6 +93,7 @@ Unimake Software |http://www.unimake.com.br/ | Vue, PHP, C#, EXT.NET, Xamarin, A
 UDS Tecnologia |https://uds.com.br/ | Vue, Laravel, Java, PHP, C# | Maringá / PR
 URCAMP |https://www.urcamp.edu.br/ | Vue, Laravel, Postgres | Bagé / RS
 Virtual Age | http://www.virtualage.com.br/ | Electron
+Wealth Systems | http://www.wssim.com.br/ | Vue, Vuex, Vue-Router, Vuetify, Vue-Charts, Axios, SparkJava, Retrofit, Java, Hibernate, Maven, PostgreSQL | Cascavel/PR
 Yapay | https://www.yapay.com.br/ | Vue, Vuex, Axios, Ruby, Lodash | Marília - SP
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
 Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Uberlândia/MG
