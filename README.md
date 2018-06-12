@@ -3,6 +3,7 @@
 Nome | Website | Tecnologias Relacionadas | Cidade
 ------------ | ------- | ------------ | -------
 Abacomm | http://www.abacomm.com.br | Vue, Vuex, Node, Laravel, AWS | Rio de Janeiro/RJ
+Accellog Global Technology | http://accellog.com/ | VueJS, Vuex, Node, Spring Boot, PHP, AWS, Azure, Heroku | Maringá/PR
 Adapcon | http://www.adapcon.com.br/ | Vue, Vuex, Node, Amazon AWS | Jaraguá do Sul/SC
 AgileTI | http://agileti.com.br | Vue, Vuex, VueRouter, Quasar, Axios | Gurupi/TO
 Anima Educação | http://www.animaeducacao.com.br/ | Vue, ASPNET, Laravel | Belo Horizonte/MG
