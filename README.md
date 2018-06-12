@@ -107,6 +107,7 @@ Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
 Debate 3D | https://debate3d.com.br/ | Vue, Vue Apollo, NodeJS, Postgres e GraphQL
 Evolutio | http://evolutio.io/ | Vue, Nuxt, Django
 Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
+Gerador de Declaração de Conteúdo | https://www.escoladeecommerce.com/ferramentas/declaracao-conteudo | Vue, Laravel
 ICC (Parcial) | https://news.microsoft.com/pt-br/atento-utiliza-inteligencia-artificial-da-microsoft-para-entender-perfil-consumidor/ | Vue, Vuex, Vuetify
 Mandado Aberto | https://nosso.mandatoaberto.com.br/ | Vue, Vuex, Perl
 Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
