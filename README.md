@@ -33,9 +33,10 @@ Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
 Escavador | https://www.escavador.com | Vue, Laravel, Php, Python, MySQL  | Salvador/BA
 EzDevs | http://ezdevs.com.br | Vue, .net core, Node, Mongo, Ionic, React native, MySql, Firebase, | Bauru/SP
 Facilite | https://facilite.online | Vue, Firebase | Jaraguá do Sul/SC
+Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 Fatec Taquaritinga | http://www.fatectq.edu.br/ | Vue, Vuex, Nuxt, Node | Taquaritinga/SP
 FLAGCX | https://facebook.com/flagcx/ | Vue, Vuex, Nuxt, Node | São Paulo/SP
-Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
+FESC Tecnologia | http://www.fesctecnologia.com.br/ | Vue, Vuex, Vue-router, Nuxt | Joinville/SC
 Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 HiMaker | http://http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
