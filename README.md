@@ -40,6 +40,7 @@ Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Ar
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 HiMaker | http://http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
+iMasters | https://imasters.com.br/ | Vue, Vuex, VueRouter, Laravel, Electron | São Paulo/SP
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Florianópolis/SC
 Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, .net | Belo Horizonte
 iTFLEX Tecnologia Ltda | https://www.itflex.com.br/ | Vue, Python, MongoDB, Linux | Joinville/SC
