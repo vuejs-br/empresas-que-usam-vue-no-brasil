@@ -71,6 +71,7 @@ O Boticário | http://www.boticario.com.br/ | Vuejs | Registro/SP
 O Postador | https://www.opostador.com.br/ | Vuejs, Vuex, PWA, Laravel, PHP | Jaraguá do Sul/SC
 Octadesk | https://www.octadesk.com | Vue, AngularJS, Angular, Polymer, Node, C#, .Net Core, Docker, MongoDB | São Paulo/SP
 Operand | https://www.operand.com.br | Vue.js, Vuex, VueRouter, Axios, PHP, Phalcon PHP, Node.js, MariaDB, Redis, Memcached | Joinville/SC
+PAX | https://paxexpress.com.br/ | Vue, Quasar, Nuxt, NodeJS, MongoDB | São Paulo/SP
 Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel, WordPress | Rio de Janeiro/RJ
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
 Plugae | https://www.plugae.com.br | Laravel, NodeJS, PostreSQL, Vue | Barueri/SP
