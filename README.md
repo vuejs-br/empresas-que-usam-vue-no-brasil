@@ -117,6 +117,7 @@ Mandado Aberto | https://nosso.mandatoaberto.com.br/ | Vue, Vuex, Perl
 Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
 OdontoPrev | https://loja.odontoprevonline.com.br/#/?sku=vip | Vue, Vuex, Vue Router, etc...
 Operand Is Cool | http://iscool.operand.com.br/ | PHP, Phalcon Framework, Vue, Axios
+PAX | https://paxexpress.com.br/ | Vue, Quasar, Nuxt, NodeJS, MongoDB | São Paulo/SP
 PegaBot | https://pegabot.com.br/ | Vue, Node
 RadioterapiaIrradiarPWA | https://radioterapiairradiar.com.br/app | Quasar, Vue, PWA
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
