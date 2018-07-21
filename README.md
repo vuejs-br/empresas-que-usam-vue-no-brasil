@@ -93,6 +93,7 @@ Softbox | http://www.softbox.com.br/ | Vue, Vuex, Angular, Node, Java, PHP, Pyth
 Sorte7 | http://www.sorte7.com.br/ | Node
 STORED E-commerce | http://stored.com.br/ | Vue, Vuex, Nuxt, Node | Ribeiro Preto/SP
 Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, Python, Machine learning, Visão computacional | São Paulo / remoto
+Sysvale Softgroup | http://sysvale.com/ | Vue, Laravel, Mongodb, Cordova, React Native, Linux | Juazeiro/BA
 TradeUp Group | http://www.tradeupgroup.com.br/ | Vue, Vuex, Laravel, MongoDB, AWS, React Native | Barueri/SP
 uMov.me | http://www.umov.me/ | Vue, Java, Ruby, Go, Swift, Kotlin | Porto Alegre, RS
 Unimake Software |http://www.unimake.com.br/ | Vue, PHP, C#, EXT.NET, Xamarin, ASP.NET | Paranavaí, Campo Mourão / PR
