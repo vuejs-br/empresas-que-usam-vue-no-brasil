@@ -16,6 +16,7 @@ B2rent | http://b2rent.com.br/ | Laravel, TypeScript, Sass, Node | Fortaleza/CE
 BeautyDate | https://beautydate.com.br/ | Vue, Angular, Docker, Google Cloud, JSONAPI | Curitiba/PR
 BizCapital | https://bizcap.com.br/ | Vue, Vuex, Quazar, Django, Zappa, AWS Lambda | Rio de Janeiro/RJ
 Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
+CAJU | https://cajusistemas.com.br/ | Vue, Vuex, Axios, Laravel | Parnaíba/PI
 Conta Sob Controle | https://contasobcontrole.com.br/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Convenia | https://www.convenia.com.br | Vue, Vuex, Axios, Laravel, GraphQL | São Paulo/SP
 Cotabox | https://www.cotabox.com.br | Vue, Vuex, Vue Apollo, Nuxt, NodeJS, GraphQL, MongoDB, ElasticSearch, Azure | São Paulo/SP
@@ -111,6 +112,7 @@ Nome | Link | Tecnologias
 ------------ | ------- | ------------
 Cargill Chatbot by Sorte7 | https://bruno222.github.io/bot-cargillprev/#/
 Debate 3D | https://debate3d.com.br/ | Vue, Vue Apollo, NodeJS, Postgres e GraphQL
+APP e-Colégio | https://servodprcaju.com/ | Vue, Vuex e Laravel
 Evolutio | http://evolutio.io/ | Vue, Nuxt, Django
 Fatec Dev Day | http://www.fatecdevday.com.br/ | Vue, Vuex, Nuxt
 Gerador de Declaração de Conteúdo | https://www.escoladeecommerce.com/ferramentas/declaracao-conteudo | Vue, Laravel
