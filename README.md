@@ -11,6 +11,7 @@ Amo | http://amo.delivery/ | Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ,
 App2Sales | http://app2sales.com/ | Laravel, Vue, React, Electron, Firebase, Heroku | Feira de Santana/BA
 AppCívico | https://appcivico.com/ | Vue, Vuex, React, React Native, Netlify, Perl | São Paulo/SP
 ARPNET | http://arpnet.biz/ | Laravel & Vue.js, ASPNET, VB.net, SQLServer | Teresina/PI
+Asser Data | http://asserdata.tech/ | VueJS, Nuxt.JS | Garanhuns/PE
 AutoSeg | http://autoseg.com/ | Ruby on Rails, Vue, Electron | São Paulo/SP
 B2rent | http://b2rent.com.br/ | Laravel, TypeScript, Sass, Node | Fortaleza/CE
 BeautyDate | https://beautydate.com.br/ | Vue, Angular, Docker, Google Cloud, JSONAPI | Curitiba/PR
