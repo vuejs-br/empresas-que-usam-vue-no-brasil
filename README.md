@@ -103,6 +103,7 @@ Unimake Software |http://www.unimake.com.br/ | Vue, PHP, C#, EXT.NET, Xamarin, A
 UDS Tecnologia |https://uds.com.br/ | Vue, Laravel, Java, PHP, C# | Maringá / PR
 URCAMP |https://www.urcamp.edu.br/ | Vue, Laravel, Postgres | Bagé / RS
 Virtual Age | http://www.virtualage.com.br/ | Electron
+W3 Automação e Sistemas | http://w3as.com.br | Vue, Electron-Vue, NodeJs, .Net Core, Java, Vuex, SQLServer | Belém/PA
 Yapay | https://www.yapay.com.br/ | Vue, Vuex, Axios, Ruby, Lodash | Marília - SP
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
 Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Uberlândia/MG
@@ -123,6 +124,7 @@ Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervid
 OdontoPrev | https://loja.odontoprevonline.com.br/#/?sku=vip | Vue, Vuex, Vue Router, etc...
 Operand Is Cool | http://iscool.operand.com.br/ | PHP, Phalcon Framework, Vue, Axios
 PegaBot | https://pegabot.com.br/ | Vue, Node
+QTube | https://github.com/iagocavalcante/qtube | Electron, Vue, Quasar, NodeJs
 RadioterapiaIrradiarPWA | https://radioterapiairradiar.com.br/app | Quasar, Vue, PWA
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
 Salic | http://salic.cultura.gov.br | Vue.2, PHP, Zend Framework
