@@ -53,7 +53,7 @@ Just Digital | http://www.justdigital.com.br | Node, PHP | São Paulo/SP
 Keycar | http://www.keycar.com.br/ | Vue, VueRouter, Laravel, Node, AWS, Java, Kotlin, Swift, Python, PHP, Docker, MongoDB | Santos/SP
 Kino Contabilidade Online | https://sejakino.com.br | Vue, Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA | Belo Horizonte/MG
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
-LegalLabs | http://legalabs.com.br/ | Node, Vue, Vuex, Rethinkdb | Brasília/DF
+Legal Labs | http://legalabs.com.br/ | Node, Vue, Vuex, Vue-Apollo, GraphQL, Quasar, Rethinkdb, AWS, PostgreSQL, Python, Ruby on Rails, Kubernetes | Brasília/DF
 Let's Grow Sistemas | http://www.letsgrow.com.br/ | Vue, Vuex, Laravel, PostgreSQL | Guarapuava/PR
 Leosoft | http://leosoft.com.br | Vue, Vuex, Ruby | Francisco Beltrão/PR
 Licitaplus | https://licitaplus.com.br/ | Nodejs, Phantomjs, Vue, Laravel | Maringá/PR
