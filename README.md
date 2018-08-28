@@ -121,6 +121,7 @@ Gerador de Declaração de Conteúdo | https://www.escoladeecommerce.com/ferrame
 ICC (Parcial) | https://news.microsoft.com/pt-br/atento-utiliza-inteligencia-artificial-da-microsoft-para-entender-perfil-consumidor/ | Vue, Vuex, Vuetify
 Mandado Aberto | https://nosso.mandatoaberto.com.br/ | Vue, Vuex, Perl
 Meu Rio Vale um Webdoc | http://www.meuriovaleumwebdoc.com.br/ | Vue.1, Hipervideo
+Nashios: Discover the people behind the products you love | https://nashios.com/ | Vue, Node, Github API
 OdontoPrev | https://loja.odontoprevonline.com.br/#/?sku=vip | Vue, Vuex, Vue Router, etc...
 Operand Is Cool | http://iscool.operand.com.br/ | PHP, Phalcon Framework, Vue, Axios
 PegaBot | https://pegabot.com.br/ | Vue, Node
