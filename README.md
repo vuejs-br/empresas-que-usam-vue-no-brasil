@@ -112,6 +112,7 @@ Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS,
 Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Uberlândia/MG
 128Bits | http://128bits.cc/  | Django, PostgreSQL, VueJs,Vuex  | Teresina-PI
 7Virtual | http://7virtual.com.br/  | Entity(C#), SQLServer, VueJs, Quasar  | Serrinha-BA
+
 ## Projetos que usam Vue.js no Brasil
 
 Nome | Link | Tecnologias
