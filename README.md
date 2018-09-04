@@ -14,6 +14,7 @@ ARPNET | http://arpnet.biz/ | Laravel & Vue.js, ASPNET, VB.net, SQLServer | Tere
 Asser Data | http://asserdata.tech/ | VueJS, Nuxt.JS | Garanhuns/PE
 AutoSeg | http://autoseg.com/ | Ruby on Rails, Vue, Electron | São Paulo/SP
 B2rent | http://b2rent.com.br/ | Laravel, TypeScript, Sass, Node | Fortaleza/CE
+Baghome | https://baghome.com.br/ | Vue, Vuex, Nuxt, Node, Express, MongoDB, AWS | Teresina/PI
 BeautyDate | https://beautydate.com.br/ | Vue, Angular, Docker, Google Cloud, JSONAPI | Curitiba/PR
 BizCapital | https://bizcap.com.br/ | Vue, Vuex, Quazar, Django, Zappa, AWS Lambda | Rio de Janeiro/RJ
 Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
