@@ -96,6 +96,7 @@ Signa Consultoria | http://www.signainfo.com.br/ | Vue, Node.js, ReactN Native, 
 Sistema Athos | http://www.sistemaathos.com.br | Vue, Laravel, MySQL | São José dos Campos - SP
 Softbox | http://www.softbox.com.br/ | Vue, Vuex, Angular, Node, Java, PHP, Python, MongoDB  | Uberlândia/MG
 Sorte7 | http://www.sorte7.com.br/ | Node
+Sovis | https://www.sovis.com.br/ | Vue, Angular, NativeScript, TotalCross, Java, Spring, MySQL | Cascavel/PR
 STORED E-commerce | http://stored.com.br/ | Vue, Vuex, Nuxt, Node | Ribeiro Preto/SP
 Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, Python, Machine learning, Visão computacional | São Paulo / remoto
 Sysvale Softgroup | http://sysvale.com/ | Vue, Laravel, Mongodb, Cordova, React Native, Linux | Juazeiro/BA
