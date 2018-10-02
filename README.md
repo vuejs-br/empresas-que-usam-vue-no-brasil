@@ -64,6 +64,7 @@ Magnetis | https://magnetis.com.br | Vue, Ruby on Rails, Heroku, PWA | São Paul
 Melhor Envio | http://melhorenvio.com.br | Vue, Laravel | Pelotas/RS
 Mercado Eletrônico | https://me.com.br | Vue, Vuex, Vue Router, ASP.NET | São Paulo/SP
 MG Papelaria | http://mgpapelaria.com.br | Vue, Quasar, Laravel e PostgreSQL | Sinop/MT
+Neoassist | https://site.neoassist.com/ | Vue, Vuex, Vue Router, PWA | Bauru/SP
 mLearn | https://mlearn.com.br/ | Vue, Laravel/Lumen | Belo Horizonte/MG
 Moip | https://moip.com.br/ | Vue, Ruby, Java, AWS | São Paulo/SP
 Monk | https://agmonk.com/ | Vue, Vuex, Laravel | Maringá/PR
