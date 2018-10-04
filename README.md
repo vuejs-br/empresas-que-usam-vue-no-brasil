@@ -137,6 +137,7 @@ QTube | https://github.com/iagocavalcante/qtube | Electron, Vue, Quasar, NodeJs
 RadioterapiaIrradiarPWA | https://radioterapiairradiar.com.br/app | Quasar, Vue, PWA
 Redes Estratégicas | https://www.redesestrategicassus.org/ | Vue.1, Hipervideo
 Salic | http://salic.cultura.gov.br | Vue.2, PHP, Zend Framework
+School | https://github.com/emtudo/school-spa | Vue, PHP, Laravel
 Treinar Front-End | https://www.treinarfrontend.com | Vue, Laravel
 VagasCG | https://vagascg.com.br/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, DigitalOcean, Google Cloud Plataform
 Viesualizen | https://github.com/danilowoz/Visualizen
