@@ -102,6 +102,7 @@ Sovis | https://www.sovis.com.br/ | Vue, Angular, NativeScript, TotalCross, Java
 STORED E-commerce | http://stored.com.br/ | Vue, Vuex, Nuxt, Node | Ribeiro Preto/SP
 Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, Python, Machine learning, Visão computacional | São Paulo / remoto
 Sysvale Softgroup | http://sysvale.com/ | Vue, Laravel, Mongodb, Cordova, React Native, Linux | Juazeiro/BA
+TecnoSpeed S.A | https://tecnospeed.com.br/ | Vue, Nuxt, Vuex, AWS, Node, Go, React | Maringá/PR
 TradeUp Group | http://www.tradeupgroup.com.br/ | Vue, Vuex, Laravel, MongoDB, AWS, React Native | Barueri/SP
 uMov.me | http://www.umov.me/ | Vue, Java, Ruby, Go, Swift, Kotlin | Porto Alegre, RS
 Unimake Software |http://www.unimake.com.br/ | Vue, PHP, C#, EXT.NET, Xamarin, ASP.NET | Paranavaí, Campo Mourão / PR
