@@ -85,6 +85,7 @@ Polisystem | http://www.polisystem.com.br/ | Vuejs, Vuex, Vue-Apollo, GraphQl, N
 Precisão Sistemas | http://www.precisaosistemas.com.br | Vue, Vuex, Angular 1.x, Electron | Jales/SP
 PRODAM | http://www.prodam.com.br/ | Vue, Vuex, PWA, Java, PHP, WordPress, Javascript, Node, Go | Manaus/AM
 Prodweb | https://www.prodweb.com.br/ | Vue, Vuex | Passa Quatro/MG
+Quero Educação | https://quero.education | Vue, Vuex, Vue Router, Nuxt, Jest | São José dos Campos/SP
 Raro Labs | https://rarolabs.com.br/ | Vue, Vuex, Angular, Node, Ruby on Rails | Belo Horizonte/MG
 RealizaTI | http://realizati.com.br | Vue, Vuex, NodeJS, PostgreSQL | Porto Seguro/BA
 Rebuut Criação e Comunicação Digital | https://www.rebuut.com.br/ | PHP, Vue, Laravel, MySQL, AWS | São José do Rio Preto/SP
