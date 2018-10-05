@@ -19,6 +19,7 @@ BeautyDate | https://beautydate.com.br/ | Vue, Angular, Docker, Google Cloud, JS
 BizCapital | https://bizcap.com.br/ | Vue, Vuex, Quazar, Django, Zappa, AWS Lambda | Rio de Janeiro/RJ
 Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
 Cálculo Juridico | https://calculojuridico.com.br/ | Vue, Ruby on Rails, Postgres, Docker, Heroku | Curitiba/PR
+Codions | https://codions.com | Vue, Node, Quasar, PHP, Laravel, GraphQL, Docker | São Luís/MA
 Conta Sob Controle | https://contasobcontrole.com.br/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Convenia | https://www.convenia.com.br | Vue, Vuex, Axios, Laravel, GraphQL | São Paulo/SP
 Cotabox | https://www.cotabox.com.br | Vue, Vuex, Vue Apollo, Nuxt, NodeJS, GraphQL, MongoDB, ElasticSearch, Azure | São Paulo/SP
