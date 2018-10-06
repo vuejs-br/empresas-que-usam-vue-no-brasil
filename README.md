@@ -17,6 +17,7 @@ B2rent | http://b2rent.com.br/ | Laravel, TypeScript, Sass, Node | Fortaleza/CE
 Baghome | https://baghome.com.br/ | Vue, Vuex, Nuxt, Node, Express, MongoDB, AWS | Teresina/PI
 BeautyDate | https://beautydate.com.br/ | Vue, Angular, Docker, Google Cloud, JSONAPI | Curitiba/PR
 BizCapital | https://bizcap.com.br/ | Vue, Vuex, Quazar, Django, Zappa, AWS Lambda | Rio de Janeiro/RJ
+Brazil Paralelo | https://www.brasilparalelo.com.br/ | Vue, Vuex, Nuxt | Porto Alegre/RS
 Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
 Cálculo Juridico | https://calculojuridico.com.br/ | Vue, Ruby on Rails, Postgres, Docker, Heroku | Curitiba/PR
 Conta Sob Controle | https://contasobcontrole.com.br/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
