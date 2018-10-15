@@ -53,7 +53,7 @@ iTFLEX Tecnologia Ltda | https://www.itflex.com.br/ | Vue, Python, MongoDB, Linu
 INTI | https://www.byinti.com/ | Vue, Vuex, Vue-Router, SPA, Quasar-Framework, WebPack, Yii2 | São Paulo/SP
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP | São Paulo/SP
-Kazap | http://www.kazap.com.br | Node, VueJs, Vuex, Vue-Router, GraphQL, Ruby on Rails, React, Docker, MongoDB, Axios, Nuxt.js, Vuetify, Dialogflow, Firebase, Electron-Vue, PWA | Mogi Guaçu/Sp
+Kazap | http://www.kazap.com.br | Node, VueJs, Vuex, Vue-Router, GraphQL, Ruby on Rails, React, Docker, MongoDB, Axios, Nuxt.js, Vuetify, Dialogflow, Firebase, Electron-Vue, PWA | Mogi Guaçu/SP
 Keycar | http://www.keycar.com.br/ | Vue, VueRouter, Laravel, Node, AWS, Java, Kotlin, Swift, Python, PHP, Docker, MongoDB | Santos/SP
 Kino Contabilidade Online | https://sejakino.com.br | Vue, Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA | Belo Horizonte/MG
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
