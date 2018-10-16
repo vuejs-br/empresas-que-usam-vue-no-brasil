@@ -42,6 +42,7 @@ Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 Fatec Taquaritinga | http://www.fatectq.edu.br/ | Vue, Vuex, Nuxt, Node | Taquaritinga/SP
 FLAGCX | https://facebook.com/flagcx/ | Vue, Vuex, Nuxt, Node | São Paulo/SP
 FESC Tecnologia | http://www.fesctecnologia.com.br/ | Vue, Vuex, Vue-router, Nuxt | Joinville/SC
+Focus Concursos | http://www.focusconcursos.com.br/ | Vue, Vuex, Vue-router, Axios, Laravel | Cascavel/PR
 Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 HiMaker | http://http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
