@@ -14,6 +14,7 @@ BizCapital | https://bizcap.com.br/ | Vue, Vuex, Quazar, Django, Zappa, AWS Lamb
 Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
 Conta Sob Controle | http://csc.im/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Convenia | https://www.convenia.com.br | Vue, Vuex, Axios, Laravel, GraphQL | São Paulo/SP
+Contabilizei | https://contabilizei.com.br | Vue, Google Cloud, Java, Node.js | Curitiba/PR
 Dataview | http://www.dataview.com.br | Vue, Vuex, VueRouter, Quasar, Axios | Gurupi/TO
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
 Dessis Sistemas | http://dessis.com.br | Vue, Vuex, Quasar, Node, Hapi, Mongo | Jaraguá do Sul/SC
