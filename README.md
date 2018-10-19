@@ -22,8 +22,9 @@ Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
 Cálculo Juridico | https://calculojuridico.com.br/ | Vue, Ruby on Rails, Postgres, Docker, Heroku | Curitiba/PR
 Codions | https://codions.com | Vue, Node, Quasar, PHP, Laravel, GraphQL, Docker | São Luís/MA
 Conta Sob Controle | https://contasobcontrole.com.br/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
-Convenia | https://www.convenia.com.br | Vue, Vuex, Axios, Laravel, GraphQL | São Paulo/SP
+Contabilizei | https://contabilizei.com.br | Vue, Google Cloud, Java, Node.js | Curitiba/PR
 Cotabox | https://www.cotabox.com.br | Vue, Vuex, Vue Apollo, Nuxt, NodeJS, GraphQL, MongoDB, ElasticSearch, Azure | São Paulo/SP
+Convenia | https://www.convenia.com.br | Vue, Vuex, Axios, Laravel, GraphQL | São Paulo/SP
 Dataview | http://www.dataview.com.br | Vue, Vuex, VueRouter, Quasar, Axios | Gurupi/TO
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
 Dessis Sistemas | http://dessis.com.br | Vue, Vuex, Quasar, Node, Hapi, Mongo | Jaraguá do Sul/SC
