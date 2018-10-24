@@ -35,6 +35,7 @@ EduQC | http://eduqc.com.br | Vue, Vuex, Quasar | Brasília/DF
 eMiolo.com | http://emiolo.com | Vue, Vuex, Nuxt, NodeJS, Laravel | Juiz de Fora/MG
 Empari | https://www.empari.com.br/ | Vue, Laravel | Maringá/PR
 Eokoe | https://www.eokoe.com/ | Vue, Vuex, React, React Native, Netlify, Perl | São Paulo/SP
+Eólica Tecnologia | http://eolica.com.br | Vue, Vuex, Nuxt, Django, Docker, PostgreSQL | Recife/PE
 Equals | https://www.equals.com.br/ | Vue, Vuex, Node, AWS  | São Paulo/SP
 Escavador | https://www.escavador.com | Vue, Laravel, Php, Python, MySQL  | Salvador/BA
 EzDevs | http://ezdevs.com.br | Vue, .net core, Node, Mongo, Ionic, React native, MySql, Firebase, | Bauru/SP
