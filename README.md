@@ -89,6 +89,7 @@ Pipoca Digital | https://www.pipocadigital.com.br | Vue, Firebase, Node, Laravel
 Planos Assessoria | https://www.planosassessoria.com.br | Node, MongoDB, PostgreSQL, PHP
 PLING | https://pling.net.br | NodeJS, HapiJS, NextJS, VueJS (vuex), ReactJS, AngularJS 1.x, MongoDB, Go, PWA, Redis, AWS, NGINX | Porto Alegre/RS
 Plugae | https://www.plugae.com.br | Laravel, NodeJS, PostreSQL, Vue | Barueri/SP
+PokerLAB / VFX | https://pokerlab.com.br/ | Vuejs, Vuex, VueFire, Vuetify, Firebase | Maceio/AL
 Polisystem | http://www.polisystem.com.br/ | Vuejs, Vuex, Vue-Apollo, GraphQl, NodeJS | Salvador/BA
 Precisão Sistemas | http://www.precisaosistemas.com.br | Vue, Vuex, Angular 1.x, Electron | Jales/SP
 PRODAM | http://www.prodam.com.br/ | Vue, Vuex, PWA, Java, PHP, WordPress, Javascript, Node, Go | Manaus/AM
