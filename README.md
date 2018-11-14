@@ -45,7 +45,7 @@ Facilite | https://facilite.online | Vue, Firebase | Jaraguá do Sul/SC
 Fagoc | http://fagoc.br | Vue, Vuex, PHP, MySQL | Ubá/MG
 Fatec Taquaritinga | http://www.fatectq.edu.br/ | Vue, Vuex, Nuxt, Node | Taquaritinga/SP
 FLAGCX | https://facebook.com/flagcx/ | Vue, Vuex, Nuxt, Node | São Paulo/SP
-FESC Tecnologia | http://www.fesctecnologia.com.br/ | Vue, Vuex, Vue-router, Nuxt | Joinville/SC
+FESC Tecnologia - Unimed SC | http://www.fesctecnologia.com.br/ | Vue, Vuex, Vue-router, Nuxt | Joinville/SC
 Focus Concursos | http://www.focusconcursos.com.br/ | Vue, Vuex, Vue-router, Axios, Laravel | Cascavel/PR
 Gerenciagram | https://gerenciagram.com.br | Vue, Vuex, Vue Router, Vuetify, Vue-i18n | Feira de Santana/BA
 Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
