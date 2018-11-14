@@ -50,7 +50,7 @@ Focus Concursos | http://www.focusconcursos.com.br/ | Vue, Vuex, Vue-router, Axi
 Gerenciagram | https://gerenciagram.com.br | Vue, Vuex, Vue Router, Vuetify, Vue-i18n | Feira de Santana/BA
 Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
-HiMaker | http://http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
+HiMaker | http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
 iMasters | https://imasters.com.br/ | Vue, Vuex, VueRouter, Laravel, Electron | São Paulo/SP
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Florianópolis/SC
