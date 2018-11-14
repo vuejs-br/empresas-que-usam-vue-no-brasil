@@ -51,6 +51,7 @@ Gerenciagram | https://gerenciagram.com.br | Vue, Vuex, Vue Router, Vuetify, Vue
 Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 HiMaker | http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
+Horsgle | http://www.horsgle.com/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, Linux, DigitalOcean | Blumenau/SC
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
 iMasters | https://imasters.com.br/ | Vue, Vuex, VueRouter, Laravel, Electron | São Paulo/SP
 InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Florianópolis/SC
