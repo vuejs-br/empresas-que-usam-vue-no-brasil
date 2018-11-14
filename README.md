@@ -22,6 +22,7 @@ Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
 Cálculo Juridico | https://calculojuridico.com.br/ | Vue, Ruby on Rails, Postgres, Docker, Heroku | Curitiba/PR
 Chico Rei | https://chicorei.com/ | Vue, Vuex, VueRouter, Axios, Angular, Laravel, NodeJS, PHP, AWS | Juiz de Fora/MG
 Codions | https://codions.com | Vue, Node, Quasar, PHP, Laravel, GraphQL, Docker | São Luís/MA
+Conta Azul | https://contaazul.com | Vue, Vuex, VueRouter, AngularJS, Java, Go, AWS | Joinville/SC e São Paulo/SP
 Conta Sob Controle | https://contasobcontrole.com.br/ | Vue, Vuex, Node, PHP | Astolfo Dutra/MG
 Contabilizei | https://contabilizei.com.br | Vue, Google Cloud, Java, Node.js | Curitiba/PR
 Cotabox | https://www.cotabox.com.br | Vue, Vuex, Vue Apollo, Nuxt, NodeJS, GraphQL, MongoDB, ElasticSearch, Azure | São Paulo/SP
