@@ -6,6 +6,7 @@ Abacomm | http://www.abacomm.com.br | Vue, Vuex, Node, Laravel, AWS | Rio de Jan
 Accellog Global Technology | http://accellog.com/ | VueJS, Vuex, Node, Spring Boot, PHP, AWS, Azure, Heroku | Maringá/PR
 Adapcon | http://www.adapcon.com.br/ | Vue, Vuex, Node, Amazon AWS | Jaraguá do Sul/SC
 AgileTI | http://agileti.com.br | Vue, Vuex, VueRouter, Quasar, Axios | Gurupi/TO
+Angular Ecommerce | http://www.angular-ecommerce.com.br | Vue, Vuex, Webcomponents, Angular, React Native, Python | São Paulo/SP
 Anima Educação | http://www.animaeducacao.com.br/ | Vue, ASPNET, Laravel | Belo Horizonte/MG
 Amo | http://amo.delivery/ | Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ, Hapijs, Firebase pra push | Chapecó/SC
 App2Sales | http://app2sales.com/ | Laravel, Vue, React, Electron, Firebase, Heroku | Feira de Santana/BA
