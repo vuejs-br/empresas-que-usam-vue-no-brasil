@@ -56,7 +56,7 @@ HiMaker | http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
 Horsgle | http://www.horsgle.com/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, Linux, DigitalOcean | Blumenau/SC
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
 iMasters | https://imasters.com.br/ | Vue, Vuex, VueRouter, Laravel, Electron | São Paulo/SP
-InCuca | https://incuca.net/ | Vue, Angular 1.x, Node/Loopack, Wordpress | Florianópolis/SC
+InCuca | https://incuca.net/ | Vue, Node/Loopack, Wordpress | Florianópolis/SC
 Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, .net | Belo Horizonte
 iTFLEX Tecnologia Ltda | https://www.itflex.com.br/ | Vue, Python, MongoDB, Linux | Joinville/SC
 INTI | https://www.byinti.com/ | Vue, Vuex, Vue-Router, SPA, Quasar-Framework, WebPack, Yii2 | São Paulo/SP
