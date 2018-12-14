@@ -50,6 +50,7 @@ FESC Tecnologia - Unimed SC | http://www.fesctecnologia.com.br/ | Vue, Vuex, Vue
 Focus Concursos | http://www.focusconcursos.com.br/ | Vue, Vuex, Vue-router, Axios, Laravel | Cascavel/PR
 Gerenciagram | https://gerenciagram.com.br | Vue, Vuex, Vue Router, Vuetify, Vue-i18n | Feira de Santana/BA
 Grupo Acert | http://www.grupoacert.com.br | Vue, Vuex, Vue Router, Laravel | Araçatuba/SP
+Grupo Zap | http://www.grupozap.com | Vue, Vuex, Vue Router, Backbone, React, Axios, Node, GraphQL, Apollo, Storybook, Docker, Python, AWS, Kubernetes | São Paulo/SP
 Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 HiMaker | http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
 Horsgle | http://www.horsgle.com/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, Linux, DigitalOcean | Blumenau/SC
