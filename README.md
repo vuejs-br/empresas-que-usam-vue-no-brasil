@@ -124,6 +124,7 @@ UDS Tecnologia |https://uds.com.br/ | Vue, Laravel, Java, PHP, C# | Maringá / P
 URCAMP |https://www.urcamp.edu.br/ | Vue, Laravel, Postgres | Bagé / RS
 Virtual Age | http://www.virtualage.com.br/ | Electron
 W3 Automação e Sistemas | http://w3as.com.br | Vue, Electron-Vue, NodeJs, .Net Core, Java, Vuex, SQLServer | Belém/PA
+Wedy | https://wedy.com | Vue, Vuex, Nuxt, GraphQL, Capacitor, Lottie, Testcafe, Webpack | São Leopoldo/RS
 Yapay | https://www.yapay.com.br/ | Vue, Vuex, Axios, Ruby, Lodash | Marília - SP
 Zerum | http://www.zerum.com/ | Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex | Brasília-DF
 Zup | http://www.zup.com.br/ | Vue, Vuex, React, Redux, Angular, ngrx, Node | Uberlândia/MG
