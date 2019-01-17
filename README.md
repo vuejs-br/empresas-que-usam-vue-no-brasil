@@ -123,6 +123,7 @@ Unimake Software |http://www.unimake.com.br/ | Vue, PHP, C#, EXT.NET, Xamarin, A
 UDS Tecnologia |https://uds.com.br/ | Vue, Laravel, Java, PHP, C# | Maringá / PR
 URCAMP |https://www.urcamp.edu.br/ | Vue, Laravel, Postgres | Bagé / RS
 Virtual Age | http://www.virtualage.com.br/ | Electron
+Voxy | https://voxy.com | Vue, Python, Django, Django Rest Framework | São Paulo/SP
 W3 Automação e Sistemas | http://w3as.com.br | Vue, Electron-Vue, NodeJs, .Net Core, Java, Vuex, SQLServer | Belém/PA
 Wedy | https://wedy.com | Vue, Vuex, Nuxt, GraphQL, Capacitor, Lottie, Testcafe, Webpack | São Leopoldo/RS
 Yapay | https://www.yapay.com.br/ | Vue, Vuex, Axios, Ruby, Lodash | Marília - SP
