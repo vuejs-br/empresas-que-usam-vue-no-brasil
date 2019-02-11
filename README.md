@@ -28,6 +28,7 @@ Conta Sob Controle | https://contasobcontrole.com.br/ | Vue, Vuex, Node, PHP | A
 Contabilizei | https://contabilizei.com.br | Vue, Google Cloud, Java, Node.js | Curitiba/PR
 Cotabox | https://www.cotabox.com.br | Vue, Vuex, Vue Apollo, Nuxt, NodeJS, GraphQL, MongoDB, ElasticSearch, Azure | São Paulo/SP
 Convenia | https://www.convenia.com.br | Vue, Vuex, Axios, Laravel, GraphQL | São Paulo/SP
+CNT Sistemas | http://cntsistemas.com.br | Vue, Quasar, Axios, Parcel-Bundler | Gurupi/TO
 Dataview | http://www.dataview.com.br | Vue, Vuex, VueRouter, Quasar, Axios | Gurupi/TO
 DB1 Global Software | https://db1it.com.br/ | Vue, Vuex, Vue Router, Axios, PixiJS, NestJs, Phaser, SocketIO, Redis, AWS, Java, Spring, PostgreSQL, PHP, Laravel, Docker | Maringá/PR
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
