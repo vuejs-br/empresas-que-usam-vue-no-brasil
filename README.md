@@ -117,8 +117,7 @@ Sorte7 | http://www.sorte7.com.br/ | Node
 Sovis | https://www.sovis.com.br/ | Vue, Angular, NativeScript, TotalCross, Java, Spring, MySQL | Cascavel/PR
 STORED E-commerce | http://stored.com.br/ | Vue, Vuex, Nuxt, Node | Ribeiro Preto/SP
 Spacetime Analytics | https://www.spacetimeanalytics.com/ | Vue, AngularJS 1.x, Python, Machine learning, Visão computacional | São Paulo / remoto
-Stelo | http://stelo.com.br | Vue, Nuxt | São Paulo/SP
-Stelo - Portal Cliente | https://portalcliente.stelo.com.br/auth | Vue, Vuex, Axios, java | São Paulo/SP
+Stelo | http://stelo.com.br | Vue, Nuxt, Vuex, Axios, java | São Paulo/SP
 Sysvale Softgroup | http://sysvale.com/ | Vue, Laravel, Mongodb, Cordova, React Native, Linux | Juazeiro/BA
 TecnoSpeed S.A | https://tecnospeed.com.br/ | Vue, Nuxt, Vuex, AWS, Node, Go, React | Maringá/PR
 TradeUp Group | http://www.tradeupgroup.com.br/ | Vue, Vuex, Laravel, MongoDB, AWS, React Native | Barueri/SP
