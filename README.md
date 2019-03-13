@@ -57,6 +57,7 @@ Guiando | http://www.guiandotelecom.com.br/ | Vue, Vuex | Juiz de Fora/MG
 HiMaker | http://himaker.com.br/ | Vue, Vuex, Node, Laravel | Blumenau/SC
 Horsgle | http://www.horsgle.com/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, Linux, DigitalOcean | Blumenau/SC
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
+HunterCo | https://www.hunterco.com.br/ | Vue, Nuxt, Moleculer, Express, Spring, AWS | Joinville/SC 
 iMasters | https://imasters.com.br/ | Vue, Vuex, VueRouter, Laravel, Electron | São Paulo/SP
 InCuca | https://incuca.net/ | Vue, Node/Loopack, Wordpress | Florianópolis/SC
 Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, .net | Belo Horizonte
