@@ -66,6 +66,7 @@ INTI | https://www.byinti.com/ | Vue, Vuex, Vue-Router, SPA, Quasar-Framework, W
 Jardim Digital | https://jardimdigital.com.br | Node, AWS, FeatherJS, PWA | Rio de Janeiro / RJ
 Just Digital | http://www.justdigital.com.br | Node, PHP | São Paulo/SP
 Kazap | http://www.kazap.com.br | Node, VueJs, Vuex, Vue-Router, GraphQL, Ruby on Rails, React, Docker, MongoDB, Axios, Nuxt.js, Vuetify, Dialogflow, Firebase, Electron-Vue, PWA | Mogi Guaçu/SP
+Kratos | https://somoskratos.com.br | Vue, Vuex, Vue-Router, Axios, Java, Spring | Campo Grande/MS
 Keycar | http://www.keycar.com.br/ | Vue, VueRouter, Laravel, Node, AWS, Java, Kotlin, Swift, Python, PHP, Docker, MongoDB | Santos/SP
 Kino Contabilidade Online | https://sejakino.com.br | Vue, Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA | Belo Horizonte/MG
 Laboratorio IMEC | https://www.laboratorioimec.com.br | NodeJS, WP-API | Custódia/PE
