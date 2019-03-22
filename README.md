@@ -34,6 +34,7 @@ DB1 Global Software | https://db1it.com.br/ | Vue, Vuex, Vue Router, Axios, Pixi
 Decision6 | https://decision6.com | Quasar, Node, GraphQL | Rio de Janeiro/RJ
 Dessis Sistemas | http://dessis.com.br | Vue, Vuex, Quasar, Node, Hapi, Mongo | Jaraguá do Sul/SC
 Dito | http://dito.com.br | Vue, Ruby, NodeJS, Mongo, Angular 1.x | Belo Horizonte/MG
+Doc88 | https://doc88.com.br | Vue, Vuex, React, Angular, Node | São Paulo/SP
 DroneMapp | http://dronemapp.com.br | Leaflet, Python | Curitiba/PR
 EBANX | https://ebanx.com | Vue, VueRouter, VueMC, Ruby on Rails, Docker | Curitiba/PR
 EduQC | http://eduqc.com.br | Vue, Vuex, Quasar | Brasília/DF
