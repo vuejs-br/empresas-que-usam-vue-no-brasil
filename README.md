@@ -157,6 +157,7 @@ MeuBuzu | https://play.google.com/store/apps/details?id=com.meubuzu&hl=pt_BR | V
 Nashios: Discover the people behind the products you love | https://nashios.com/ | Vue, Node, Github API
 OdontoPrev | https://loja.odontoprevonline.com.br/#/?sku=vip | Vue, Vuex, Vue Router, etc...
 Operand Is Cool | http://iscool.operand.com.br/ | PHP, Phalcon Framework, Vue, Axios
+OS Agent | https://my.osagent.app | Vue, VueRouter, Vuex, Laravel
 Participe Gestão Urbana | http://participe.gestaourbana.prefeitura.sp.gov.br | Vue, Vuex, VueRouter, PHP
 PegaBot | https://pegabot.com.br/ | Vue, Node
 QTube | https://github.com/iagocavalcante/qtube | Electron, Vue, Quasar, NodeJs
