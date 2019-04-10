@@ -17,6 +17,7 @@ AutoSeg | http://autoseg.com/ | Ruby on Rails, Vue, Electron | São Paulo/SP
 B2rent | http://b2rent.com.br/ | Laravel, TypeScript, Sass, Node | Fortaleza/CE
 Baghome | https://baghome.com.br/ | Vue, Vuex, Nuxt, Node, Express, MongoDB, AWS | Teresina/PI
 BeautyDate | https://beautydate.com.br/ | Vue, Angular, Docker, Google Cloud, JSONAPI | Curitiba/PR
+Beliive | https://beliive.com/ | Vue, Vuex, Python | Remoto
 BizCapital | https://bizcap.com.br/ | Vue, Vuex, Quazar, Django, Zappa, AWS Lambda | Rio de Janeiro/RJ
 Brazil Paralelo | https://www.brasilparalelo.com.br/ | Vue, Vuex, Nuxt | Porto Alegre/RS
 Bulldesk | https://bulldesk.com.br/ | Vue, Laravel | Florianópolis/SC
