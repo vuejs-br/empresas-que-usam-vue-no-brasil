@@ -61,6 +61,7 @@ Horsgle | http://www.horsgle.com/ | Vue, Vuex, NodeJS, ExpressJS, MongoDB, Linux
 Hotmart | https://www.hotmart.com/en/ | Node | Belo Horizonte/MG
 HunterCo | https://www.hunterco.com.br/ | Vue, Nuxt, Moleculer, Express, Spring, AWS | Joinville/SC 
 iMasters | https://imasters.com.br/ | Vue, Vuex, VueRouter, Laravel, Electron | São Paulo/SP
+It Happens - Grupo Mateus | https://web.grupomateus.com.br/ | Vue, React, React Native, Node, Django, Flask, Spring, Qt/C++, Docker | São Luís/MA
 InCuca | https://incuca.net/ | Vue, Node/Loopack, Wordpress | Florianópolis/SC
 Itexto | http://www.itexto.com.br | Node, Java, Grails, PHP, Wordpress, mobile, .net | Belo Horizonte
 iTFLEX Tecnologia Ltda | https://www.itflex.com.br/ | Vue, Python, MongoDB, Linux | Joinville/SC
