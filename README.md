@@ -180,7 +180,7 @@ São Paulo/SP
 [Doc88](https://doc88.com.br)  
 Vue, Vuex, React, Angular, Node  
 
-Curitiba/PR
+São Paulo/SP
 
 [DroneMapp](http://dronemapp.com.br)  
 Leaflet, Python  
