@@ -276,6 +276,11 @@ Araçatuba/SP
 [Grupo Acert](http://www.grupoacert.com.br)  
 Vue, Vuex, Vue Router, Laravel  
 
+Campo Mourão/PR
+
+[Grupo Integrado](https://www.grupointegrado.br/)  
+VueJS, Vuex, Vue-Router, NodeJS, PHP, React Native, Docker, Firebase, SQL Server, Google Cloud
+
 São Paulo/SP
 
 [Grupo Zap](http://www.grupozap.com)      
