@@ -582,6 +582,11 @@ Vue, Laravel, MySQL, AWS
 [RG Sistemas](http://rgsistemas.com.br/)  
 Vue, Vuex, Nodejs
 
+Natal/RN
+
+[Rits Tecnologia](https://rits.dev/)
+Vue,React,Laravel,Wordpress,PHP,Python,Java,Ruby,Postgres,AWS
+
 Belo Horizonte, MG
 
 [Rock Content](http://rockcontent.com/)        
