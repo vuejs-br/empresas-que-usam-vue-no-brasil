@@ -584,7 +584,7 @@ Vue, Vuex, Nodejs
 
 Natal/RN
 
-[Rits Tecnologia](https://rits.dev/)
+[Rits Tecnologia](https://rits.dev/)  
 Vue,React,Laravel,Wordpress,PHP,Python,Java,Ruby,Postgres,AWS
 
 Belo Horizonte, MG
