@@ -477,8 +477,8 @@ Vue, Vuex, Nodejs, Vue, Laravel, MySQL, AWS
 _Fortaleza/CE_
 
 [Rits Tecnologia](https://rits.dev/)  
-Vue, React, Laravel, Wordpress, PHP, Python, Java, Ruby, Postgres, AWS  
-_Natal/RN_
+Vue, React, Laravel, Wordpress, PHP, Python, Java, Ruby, Postgres, AWS
+_Belo Horizonte, MG_
 
 [Rock Content](http://rockcontent.com/)        
 Vue, Rails, Postgres, Redis, AWS    
