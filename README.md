@@ -2,742 +2,608 @@
 
 # A
 
-Rio de Janeiro/RJ
-
 [Abacomm](http://www.abacomm.com.br)  
-Vue, Vuex, Node, Laravel, AWS  
-    
-Maringá/PR
+Vue, Vuex, Node, Laravel, AWS    
+_Rio de Janeiro/RJ_    
 
 [Accellog Global Technology](http://accellog.com/)  
-VueJS, Vuex, Node, Spring Boot, PHP, AWS, Azure, Heroku  
-
-Jaraguá do Sul/SC
+VueJS, Vuex, Node, Spring Boot, PHP, AWS, Azure, Heroku    
+_Maringá/PR_
 
 [Adapcon](http://www.adapcon.com.br/)   
-Vue, Vuex, Node, Amazon AWS  
-
-Gurupi/TO
+Vue, Vuex, Node, Amazon AWS    
+_Jaraguá do Sul/SC_
 
 [AgileTI](http://agileti.com.br)  
-Vue, Vuex, VueRouter, Quasar, Axios  
-
-São Paulo/SP
+Vue, Vuex, VueRouter, Quasar, Axios    
+_Gurupi/TO_
 
 [Angular Ecommerce](http://www.angular-ecommerce.com.br)  
-Vue, Vuex, Webcomponents, Angular, React Native, Python  
-
-Belo Horizonte/MG
+Vue, Vuex, Webcomponents, Angular, React Native, Python    
+_São Paulo/SP_
 
 [Anima Educação](http://www.animaeducacao.com.br/)     
-Vue, ASPNET, Laravel  
-
-Chapecó/SC
+Vue, ASPNET, Laravel    
+_Belo Horizonte/MG_
 
 [Amo](http://amo.delivery/)  
-Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ, Hapijs, Firebase pra push  
-
-Feira de Santana/BA
+Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ, Hapijs, Firebase pra push    
+_Chapecó/SC_
 
 [App2Sales](http://app2sales.com/)  
-Laravel, Vue, React, Electron, Firebase, Heroku  
-
-São Paulo/SP
+Laravel, Vue, React, Electron, Firebase, Heroku    
+_Feira de Santana/BA_
 
 [AppCívico](https://appcivico.com/)  
-Vue, Vuex, React, React Native, Netlify, Perl  
-
-Teresina/PI
+Vue, Vuex, React, React Native, Netlify, Perl    
+_São Paulo/SP_
 
 [ARPNET](http://arpnet.biz/)  
-Laravel & Vue.js, ASPNET, VB.net, SQLServer  
-
-Garanhuns/PE
+Laravel & Vue.js, ASPNET, VB.net, SQLServer    
+_Teresina/PI_
 
 [Asser Data](http://asserdata.tech/)  
-VueJS, Nuxt.JS  
-
-São Paulo/SP
+VueJS, Nuxt.JS    
+_Garanhuns/PE_
 
 [AutoSeg](http://autoseg.com/)  
-Ruby on Rails, Vue, Electron  
-
+Ruby on Rails, Vue, Electron    
+_São Paulo/SP_
 
 # B
 
-Fortaleza/CE
-
 [B2rent](http://b2rent.com.br/)   
-Laravel, TypeScript, Sass, Node  
-
-Teresina/PI
+Laravel, TypeScript, Sass, Node    
+_Fortaleza/CE_
 
 [Baghome](https://baghome.com.br/)  
-Vue, Vuex, Nuxt, Node, Express, MongoDB, AWS  
-
-Curitiba/PR
+Vue, Vuex, Nuxt, Node, Express, MongoDB, AWS    
+_Teresina/PI_
 
 [BeautyDate](https://beautydate.com.br/)  
-Vue, Angular, Docker, Google Cloud, JSONAPI  
-
-Remoto
+Vue, Angular, Docker, Google Cloud, JSONAPI    
+_Curitiba/PR_
 
 [Beliive](https://beliive.com/)                   
-Vue, Vuex, Python  
-
-Rio de Janeiro/RJ
+Vue, Vuex, Python    
+_Remoto_
 
 [BizCapital](https://bizcap.com.br/)  
-Vue, Vuex, Quazar, Django, Zappa, AWS Lambda  
-
-Porto Alegre/RS
+Vue, Vuex, Quazar, Django, Zappa, AWS Lambda    
+_Rio de Janeiro/RJ_
 
 [Brazil Paralelo](https://www.brasilparalelo.com.br/)  
-Vue, Vuex, Nuxt  
-
-Florianópolis/SC
+Vue, Vuex, Nuxt    
+_Porto Alegre/RS_
 
 [Bulldesk](https://bulldesk.com.br/)  
-Vue, Laravel  
+Vue, Laravel    
+_Florianópolis/SC_
 
 # C
 
-Curitiba/PR
-
 [Cálculo Juridico](https://calculojuridico.com.br/)  
-Vue, Ruby on Rails, Postgres, Docker, Heroku  
-
-Juiz de Fora/MG
+Vue, Ruby on Rails, Postgres, Docker, Heroku    
+_Curitiba/PR_
 
 [Chico Rei](https://chicorei.com/)    
-Vue, Vuex, VueRouter, Axios, Angular, Laravel, NodeJS, PHP, AWS   
-
-São Luís/MA
+Vue, Vuex, VueRouter, Axios, Angular, Laravel, NodeJS, PHP, AWS     
+_Juiz de Fora/MG_
 
 [Codions](https://codions.com)      
-Vue, Node, Quasar, PHP, Laravel, GraphQL, Docker   
-
-Joinville/SC *&* São Paulo/SP
+Vue, Node, Quasar, PHP, Laravel, GraphQL, Docker     
+_São Luís/MA_
 
 [Conta Azul](https://contaazul.com)       
-Vue, Vuex, VueRouter, AngularJS, Java, Go, AWS  
-
-Astolfo Dutra/MG
+Vue, Vuex, VueRouter, AngularJS, Java, Go, AWS    
+_Joinville/SC *&* São Paulo/SP_
 
 [Conta Sob Controle](https://contasobcontrole.com.br/)  
-Vue, Vuex, Node, PHP  
-
-Curitiba/PR
+Vue, Vuex, Node, PHP    
+_Astolfo Dutra/MG_
 
 [Contabilizei](https://contabilizei.com.br)  
-Vue, Google Cloud, Java, Node.js  
-
-São Paulo/SP
+Vue, Google Cloud, Java, Node.js    
+_Curitiba/PR_
 
 [Cotabox](https://www.cotabox.com.br)  
-Vue, Vuex, Vue Apollo, Nuxt, NodeJS, GraphQL, MongoDB, ElasticSearch, Azure  
-
-São Paulo/SP
+Vue, Vuex, Vue Apollo, Nuxt, NodeJS, GraphQL, MongoDB, ElasticSearch, Azure    
+_São Paulo/SP_
 
 [Convenia](https://www.convenia.com.br)  
-Vue, Vuex, Axios, Laravel, GraphQL  
-
-Gurupi/TO
+Vue, Vuex, Axios, Laravel, GraphQL    
+_São Paulo/SP_
 
 [CNT Sistemas](http://cntsistemas.com.br)  
-Vue, Quasar, Axios, Parcel-Bundler  
+Vue, Quasar, Axios, Parcel-Bundler    
+_Gurupi/TO_
 
 
 # D
 
-Gurupi/TO
-
 [Dataview](http://www.dataview.com.br)  
-Vue, Vuex, VueRouter, Quasar, Axios  
-
-Maringá/PR
+Vue, Vuex, VueRouter, Quasar, Axios    
+_Gurupi/TO_
 
 [DB1 Global Software](https://db1it.com.br/)  
 Vue, Vuex, Vue Router, Axios, PixiJS, NestJs, Phaser, SocketIO, Redis, AWS, Java, Spring, PostgreSQL, PHP, Laravel, Docker  
-
-Rio de Janeiro/RJ
+ _Maringá/PR_
 
 [Decision6](https://decision6.com)    
-Quasar, Node, GraphQL    
-
-Jaraguá do Sul/SC
+Quasar, Node, GraphQL      
+_Rio de Janeiro/RJ_
 
 [Dessis Sistemas](http://dessis.com.br)  
-Vue, Vuex, Quasar, Node, Hapi, Mongo  
-
-Belo Horizonte/MG
+Vue, Vuex, Quasar, Node, Hapi, Mongo    
+_Jaraguá do Sul/SC_
 
 [Dito](http://dito.com.br)  
-Vue, Ruby, NodeJS, Mongo, Angular 1.x  
-
-São Paulo/SP
+Vue, Ruby, NodeJS, Mongo, Angular 1.x    
+_Belo Horizonte/MG_
 
 [Doc88](https://doc88.com.br)  
-Vue, Vuex, React, Angular, Node  
-
-Curitiba/PR
+Vue, Vuex, React, Angular, Node    
+_São Paulo/SP_
 
 [DroneMapp](http://dronemapp.com.br)  
-Leaflet, Python  
+Leaflet, Python    
+_Curitiba/PR_
 
 # E
 
-Curitiba/PR
-
 [EBANX](https://ebanx.com)    
-Vue, VueRouter, VueMC, Ruby on Rails, Docker   
-
-Brasília/DF
+Vue, VueRouter, VueMC, Ruby on Rails, Docker     
+_Curitiba/PR_
 
 [EduQC](http://eduqc.com.br)  
-Vue, Vuex, Quasar  
-
-Juiz de Fora/MG
+Vue, Vuex, Quasar    
+_Brasília/DF_
 
 [eMiolo](http://emiolo.com)      
-Vue, Vuex, Nuxt, NodeJS, Laravel  
-
-Maringá/PR
+Vue, Vuex, Nuxt, NodeJS, Laravel    
+_Juiz de Fora/MG_
 
 [Empari](https://www.empari.com.br/)  
-Vue, Laravel  
-
-São Paulo/SP
+Vue, Laravel    
+_Maringá/PR_
 
 [Eokoe](https://www.eokoe.com/)     
-Vue, Vuex, React, React Native, Netlify, Perl  
-
-Recife/PE
+Vue, Vuex, React, React Native, Netlify, Perl    
+_São Paulo/SP_
 
 [Eólica Tecnologia](http://eolica.com.br)  
-Vue, Vuex, Nuxt, Django, Docker, PostgreSQL  
-
-São Paulo/SP
+Vue, Vuex, Nuxt, Django, Docker, PostgreSQL    
+_Recife/PE_
 
 [Equals](https://www.equals.com.br/)  
-Vue, Vuex, Node, AWS   
-
-Salvador/BA
+Vue, Vuex, Node, AWS     
+_São Paulo/SP_
 
 [Escavador](https://www.escavador.com)      
-Vue, Laravel, Php, Python, MySQL   
-
-Bauru/SP
+Vue, Laravel, Php, Python, MySQL     
+_Salvador/BA_
 
 [EzDevs](http://ezdevs.com.br)  
-Vue, .net core, Node, Mongo, Ionic, React native, MySql, Firebase,  
+Vue, .net core, Node, Mongo, Ionic, React native, MySql, Firebase,    
+_Bauru/SP_
 
 # F
 
-Jaraguá do Sul/SC
-
 [Facilite](https://facilite.online)  
-Vue, Firebase  
-
-Ubá/MG
+Vue, Firebase    
+_Jaraguá do Sul/SC_
 
 [Fagoc](http://fagoc.br)  
-Vue, Vuex, PHP, MySQL  
-
-Taquaritinga/SP
+Vue, Vuex, PHP, MySQL    
+_Ubá/MG_
 
 [Fatec Taquaritinga](http://www.fatectq.edu.br/)   
-Vue, Vuex, Nuxt, Node  
-
-São Paulo/SP
+Vue, Vuex, Nuxt, Node    
+_Taquaritinga/SP_
 
 [FLAGCX](https://facebook.com/flagcx/)     
-Vue, Vuex, Nuxt, Node  
-
-Joinville/SC
+Vue, Vuex, Nuxt, Node    
+_São Paulo/SP_
 
 [FESC Tecnologia - Unimed SC](http://www.fesctecnologia.com.br/)  
-Vue, Vuex, Vue-router, Nuxt  
-
-Cascavel/PR
+Vue, Vuex, Vue-router, Nuxt    
+_Joinville/SC_
 
 [Focus Concursos](http://www.focusconcursos.com.br/)  
-Vue, Vuex, Vue-router, Axios, Laravel  
+Vue, Vuex, Vue-router, Axios, Laravel    
+_Cascavel/PR_
 
 # G
 
-Feira de Santana/BA
-
 [Gerenciagram](https://gerenciagram.com.br)  
-Vue, Vuex, Vue Router, Vuetify, Vue-i18n  
-
-Araçatuba/SP
+Vue, Vuex, Vue Router, Vuetify, Vue-i18n    
+_Feira de Santana/BA_
 
 [Grupo Acert](http://www.grupoacert.com.br)  
-Vue, Vuex, Vue Router, Laravel  
-
-Campo Mourão/PR
+Vue, Vuex, Vue Router, Laravel    
+_Araçatuba/SP_
 
 [Grupo Integrado](https://www.grupointegrado.br/)  
-VueJS, Vuex, Vue-Router, NodeJS, PHP, React Native, Docker, Firebase, SQL Server, Google Cloud
-
-São Paulo/SP
+VueJS, Vuex, Vue-Router, NodeJS, PHP, React Native, Docker, Firebase, SQL Server, Google Cloud    
+_Campo Mourão/PR_
 
 [Grupo Zap](http://www.grupozap.com)      
-Vue, Vuex, Vue Router, Backbone, React, Axios, Node, GraphQL, Apollo, Storybook, Docker, Python, AWS, Kubernetes  
+Vue, Vuex, Vue Router, Backbone, React, Axios, Node, GraphQL, Apollo, Storybook, Docker, Python, AWS, Kubernetes     
+_São Paulo/SP_
 
-Juiz de Fora/MG
 
 [Guiando](http://www.guiandotelecom.com.br/)  
-Vue, Vuex  
+Vue, Vuex    
+_Juiz de Fora/MG_
 
 # H
 
-Blumenau/SC
-
 [HiMaker](http://himaker.com.br/)  
-Vue, Vuex, Node, Laravel  
-
-Blumenau/SC
+Vue, Vuex, Node, Laravel    
+_Blumenau/SC_
 
 [Horsgle](http://www.horsgle.com/)     
-Vue, Vuex, NodeJS, ExpressJS, MongoDB, Linux, DigitalOcean  
-
-Belo Horizonte/MG
+Vue, Vuex, NodeJS, ExpressJS, MongoDB, Linux, DigitalOcean    
+_Blumenau/SC_
 
 [Hotmart](https://www.hotmart.com/en/)    
-Node  
-
-Joinville/SC 
+Vue, Node    
+_Belo Horizonte/MG_
 
 [HunterCo](https://www.hunterco.com.br/)  
-Vue, Nuxt, Moleculer, Express, Spring, AWS  
+Vue, Nuxt, Moleculer, Express, Spring, AWS    
+_Joinville/SC _
 
 # I
 
-São Paulo/SP
-
 [iMasters](https://imasters.com.br/)  
-Vue, Vuex, VueRouter, Laravel, Electron  
-
-Florianópolis/SC
+Vue, Vuex, VueRouter, Laravel, Electron    
+_São Paulo/SP_
 
 [InCuca](https://incuca.net/)   
-Vue, Node/Loopack, Wordpress  
-
-Belo Horizonte
+Vue, Node/Loopack, Wordpress    
+_Florianópolis/SC_
 
 [Itexto](http://www.itexto.com.br)  
-Node, Java, Grails, PHP, Wordpress, mobile, .net  
-
-Joinville/SC
+Node, Java, Grails, PHP, Wordpress, mobile, .net    
+_Belo Horizonte_
 
 [iTFLEX Tecnologia Ltda](https://www.itflex.com.br/)  
-Vue, Python, MongoDB, Linux  
-
-São Paulo/SP
+Vue, Python, MongoDB, Linux    
+_Joinville/SC_
 
 [INTI](https://www.byinti.com/)       
-Vue, Vuex, Vue-Router, SPA, Quasar-Framework, WebPack, Yii2  
+Vue, Vuex, Vue-Router, SPA, Quasar-Framework, WebPack, Yii2    
+_São Paulo/SP_
 
 # J
 
-Rio de Janeiro /RJ
-
 [Jardim Digital](https://jardimdigital.com.br)  
-Node, AWS, FeatherJS, PWA  
-
-São Paulo/SP
+Node, AWS, FeatherJS, PWA    
+_Rio de Janeiro /RJ_
 
 [Just Digital](http://www.justdigital.com.br)  
-Node, PHP  
+Node, PHP    
+_São Paulo/SP_
 
 # K
 
-Mogi Guaçu/SP
-
 [Kazap](http://www.kazap.com.br)  
-Node, VueJs, Vuex, Vue-Router, GraphQL, Ruby on Rails, React, Docker, MongoDB, Axios, Nuxt.js, Vuetify, Dialogflow, Firebase, Electron-Vue, PWA  
-
-Campo Grande/MS
+Node, VueJs, Vuex, Vue-Router, GraphQL, Ruby on Rails, React, Docker, MongoDB, Axios, Nuxt.js, Vuetify, Dialogflow, Firebase,   Electron-Vue, PWA  
+_Mogi Guaçu/SP_
 
 [Kratos](https://somoskratos.com.br)  
-Vue, Vuex, Vue-Router, Axios, Java, Spring  
-
-Santos/SP
+Vue, Vuex, Vue-Router, Axios, Java, Spring    
+_Campo Grande/MS_
 
 [Keycar](http://www.keycar.com.br/)  
-Vue, VueRouter, Laravel, Node, AWS, Java, Kotlin, Swift, Python, PHP, Docker, MongoDB  
-
-Belo Horizonte/MG
+Vue, VueRouter, Laravel, Node, AWS, Java, Kotlin, Swift, Python, PHP, Docker, MongoDB    
+_Santos/SP_
 
 [Kino Contabilidade Online](https://sejakino.com.br)  
-Vue, Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA  
+Vue, Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA    
+_Belo Horizonte/MG_
 
 # L
 
-Custódia/PE
-
 [Laboratorio IMEC](https://www.laboratorioimec.com.br)  
-NodeJS, WP-API  
-
-Brasília/DF
+NodeJS, WP-API    
+_Custódia/PE_
 
 [Legal Labs](http://legalabs.com.br/)  
-Node, Vue, Vuex, Vue-Apollo, GraphQL, Quasar, Rethinkdb, AWS, PostgreSQL, Python, Ruby on Rails, Kubernetes  
+Node, Vue, Vuex, Vue-Apollo, GraphQL, Quasar, Rethinkdb, AWS, PostgreSQL, Python, Ruby on Rails, Kubernetes    
+_Brasília/DF_ 
 
-Guarapuava/PR
 
 [Let's Grow Sistemas](http://www.letsgrow.com.br/)  
-Vue, Vuex, Laravel, PostgreSQL  
-
-Francisco Beltrão/PR
+Vue, Vuex, Laravel, PostgreSQL    
+_Guarapuava/PR_
 
 [Leosoft](http://leosoft.com.br)  
-Vue, Vuex, Ruby  
-
-Maringá/PR
+Vue, Vuex, Ruby    
+_Francisco Beltrão/PR_
 
 [Licitaplus](https://licitaplus.com.br/)  
-Nodejs, Phantomjs, Vue, Laravel  
-
-Recife/PE
+Nodejs, Phantomjs, Vue, Laravel    
+_Maringá/PR_
 
 [LogusTech](https://logus.tech/)       
-Nodejs, Express, Vue, Vuex, Vuetify, PWA, MongoDB, MariaDB, GraphQL, Python, Flask  
-
-Curitiba/PR
+Nodejs, Express, Vue, Vuex, Vuetify, PWA, MongoDB, MariaDB, GraphQL, Python, Flask    
+_Recife/PE_
 
 [LojasKD](https://www.lojaskd.com.br/)  
-Vuejs, Vuex  
-
-Curitiba/PR
+Vuejs, Vuex    
+_Curitiba/PR_
 
 [Logcomex](http://logcomex.com)   
-Vue, Vuex, Laravel  
+Vue, Vuex, Laravel    
+_Curitiba/PR_
 
 # M
 
-São Paulo/SP
-
 [Magnetis](https://magnetis.com.br)  
-Vue, Ruby on Rails, Heroku, PWA  
-
-Pelotas/RS
+Vue, Ruby on Rails, Heroku, PWA    
+_São Paulo/SP_
 
 [Melhor Envio](http://melhorenvio.com.br)  
-Vue, Laravel  
-
-São Paulo/SP
+Vue, Laravel    
+_Pelotas/RS_
 
 [Mercado Eletrônico](https://me.com.br)  
-Vue, Vuex, Vue Router, ASP.NET  
-
-Bauru/SP
+Vue, Vuex, Vue Router, ASP.NET    
+_São Paulo/SP_
 
 [MG Papelaria](http://mgpapelaria.com.br)  
-Vue, Quasar, Laravel e PostgreSQL  
-
-Belo Horizonte/MG
+Vue, Quasar, Laravel e PostgreSQL    
+_Bauru/SP_
 
 [mLearn](https://mlearn.com.br/)  
-Vue, Laravel/Lumen  
-
-São Paulo/SP
+Vue, Laravel/Lumen    
+_Belo Horizonte/MG_
 
 [Moip](https://moip.com.br/)  
-Vue, Ruby, Java, AWS  
-
-Maringá/PR
+Vue, Ruby, Java, AWS    
+_São Paulo/SP_
 
 [Monk](https://agmonk.com/)       
-Vue, Vuex, Laravel  
-
-Blumenau/SC
+Vue, Vuex, Laravel    
+_Maringá/PR_
 
 [Multitherm Sistemas e Automação](http://multitherm.com.br/)  
-Vue, Java  
+Vue, Java    
+_Blumenau/SC_
 
 # N
 
-Sinop/MT
-
 [Neoassist](https://site.neoassist.com/)     
-Vue, Vuex, Vue Router, PWA  
-
-São Paulo/SP
+Vue, Vuex, Vue Router, PWA    
+_Sinop/MT_
 
 [NOALVO](https://midianoalvo.com.br/)     
-Vue, Vuex, Mongo, Redis, Angular 1.x, Node.js, Express, Docker  
-
-Brasília/DF
+Vue, Vuex, Mongo, Redis, Angular 1.x, Node.js, Express, Docker    
+_São Paulo/SP_
 
 [Notoriun Tecnologia](http://www.notoriun.com.br)  
-Vue, Vuex, Mongo, Redis, ArcGIS, PostGIS, GeoServer, ESRI JS, NodeJS  
+Vue, Vuex, Mongo, Redis, ArcGIS, PostGIS, GeoServer, ESRI JS, NodeJS    
+_Brasília/DF_
 
 [Nova M3](http://www.novam3.com)     
-Vue, React, Laravel, CakePHP  Natal RN
+Vue, React, Laravel, CakePHP  Natal RN  
+_Portugal/LX_
 
 # O
 
-Registro/SP
-
 [O Boticário](http://www.boticario.com.br/)  
-Vuejs  
-
-Jaraguá do Sul/SC
+Vuejs    
+_Registro/SP_
 
 [O Postador](https://www.opostador.com.br/)  
-Vuejs, Vuex, PWA, Laravel, PHP  
-
-São Paulo/SP
+Vuejs, Vuex, PWA, Laravel, PHP    
+_Jaraguá do Sul/SC_
 
 [Octadesk](https://www.octadesk.com)    
-Vue, AngularJS, Angular, Polymer, Node, C#, .Net Core, Docker, MongoDB  
-
-Joinville/SC
+Vue, AngularJS, Angular, Polymer, Node, C#, .Net Core, Docker, MongoDB    
+_São Paulo/SP_
 
 [Operand](https://www.operand.com.br)  
-Vue.js, Vuex, VueRouter, Axios, PHP, Phalcon PHP, Node.js, MariaDB, Redis, Memcached  
+Vue.js, Vuex, VueRouter, Axios, PHP, Phalcon PHP, Node.js, MariaDB, Redis, Memcached    
+_Joinville/SC_
 
 # P
 
-São Paulo/SP
-
 [PAX](https://paxexpress.com.br/)  
-Vue, Quasar, Nuxt, NodeJS, MongoDB  
-
-Rio de Janeiro/RJ
+Vue, Quasar, Nuxt, NodeJS, MongoDB    
+_São Paulo/SP_
 
 [Pipoca Digital](https://www.pipocadigital.com.br)  
-Vue, Firebase, Node, Laravel, WordPress  
-
-[Planos Assessoria](https://www.planosassessoria.com.br)  
-Node, MongoDB, PostgreSQL, PHP
-
-Porto Alegre/RS
+[Planos Assessoria](https://www.planosassessoria.com.br)    
+Node, MongoDB, PostgreSQL, PHP, Vue, Firebase, Node, Laravel, WordPress  
+_Rio de Janeiro/RJ_
 
 [PLING](https://pling.net.br)  
-NodeJS, HapiJS, NextJS, VueJS (vuex), ReactJS, AngularJS 1.x, MongoDB, Go, PWA, Redis, AWS, NGINX  
-
-Barueri/SP
+NodeJS, HapiJS, NextJS, VueJS (vuex), ReactJS, AngularJS 1.x, MongoDB, Go, PWA, Redis, AWS, NGINX    
+_Porto Alegre/RS_
 
 [Plugae](https://www.plugae.com.br)  
-Laravel, NodeJS, PostreSQL, Vue  
-
-Maceio/AL
+Laravel, NodeJS, PostreSQL, Vue    
+_Barueri/SP_
 
 [PokerLAB /VFX](https://pokerlab.com.br/)  
-Vuejs, Vuex, VueFire, Vuetify, Firebase  
-
-Salvador/BA
+Vuejs, Vuex, VueFire, Vuetify, Firebase    
+_Maceio/AL_
 
 [Polisystem](http://www.polisystem.com.br/)  
-Vuejs, Vuex, Vue-Apollo, GraphQl, NodeJS  
-
-Jales/SP
+Vuejs, Vuex, Vue-Apollo, GraphQl, NodeJS    
+_Salvador/BA_
 
 [Precisão Sistemas](http://www.precisaosistemas.com.br)  
-Vue, Vuex, Angular 1.x, Electron  
-
-Manaus/AM
+Vue, Vuex, Angular 1.x, Electron    
+_Jales/SP_
 
 [PRODAM](http://www.prodam.com.br/)  
-Vue, Vuex, PWA, Java, PHP, WordPress, Javascript, Node, Go  
-
-Passa Quatro/MG
+Vue, Vuex, PWA, Java, PHP, WordPress, Javascript, Node, Go    
+_Manaus/AM_
 
 [Prodweb](https://www.prodweb.com.br/)  
-Vue, Vuex  
+Vue, Vuex    
+_Passa Quatro/MG_
 
 # Q
 
-São José dos Campos/SP
-
 [Quero Educação](https://quero.education)  
-Vue, Vuex, Vue Router, Nuxt, Jest  
+Vue, Vuex, Vue Router, Nuxt, Jest    
+_São José dos Campos/SP_
 
 # R
 
-Belo Horizonte/MG
-
 [Raro Labs](https://rarolabs.com.br/)  
-Vue, Vuex, Angular, Node, Ruby on Rails  
-
-Porto Seguro/BA
+Vue, Vuex, Angular, Node, Ruby on Rails    
+_Belo Horizonte/MG_
 
 [RealizaTI](http://realizati.com.br)  
-Vue, Vuex, NodeJS, PostgreSQL  
-
-São José do Rio Preto/SP
+Vue, Vuex, NodeJS, PostgreSQL    
+_Porto Seguro/BA_
 
 [Rebuut Criação e Comunicação Digital](https://www.rebuut.com.br/)  
-PHP, Vue, Laravel, MySQL, AWS  
+PHP, Vue, Laravel, MySQL, AWS    
+_São José do Rio Preto/SP_
 
-Fortaleza/CE
+[Reuna](https://reuna.me/)      
+Vue, Laravel, MySQL, AWS
+_Fortaleza/CE_
 
-[Reuna](https://reuna.me/)          
-Vue, Laravel, MySQL, AWS  
-
-[RG Sistemas](http://rgsistemas.com.br/)  
-Vue, Vuex, Nodejs
-
-Natal/RN
+[RG Sistemas](http://rgsistemas.com.br/)    
+Vue, Vuex, Nodejs, Vue, Laravel, MySQL, AWS  
+_Fortaleza/CE_
 
 [Rits Tecnologia](https://rits.dev/)  
-Vue,React,Laravel,Wordpress,PHP,Python,Java,Ruby,Postgres,AWS
-
-Belo Horizonte, MG
+Vue, React, Laravel, Wordpress, PHP, Python, Java, Ruby, Postgres, AWS
+_Belo Horizonte, MG_
 
 [Rock Content](http://rockcontent.com/)        
-Vue, Rails, Postgres, Redis, AWS  
-
+Vue, Rails, Postgres, Redis, AWS    
+_Belo Horizonte, MG_
 
 # S
 
-Fortaleza/CE
-
 [SAS Plataforma de Educação](http://portalsas.com.br)  
-Vue, Vuex, Node, Mongo, AWS  
-
-Porto Alegre/RS
+Vue, Vuex, Node, Mongo, AWS    
+_Fortaleza/CE_
 
 [Schoolastic](http://www.schoolastic-app.com/)   
-Vue, Vuex, Node.js, Java, MySQL, MongoDB  
-
-Brasíli/DF
+Vue, Vuex, Node.js, Java, MySQL, MongoDB    
+_Porto Alegre/RS_
 
 [SERPRO](http://www.serpro.gov.br/)  
-Vue, Vuex, Java, Postgresql  
-
-São Paulo/SP
+Vue, Vuex, Java, Postgresql    
+_Brasíli/DF_
 
 [Signa Consultoria](http://www.signainfo.com.br/)  
-Vue, Node.js, ReactN Native, C#, .NET, NativeScript-Vue  
-
-São José dos Campos/SP
+Vue, Node.js, ReactN Native, C#, .NET, NativeScript-Vue    
+_São Paulo/SP_
 
 [Sistema Athos](http://www.sistemaathos.com.br)  
-Vue, Laravel, MySQL  
-
-Uberlândia/MG
+Vue, Laravel, MySQL    
+_São José dos Campos/SP_
 
 [Softbox](http://www.softbox.com.br/)  
-Vue, Vuex, Angular, Node, Java, PHP, Python, MongoDB   
+Vue, Vuex, Angular, Node, Java, PHP, Python, MongoDB
+_Uberlândia/MG_
 
-[Sorte7](http://www.sorte7.com.br/)  
-Node
-
-Cascavel/PR
+[Sorte7](http://www.sorte7.com.br/)    
+Vue, Node, Vuex, Angular, Node, Java, PHP, Python, MongoDB
+_Uberlândia/MG_
 
 [Sovis](https://www.sovis.com.br/)  
-Vue, Angular, NativeScript, TotalCross, Java, Spring, MySQL  
-
-Ribeiro Preto/SP
+Vue, Angular, NativeScript, TotalCross, Java, Spring, MySQL    
+_Cascavel/PR_
 
 [STORED E-commerce](http://stored.com.br/)  
-Vue, Vuex, Nuxt, Node  
-
-São Paulo / remoto
+Vue, Vuex, Nuxt, Node    
+_Ribeiro Preto/SP_
 
 [Spacetime Analytics](https://www.spacetimeanalytics.com/)       
-Vue, AngularJS 1.x, Python, Machine learning, Visão computacional  
-
-São Paulo/SP
+Vue, AngularJS 1.x, Python, Machine learning, Visão computacional    
+_São Paulo/Remoto_
 
 [Stelo](http://stelo.com.br)  
-Vue, Nuxt, Vuex, Axios, java  
-
-Juazeiro/BA
+Vue, Nuxt, Vuex, Axios, java    
+_São Paulo/SP_
 
 [Sysvale Softgroup](http://sysvale.com/)      
-Vue, Laravel, Mongodb, Cordova, React Native, Linux  
+Vue, Laravel, Mongodb, Cordova, React Native, Linux    
+_Juazeiro/BA_
 
 # T
 
-Maringá/PR
-
 [TecnoSpeed S.A](https://tecnospeed.com.br/)  
-Vue, Nuxt, Vuex, AWS, Node, Go, React 
-
-Barueri/SP
+Vue, Nuxt, Vuex, AWS, Node, Go, React   
+_Maringá/PR_
 
 [TradeUp Group](http://www.tradeupgroup.com.br/)  
-Vue, Vuex, Laravel, MongoDB, AWS, React Native  
+Vue, Vuex, Laravel, MongoDB, AWS, React Native    
+_Barueri/SP_
 
 # U
 
-Porto Alegre, RS
-
 [uMov](http://www.umov.me/)              
-Vue, Java, Ruby, Go, Swift, Kotlin  
-
-Paranavaí, Campo Mourão /PR
+Vue, Java, Ruby, Go, Swift, Kotlin    
+_Porto Alegre, RS_
 
 [Unimake Software](http://www.unimake.com.br/)  
-Vue, PHP, C#, EXT.NET, Xamarin, ASP.NET  
-
-Maringá /PR
+Vue, PHP, C#, EXT.NET, Xamarin, ASP.NET    
+_Paranavaí, Campo Mourão /PR_
 
 [UDS Tecnologia](https://uds.com.br/)  
-Vue, Laravel, Java, PHP, C#  
-
-Bagé /RS
+Vue, Laravel, Java, PHP, C#    
+_Maringá/PR_
 
 [URCAMP](https://www.urcamp.edu.br/)    
-Vue, Laravel, Postgres  
-
-# V
+Vue, Laravel, Postgres    
+_Bagé/RS_
 
 [Virtual Age](http://www.virtualage.com.br/)  
-Electron
-
-São Paulo/SP
+Vue, Electron  
+_São Paulo/SP_
 
 [Voxy](https://voxy.com)    
-Vue, Python, Django, Django Rest Framework  
+Vue, Python, Django, Django Rest Framework    
+_São Paulo/SP_
 
 # W
 
-Belém/PA
-
 [W3 Automação e Sistemas](http://w3as.com.br)  
-Vue, Electron-Vue, NodeJs, .Net Core, Java, Vuex, SQLServer  
-
-São Leopoldo/RS
+Vue, Electron-Vue, NodeJs, .Net Core, Java, Vuex, SQLServer    
+_Belém/PA_
 
 [Wedy](https://wedy.com)   
-Vue, Vuex, Nuxt, GraphQL, Capacitor, Lottie, Testcafe, Webpack  
+Vue, Vuex, Nuxt, GraphQL, Capacitor, Lottie, Testcafe, Webpack    
+_São Leopoldo/RS_
 
 # Y
 
-Marília/SP
-
 [Yapay](https://www.yapay.com.br/)  
-Vue, Vuex, Axios, Ruby, Lodash  
+Vue, Vuex, Axios, Ruby, Lodash    
+_Marília/SP_
 
 
 # Z
 
-Brasília/DF
-
 [Zerum](http://www.zerum.com/)        
-Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex  
-
-Uberlândia/MG
+Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex    
+_Brasília/DF_
 
 [Zup](http://www.zup.com.br/)  
-Vue, Vuex, React, Redux, Angular, ngrx, Node 
+Vue, Vuex, React, Redux, Angular, ngrx, Node   
+_Uberlândia/MG_
 
 
 # 1-9
 
-Teresina/PI
-
 [128Bits](http://128bits.cc/)     
-Django, PostgreSQL, VueJs,Vuex   
-
-Serrinha/BA
+Django, PostgreSQL, VueJs,Vuex     
+_Teresina/PI_
 
 [7Virtual](http://7virtual.com.br/)      
-Entity(C#), SQLServer, VueJs, Quasar   
+Entity(C#), SQLServer, VueJs, Quasar     
+_Serrinha/BA_
