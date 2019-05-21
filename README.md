@@ -478,7 +478,7 @@ _Fortaleza/CE_
 
 [Rits Tecnologia](https://rits.dev/)  
 Vue, React, Laravel, Wordpress, PHP, Python, Java, Ruby, Postgres, AWS .  
-_Natal, RN_ | _São Paulo, SP_ | Miami, EUA
+_Natal, RN | São Paulo, SP | Miami, EUA_
 
 [Rock Content](http://rockcontent.com/)        
 Vue, Rails, Postgres, Redis, AWS    
