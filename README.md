@@ -1,4 +1,21 @@
-### Empresas que usam Vue.js no Brasil
+# Empresas que usam Vue.js no Brasil
+
+##### O que é esta lista?
+Esta lista é uma iniciativa pública que tem o intuito de divulgar o nome de empresas que usam Vue.js de alguma forma. Os dados das empresas são de inteira responsabilidade do usuário que criar o PR e não somos capazes de avaliar o quanto e onde cada empresa usa.
+A lista possui os dados básicos das empresas para que desenvolvedores e contratantes possam ter conhecimento sobre as stacks de cada um e motivar interações entre ambas as partes.
+
+##### O que não é esta lista?
+Uma forma de dizer que o Vue.js é muito difundido ou uma estratégia comercial. Não há qualquer motivação comercial por trás da iniciativa, nem tampouco é um benchmark ou coisa do gênero. A lista não é onde a empresa usa o Vue.js, o site que é listado é apenas uma forma de achar a empresa, como o telefone, rede social, email ou qualquer outro contato tradicional (só que mais legal).
+
+##### Sobre as reponsabilidades em relação à lista
+Os criadores do repositório não tem autoridade para gerenciar à lista. Cada usuário que adicionar uma empresa na lista tem responsabilidade sobre essa informação e nos reservamos o direito de não modificar arbitrariamente nenhuma informação contida na lista.
+
+> Importante:
+>
+> Ao adicionar a empresa na lista é obrigatório que seja avaliado com representantes legais dela se é uma informação que deveria ser compartilhada.
+----
+
+## Lista de empresas
 
 # A
 
