@@ -154,6 +154,10 @@ _Rio de Janeiro/RJ_
 Vue, Vuex, Quasar, Node, Hapi, Mongo    
 _Jaraguá do Sul/SC_
 
+[Dinheirow](https://dinheirow.com.br)  
+Vue, Vuex, Vuetify, Node, PostgreSQL    
+_Vila Velha/ES_
+
 [Dito](http://dito.com.br)  
 Vue, Ruby, NodeJS, Mongo, Angular 1.x    
 _Belo Horizonte/MG_
