@@ -601,6 +601,10 @@ _Belém/PA_
 Vue, Vuex, Nuxt, GraphQL, Capacitor, Lottie, Testcafe, Webpack    
 _São Leopoldo/RS_
 
+[Way2 Technology](https://way2.com.br)   
+Vue, Vuex, Knockout, React, .NET, Oracle    
+_Florianópolis/SC_
+
 # Y
 
 [Yapay](https://www.yapay.com.br/)  
