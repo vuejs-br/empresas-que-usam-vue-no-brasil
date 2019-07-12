@@ -595,6 +595,11 @@ _São Paulo/SP_
 Vue, Python, Django, Django Rest Framework    
 _São Paulo/SP_
 
+# V
+[Varlik Tecnologia](https://varlik.com.br)
+Vue, Vuex, PHP, Laravel, MySQL
+_Natal/RN_
+
 # W
 
 [W3 Automação e Sistemas](http://w3as.com.br)  
