@@ -565,6 +565,10 @@ _Maringá/PR_
 Vue, Vuex, Laravel, MongoDB, AWS, React Native    
 _Barueri/SP_
 
+[Tilix Digital](https://tilix.com/)  
+Vue, Vuex, Node.js, Golang, GraphQL, AWS Lambda, AWS AppSync, AWS DynamoDB, AWS RDS, AWS API Gateway...
+_Barueri/SP_
+
 # U
 
 [uMov](http://www.umov.me/)              
