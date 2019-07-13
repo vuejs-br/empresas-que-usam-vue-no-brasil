@@ -523,6 +523,10 @@ _Brasíli/DF_
 Vue, Node.js, ReactN Native, C#, .NET, NativeScript-Vue    
 _São Paulo/SP_
 
+[SINFO/UFRN](https://info.ufrn.br)
+Vue, Vuex, Java, MySQL
+_Natal/RN_
+
 [Sistema Athos](http://www.sistemaathos.com.br)  
 Vue, Laravel, MySQL    
 _São José dos Campos/SP_
@@ -590,6 +594,11 @@ _São Paulo/SP_
 [Voxy](https://voxy.com)    
 Vue, Python, Django, Django Rest Framework    
 _São Paulo/SP_
+
+# V
+[Varlik Tecnologia](https://varlik.com.br)
+Vue, Vuex, PHP, Laravel, MySQL
+_Natal/RN_
 
 # W
 
