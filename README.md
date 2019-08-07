@@ -620,6 +620,10 @@ _Florianópolis/SC_
 
 # Y
 
+[Yampi](https://www.yampi.com.br/)  
+Vue, Vuex, Axios, Laravel, AWS    
+_Ibitinga/SP_
+
 [Yapay](https://www.yapay.com.br/)  
 Vue, Vuex, Axios, Ruby, Lodash    
 _Marília/SP_
