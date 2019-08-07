@@ -560,7 +560,7 @@ Vue, Laravel, Mongodb, Cordova, React Native, Linux
 _Juazeiro/BA_
 
 [Stilingue Inteligencia Artificial](https://stilingue.com.br/)      
-Vue, Vuex, VueRouter, Data Mining, Natural Language Processing, Computer Vision
+Vue, Vuex, VueRouter, Data Mining, Natural Language Processing, Computer Vision    
 _Ouro Preto/MG & São Paulo/SP_
 
 # T
