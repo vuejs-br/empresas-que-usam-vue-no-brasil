@@ -281,6 +281,10 @@ _Joinville/SC _
 Vue, Vuex, VueRouter, Laravel, Electron    
 _São Paulo/SP_
 
+[Incorp Tecnology](https://incorptech.com.br/)   
+Quasar, Vue, Vuex, Vue-Router, Laravel, Dusk, MariaDB, PWA, PostgreSQL, Docker, Codeship, OneFlow, AWS
+_Recife/PE_
+
 [InCuca](https://incuca.net/)   
 Vue, Node/Loopack, Wordpress    
 _Florianópolis/SC_
