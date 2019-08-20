@@ -303,7 +303,7 @@ _São Paulo/SP_
 
 [Inflor](https://www.inflor.com.br/)       
 Vue, Vuex, Vue-Router, Vuetify, Webpack, GraphQL, .NET
-_Espírito Santo/ES_
+_Vitória/ES_
 
 # J
 
