@@ -302,7 +302,7 @@ Vue, Vuex, Vue-Router, SPA, Quasar-Framework, WebPack, Yii2
 _São Paulo/SP_
 
 [Inflor](https://www.inflor.com.br/)       
-Vue, Vuex, Vue-Router, Vuetify, Webpack, GraphQL, .NET
+Vue, Vuex, Vue-Router, Vuetify, Webpack, GraphQL, .NET    
 _Vitória/ES_
 
 # J
