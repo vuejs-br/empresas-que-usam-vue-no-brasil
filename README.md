@@ -291,7 +291,7 @@ _Florianópolis/SC_
 
 [Itexto](http://www.itexto.com.br)  
 Node, Java, Grails, PHP, Wordpress, mobile, .net    
-_Belo Horizonte_
+_Belo Horizonte/MG_
 
 [iTFLEX Tecnologia Ltda](https://www.itflex.com.br/)  
 Vue, Python, MongoDB, Linux    
