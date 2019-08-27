@@ -507,11 +507,11 @@ _Fortaleza/CE_
 
 [Rits Tecnologia](https://rits.dev/)  
 Vue, React, Laravel, Wordpress, PHP, Python, Java, Ruby, Postgres, AWS .  
-_Natal, RN | São Paulo, SP | Miami, EUA_
+_Natal/RN | São Paulo/SP | Miami/EUA_
 
 [Rock Content](http://rockcontent.com/)        
 Vue, Rails, Postgres, Redis, AWS    
-_Belo Horizonte, MG_
+_Belo Horizonte/MG_
 
 # S
 
@@ -589,11 +589,11 @@ _Barueri/SP_
 
 [uMov](http://www.umov.me/)              
 Vue, Java, Ruby, Go, Swift, Kotlin    
-_Porto Alegre, RS_
+_Porto Alegre/RS_
 
 [Unimake Software](http://www.unimake.com.br/)  
 Vue, PHP, C#, EXT.NET, Xamarin, ASP.NET    
-_Paranavaí, Campo Mourão /PR_
+_Paranavaí/PR | Campo Mourão/PR_
 
 [UDS Tecnologia](https://uds.com.br/)  
 Vue, Laravel, Java, PHP, C#    
