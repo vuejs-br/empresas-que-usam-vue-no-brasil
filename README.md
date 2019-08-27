@@ -89,6 +89,10 @@ _Remoto_
 Vue, Vuex, Quazar, Django, Zappa, AWS Lambda    
 _Rio de Janeiro/RJ_
 
+[Boxnet](http://www.boxnet.com.br)  
+Vue, Vuex, Vuetify, Node, Phyton, C#, AWS Lambda
+_Porto Alegre/RS_
+
 [Brazil Paralelo](https://www.brasilparalelo.com.br/)  
 Vue, Vuex, Nuxt    
 _Porto Alegre/RS_
