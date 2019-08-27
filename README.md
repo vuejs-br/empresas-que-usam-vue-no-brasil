@@ -144,7 +144,7 @@ _Gurupi/TO_
 
 [DB1 Global Software](https://db1it.com.br/)  
 Vue, Vuex, Vue Router, Axios, PixiJS, NestJs, Phaser, SocketIO, Redis, AWS, Java, Spring, PostgreSQL, PHP, Laravel, Docker  
- _Maringá/PR_
+_Maringá/PR_
 
 [Decision6](https://decision6.com)    
 Quasar, Node, GraphQL      
