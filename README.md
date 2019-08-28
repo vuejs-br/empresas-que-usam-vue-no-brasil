@@ -448,13 +448,13 @@ _Joinville/SC_
 Vue, Quasar, Nuxt, NodeJS, MongoDB    
 _São Paulo/SP_
 
-[Pine](https://www.pine.com/)
-Vue, VueRouter, Angular, Docker, MongoDB, C#, .Net Core
-_São Paulo/SP_
+[Pine](https://www.pine.com)    
+Vue, VueRouter, Angular, Docker, MongoDB, C#, .Net Core    
+_São Paulo/SP_    
 
-[Pipoca Digital](https://www.pipocadigital.com.br)
-Vue
-_Rio de Janeiro/RJ | São Paulo/SP_
+[Pipoca Digital](https://www.pipocadigital.com.br)    
+Vue    
+_Rio de Janeiro/RJ | São Paulo/SP_    
 
 [Planos Assessoria](https://www.planosassessoria.com.br)    
 Node, MongoDB, PostgreSQL, PHP, Vue, Firebase, Node, Laravel, WordPress  
