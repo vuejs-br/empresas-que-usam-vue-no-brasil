@@ -113,6 +113,11 @@
           </v-flex>
         </v-layout>
       </v-expand-transition>
+      <v-layout>
+        <v-flex class="capition grey--text" v-if="filteredCompanies.length !== 0">
+          {{ filteredCompanies.lenght }} {{ badge > 1 || companyName !== '' ? 'Empresas cadastradas' : 'Empresas filtradas' }}
+        </v-flex>
+      </v-layout>
       <CompanyRow :item="company" v-for="(company, index) in filteredCompanies" :key="index" :anchor="calculateAnchor(index)"/>
       <v-layout v-if="filteredCompanies.length === 0">
         <v-flex class="text-center grey--text">
@@ -251,23 +256,41 @@ export default {
     },
     filteredCompanies () {
       const nameRegex = new RegExp(this.companyName, 'i')
+      const hasAddress = [...this.state, ...this.city].length > 0
       return this.badge === 0 && this.companyName === '' ? this.companies : this.companies.filter(company => {
-        let isFilter = this.remote ? company.remote === this.remote : true
+        let isFilter = this.remote ? company.remote === this.remote : false
         if (this.companyName !== '') {
           if (company.name.search(nameRegex) === -1) {
             return false
           }
         }
+        if (company.address === undefined && hasAddress) {
+          return false
+        }
         this.tech.forEach(tech => {
-          if (company.tech.find(elem => elem === tech) === undefined) {
-            return false
+          if (company.tech.find(elem => elem === tech)) {
+            isFilter = true
           }
+        })
+        this.state.forEach(state => {
+          company.address.forEach(elem => {
+            if (elem.state === state) {
+              isFilter = true
+            }
+          })
+        })
+        this.city.forEach(city => {
+          company.address.forEach(elem => {
+            if (elem.city === city) {
+              isFilter = true
+            }
+          })
         })
         return isFilter
       })
     },
     flatAdrress () {
-      return this.filteredCompanies.filter(elem => elem.address !== undefined).reduce((acc, elem) => acc.concat(elem.address), [])
+      return this.companies.filter(elem => elem.address !== undefined).reduce((acc, elem) => acc.concat(elem.address), [])
     },
     cityList () {
       return [...new Set(this.flatAdrress.map(elem => elem.city))].sort(this.sortAlphabetical)
@@ -276,10 +299,10 @@ export default {
       return [...new Set(this.flatAdrress.map(elem => elem.state))].sort(this.sortAlphabetical)
     },
     techList () {
-      return [...this.filteredCompanies.reduce((acc, elem) => acc.concat(elem.tech), [])]
+      return [...this.companies.reduce((acc, elem) => acc.concat(elem.tech), [])]
     },
     remoteDisabled () {
-      return this.filteredCompanies.filter(elem => elem.remote === true).length === 0
+      return this.companies.filter(elem => elem.remote === true).length === 0
     }
   },
   mounted () {
