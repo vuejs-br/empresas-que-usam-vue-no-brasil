@@ -114,6 +114,11 @@
         </v-layout>
       </v-expand-transition>
       <CompanyRow :item="company" v-for="(company, index) in filteredCompanies" :key="index" :anchor="calculateAnchor(index)"/>
+      <v-layout v-if="filteredCompanies.length === 0">
+        <v-flex class="text-center grey--text">
+          Nenhuma empresa encontrada
+        </v-flex>
+      </v-layout>
     </v-container>
   </v-fade-transition>
 </template>
@@ -245,11 +250,17 @@ export default {
       return filter.length
     },
     filteredCompanies () {
-      return this.badge === 0 ? this.companies : this.companies.filter(company => {
-        let isFilter = this.remote ? company.remote === this.remote : false
+      const nameRegex = new RegExp(this.companyName, 'i')
+      return this.badge === 0 && this.companyName === '' ? this.companies : this.companies.filter(company => {
+        let isFilter = this.remote ? company.remote === this.remote : true
+        if (this.companyName !== '') {
+          if (company.name.search(nameRegex) === -1) {
+            return false
+          }
+        }
         this.tech.forEach(tech => {
-          if (company.tech.find(elem => elem === tech)) {
-            isFilter = true
+          if (company.tech.find(elem => elem === tech) === undefined) {
+            return false
           }
         })
         return isFilter
