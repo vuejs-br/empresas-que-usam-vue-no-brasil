@@ -56,7 +56,7 @@ Vue, Vuex, React, React Native, Netlify, Perl
 _São Paulo/SP_
 
 [ARPNET](http://arpnet.biz/)  
-Laravel & Vue.js, ASPNET, VB.net, SQLServer    
+Laravel, Vue.js, ASPNET, VB.net, SQLServer    
 _Teresina/PI_
 
 [Asser Data](http://asserdata.tech/)  
@@ -117,7 +117,7 @@ _São Luís/MA_
 
 [Conta Azul](https://contaazul.com)       
 Vue, Vuex, VueRouter, AngularJS, Java, Go, AWS    
-_Joinville/SC *&* São Paulo/SP_
+_Joinville/SC | São Paulo/SP_
 
 [Conta Sob Controle](https://contasobcontrole.com.br/)  
 Vue, Vuex, Node, PHP    
@@ -576,7 +576,7 @@ _Juazeiro/BA_
 
 [Stilingue Inteligencia Artificial](https://stilingue.com.br/)      
 Vue, Vuex, VueRouter, Data Mining, Natural Language Processing, Computer Vision    
-_Ouro Preto/MG & São Paulo/SP_
+_Ouro Preto/MG | São Paulo/SP_
 
 # T
 
@@ -662,7 +662,7 @@ _Uberlândia/MG_
 # 1-9
 
 [128Bits](http://128bits.cc/)     
-Django, PostgreSQL, VueJs,Vuex     
+Django, PostgreSQL, VueJs, Vuex     
 _Teresina/PI_
 
 [7Virtual](http://7virtual.com.br/)      
