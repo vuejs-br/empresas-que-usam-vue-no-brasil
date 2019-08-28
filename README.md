@@ -89,6 +89,10 @@ _Remoto_
 Vue, Vuex, Quazar, Django, Zappa, AWS Lambda    
 _Rio de Janeiro/RJ_
 
+[Boxnet](http://www.boxnet.com.br)  
+Vue, Vuex, Vuetify, Node, Phyton, C#, AWS Lambda
+_Porto Alegre/RS_
+
 [Brazil Paralelo](https://www.brasilparalelo.com.br/)  
 Vue, Vuex, Nuxt    
 _Porto Alegre/RS_
@@ -144,7 +148,7 @@ _Gurupi/TO_
 
 [DB1 Global Software](https://db1it.com.br/)  
 Vue, Vuex, Vue Router, Axios, PixiJS, NestJs, Phaser, SocketIO, Redis, AWS, Java, Spring, PostgreSQL, PHP, Laravel, Docker  
- _Maringá/PR_
+_Maringá/PR_
 
 [Decision6](https://decision6.com)    
 Quasar, Node, GraphQL      
@@ -291,7 +295,7 @@ _Florianópolis/SC_
 
 [Itexto](http://www.itexto.com.br)  
 Node, Java, Grails, PHP, Wordpress, mobile, .net    
-_Belo Horizonte_
+_Belo Horizonte/MG_
 
 [iTFLEX Tecnologia Ltda](https://www.itflex.com.br/)  
 Vue, Python, MongoDB, Linux    
@@ -444,7 +448,10 @@ _Joinville/SC_
 Vue, Quasar, Nuxt, NodeJS, MongoDB    
 _São Paulo/SP_
 
-[Pipoca Digital](https://www.pipocadigital.com.br)  
+[Pipoca Digital](https://www.pipocadigital.com.br)
+Vue
+_Rio de Janeiro/RJ | São Paulo/SP_
+
 [Planos Assessoria](https://www.planosassessoria.com.br)    
 Node, MongoDB, PostgreSQL, PHP, Vue, Firebase, Node, Laravel, WordPress  
 _Rio de Janeiro/RJ_
@@ -507,11 +514,11 @@ _Fortaleza/CE_
 
 [Rits Tecnologia](https://rits.dev/)  
 Vue, React, Laravel, Wordpress, PHP, Python, Java, Ruby, Postgres, AWS .  
-_Natal, RN | São Paulo, SP | Miami, EUA_
+_Natal/RN | São Paulo/SP | Miami/EUA_
 
 [Rock Content](http://rockcontent.com/)        
 Vue, Rails, Postgres, Redis, AWS    
-_Belo Horizonte, MG_
+_Belo Horizonte/MG_
 
 [Rua Dois](http://ruadois.com.br/)        
 Vue, Nodejs, Postgres, AWS    
@@ -593,11 +600,11 @@ _Barueri/SP_
 
 [uMov](http://www.umov.me/)              
 Vue, Java, Ruby, Go, Swift, Kotlin    
-_Porto Alegre, RS_
+_Porto Alegre/RS_
 
 [Unimake Software](http://www.unimake.com.br/)  
 Vue, PHP, C#, EXT.NET, Xamarin, ASP.NET    
-_Paranavaí, Campo Mourão /PR_
+_Paranavaí/PR | Campo Mourão/PR_
 
 [UDS Tecnologia](https://uds.com.br/)  
 Vue, Laravel, Java, PHP, C#    
