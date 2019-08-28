@@ -564,7 +564,7 @@ _Ribeiro Preto/SP_
 
 [Spacetime Analytics](https://www.spacetimeanalytics.com/)       
 Vue, AngularJS 1.x, Python, Machine learning, Visão computacional    
-_São Paulo/Remoto_
+_São Paulo/SP | Remoto_
 
 [Stelo](http://stelo.com.br)  
 Vue, Nuxt, Vuex, Axios, java    
