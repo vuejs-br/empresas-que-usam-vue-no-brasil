@@ -8,52 +8,112 @@
       </v-layout>
     </v-container>
     <v-container v-else grid-list-xl>
-      <v-layout>
-        <v-flex>
-        </v-flex>
-        <v-flex>
-          <v-autocomplete
-            label="Cidade"
-            :items="cityList"
-            v-model="city"
-            no-data-text="Nenhuma cidade encontrada"
-          ></v-autocomplete>
-        </v-flex>
-        <v-flex shrink>
-          <v-select
-            v-model="state"
-            :items="stateList"
-            label="Estado"
-            multiple
-          >
-            <template v-slot:selection="{ item, index }">
-              <v-chip v-if="index < 2">
-                <span>{{ item }}</span>
-              </v-chip>
-              <span
-                v-if="index === 2"
-                class="grey--text caption"
-              >(+{{ state.length - 2 }} outros)</span>
-            </template>
-          </v-select>
-        </v-flex>
-        <v-flex shrink>
-          <v-checkbox
-          v-model="remote"
-          label="Remoto"
-        ></v-checkbox>
-        </v-flex>
-      </v-layout>
-      <v-layout>
+      <v-layout align-center>
         <v-flex grow>
           <v-text-field
+            solo
+            hide-details
             v-model="companyName"
             label="Nome da empresa"
-            prepend-icon="mdi-search"
+            prepend-inner-icon="mdi-magnify"
           ></v-text-field>
         </v-flex>
+        <v-flex shrink>
+          <v-badge :value="badge !== 0" overlap>
+            <template v-slot:badge>{{ badge }}</template>
+            <v-btn color="primary" icon text @click="filter = !filter">
+              <v-icon>
+                mdi-tune-vertical
+              </v-icon>
+            </v-btn>
+          </v-badge>
+        </v-flex>
       </v-layout>
-      <CompanyRow :item="company" v-for="(company, index) in companies" :key="index"/>
+      <v-expand-transition>
+        <v-layout align-center row wrap v-if="filter">
+          <v-flex>
+            <v-autocomplete
+              solo
+              hide-details
+              v-model="city"
+              :items="cityList"
+              chips
+              color="blue-grey lighten-2"
+              label="Cidades"
+              multiple
+            >
+              <template v-slot:selection="{ item, index }">
+                <v-chip v-if="index < 2">
+                  <span>{{ item }}</span>
+                </v-chip>
+                <span
+                  v-if="index === 2"
+                  class="grey--text caption"
+                >(+{{ city.length - 2 }} outras)</span>
+              </template>
+            </v-autocomplete>
+          </v-flex>
+          <v-flex>
+            <v-autocomplete
+              solo
+              hide-details
+              v-model="state"
+              :items="stateList"
+              chips
+              color="blue-grey lighten-2"
+              label="Estados"
+              multiple
+            >
+              <template v-slot:selection="{ item, index }">
+                <v-chip v-if="index < 2">
+                  <span>{{ item }}</span>
+                </v-chip>
+                <span
+                  v-if="index === 2"
+                  class="grey--text caption"
+                >(+{{ state.length - 2 }} outros)</span>
+              </template>
+            </v-autocomplete>
+          </v-flex>
+          <v-flex>
+            <v-autocomplete
+              solo
+              hide-details
+              v-model="tech"
+              :items="techList"
+              chips
+              color="blue-grey lighten-2"
+              label="Tecnologias"
+              multiple
+            >
+              <template v-slot:selection="{ item, index }">
+                <v-chip v-if="index < 2">
+                  <span>{{ item }}</span>
+                </v-chip>
+                <span
+                  v-if="index === 2"
+                  class="grey--text caption"
+                >(+{{ tech.length - 2 }} outras)</span>
+              </template>
+            </v-autocomplete>
+          </v-flex>
+          <v-flex shrink>
+            <v-checkbox
+            hide-details
+            class="mt-0"
+            v-model="remote"
+            :disabled="remoteDisabled"
+            label="Somente remoto"
+          ></v-checkbox>
+          </v-flex>
+          <v-flex shrink >
+            <v-btn text color="primary" @click="clear" :disabled="badge === 0" class="text-capitalize">
+              limpar
+            </v-btn>
+          </v-flex>
+        </v-layout>
+      </v-expand-transition>
+      <CompanyRow :item="company" v-for="(company, index) in filteredCompanies" :key="index" :anchor="calculateAnchor(index)"/>
     </v-container>
   </v-fade-transition>
 </template>
@@ -71,15 +131,31 @@ export default {
       remote: false,
       companyName: '',
       state: [],
-      city: []
+      city: [],
+      tech: [],
+      filter: false
     }
   },
   methods: {
+    clear () {
+      this.state = []
+      this.city = []
+      this.tech = []
+      this.companyName = ''
+    },
+    calculateAnchor (index) {
+      if (index === 0) {
+        return this.filteredCompanies[index].name[0]
+      } else if (this.filteredCompanies[index - 1].name[0] !== this.filteredCompanies[index].name[0]) {
+        return this.filteredCompanies[index].name[0]
+      } else {
+        return ''
+      }
+    },
     async loadCompanies () {
       this.loading = true
       this.companies = await this.getCompanies()
       this.loading = false
-      console.log(this.companies)
     },
     async getCompanies () {
       let md = await this.getMdfile()
@@ -161,14 +237,38 @@ export default {
     }
   },
   computed: {
+    badge () {
+      const filter = [...this.state, ...this.city, ...this.tech]
+      if (this.remote) {
+        filter.push('')
+      }
+      return filter.length
+    },
+    filteredCompanies () {
+      return this.badge === 0 ? this.companies : this.companies.filter(company => {
+        let isFilter = this.remote ? company.remote === this.remote : false
+        this.tech.forEach(tech => {
+          if (company.tech.find(elem => elem === tech)) {
+            isFilter = true
+          }
+        })
+        return isFilter
+      })
+    },
     flatAdrress () {
-      return this.companies.filter(elem => elem.address !== undefined).reduce((acc, elem) => acc.concat(elem.address), [])
+      return this.filteredCompanies.filter(elem => elem.address !== undefined).reduce((acc, elem) => acc.concat(elem.address), [])
     },
     cityList () {
       return [...new Set(this.flatAdrress.map(elem => elem.city))].sort(this.sortAlphabetical)
     },
     stateList () {
       return [...new Set(this.flatAdrress.map(elem => elem.state))].sort(this.sortAlphabetical)
+    },
+    techList () {
+      return [...this.filteredCompanies.reduce((acc, elem) => acc.concat(elem.tech), [])]
+    },
+    remoteDisabled () {
+      return this.filteredCompanies.filter(elem => elem.remote === true).length === 0
     }
   },
   mounted () {
