@@ -668,3 +668,28 @@ _Teresina/PI_
 [7Virtual](http://7virtual.com.br/)      
 Entity(C#), SQLServer, VueJs, Quasar     
 _Serrinha/BA_
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Run your tests
+```
+yarn run test
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
