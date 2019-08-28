@@ -115,7 +115,7 @@
       </v-expand-transition>
       <v-layout>
         <v-flex class="capition grey--text" v-if="filteredCompanies.length !== 0">
-          {{ filteredCompanies.lenght }} {{ badge > 1 || companyName !== '' ? 'Empresas cadastradas' : 'Empresas filtradas' }}
+          {{ filteredCompanies.length }} {{ badge > 0 || companyName !== '' ? 'Empresas filtradas' : 'Empresas cadastradas' }}
         </v-flex>
       </v-layout>
       <CompanyRow :item="company" v-for="(company, index) in filteredCompanies" :key="index" :anchor="calculateAnchor(index)"/>
@@ -262,6 +262,8 @@ export default {
         if (this.companyName !== '') {
           if (company.name.search(nameRegex) === -1) {
             return false
+          } else {
+            isFilter = true
           }
         }
         if (company.address === undefined && hasAddress) {
