@@ -91,7 +91,7 @@ _Rio de Janeiro/RJ_
 
 [Boxnet](http://www.boxnet.com.br)  
 Vue, Vuex, Vuetify, Node, Phyton, C#, AWS Lambda
-_Porto Alegre/RS_
+_São Paulo/SP_
 
 [Brazil Paralelo](https://www.brasilparalelo.com.br/)  
 Vue, Vuex, Nuxt    
