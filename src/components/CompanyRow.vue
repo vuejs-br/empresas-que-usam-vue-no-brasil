@@ -1,7 +1,11 @@
 <template>
-  <v-layout>
+  <v-layout row wrap>
     <v-flex xs12>
+      <v-icon v-if="item.remote">mdi-star</v-icon>
       {{ item.name }}
+    </v-flex>
+    <v-flex xs12 v-for="(address, index) in item.address" :key="index">
+      {{ address.city }} / {{ address.state}}
     </v-flex>
   </v-layout>
 </template>

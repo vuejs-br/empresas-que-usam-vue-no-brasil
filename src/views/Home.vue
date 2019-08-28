@@ -3,11 +3,56 @@
     <v-container fill-height v-if="loading">
       <v-layout align-center>
         <v-flex class="text-center">
-          <v-progress-circular></v-progress-circular>
+          <v-progress-circular indeterminate color="primary" :size="70"></v-progress-circular>
         </v-flex>
       </v-layout>
     </v-container>
-    <v-container v-else>
+    <v-container v-else grid-list-xl>
+      <v-layout>
+        <v-flex>
+        </v-flex>
+        <v-flex>
+          <v-autocomplete
+            label="Cidade"
+            :items="cityList"
+            v-model="city"
+            no-data-text="Nenhuma cidade encontrada"
+          ></v-autocomplete>
+        </v-flex>
+        <v-flex shrink>
+          <v-select
+            v-model="state"
+            :items="stateList"
+            label="Estado"
+            multiple
+          >
+            <template v-slot:selection="{ item, index }">
+              <v-chip v-if="index < 2">
+                <span>{{ item }}</span>
+              </v-chip>
+              <span
+                v-if="index === 2"
+                class="grey--text caption"
+              >(+{{ state.length - 2 }} outros)</span>
+            </template>
+          </v-select>
+        </v-flex>
+        <v-flex shrink>
+          <v-checkbox
+          v-model="remote"
+          label="Remoto"
+        ></v-checkbox>
+        </v-flex>
+      </v-layout>
+      <v-layout>
+        <v-flex grow>
+          <v-text-field
+            v-model="companyName"
+            label="Nome da empresa"
+            prepend-icon="mdi-search"
+          ></v-text-field>
+        </v-flex>
+      </v-layout>
       <CompanyRow :item="company" v-for="(company, index) in companies" :key="index"/>
     </v-container>
   </v-fade-transition>
@@ -22,7 +67,11 @@ export default {
   data () {
     return {
       loading: true,
-      companies: []
+      companies: [],
+      remote: false,
+      companyName: '',
+      state: [],
+      city: []
     }
   },
   methods: {
@@ -30,6 +79,7 @@ export default {
       this.loading = true
       this.companies = await this.getCompanies()
       this.loading = false
+      console.log(this.companies)
     },
     async getCompanies () {
       let md = await this.getMdfile()
@@ -58,7 +108,7 @@ export default {
           return
         }
         if (line[0] === '_') {
-          const places = line.replace('Remoto', '')
+          const places = line.replace('| Remoto', '').replace('Remoto', '')
           if (line.includes('Remoto')) {
             companies[companies.length - 1].remote = true
           } else {
@@ -73,9 +123,11 @@ export default {
               companies[companies.length - 1].address = []
             }
             try {
+              const city = location.split('/')[0].replace('_', '').trim()
+              const state = location.split('/')[1].replace('_', '').trim()
               companies[companies.length - 1].address.push({
-                city: location.split('/')[0].split('_')[1],
-                state: location.split('/')[1].split('_')[0]
+                city,
+                state
               })
             } catch (err) {
               console.log(err, line, companies[companies.length - 1].name)
@@ -103,6 +155,20 @@ export default {
         // Start reading the blob as text.
         reader.readAsText(result)
       })
+    },
+    sortAlphabetical (first, last) {
+      return first !== last ? first < last ? -1 : 1 : 0
+    }
+  },
+  computed: {
+    flatAdrress () {
+      return this.companies.filter(elem => elem.address !== undefined).reduce((acc, elem) => acc.concat(elem.address), [])
+    },
+    cityList () {
+      return [...new Set(this.flatAdrress.map(elem => elem.city))].sort(this.sortAlphabetical)
+    },
+    stateList () {
+      return [...new Set(this.flatAdrress.map(elem => elem.state))].sort(this.sortAlphabetical)
     }
   },
   mounted () {
