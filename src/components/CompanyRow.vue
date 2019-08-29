@@ -7,8 +7,8 @@
       <v-flex>
         {{ item.name }}
       </v-flex>
-      <v-flex shrink>
-        <v-btn color="primary" text class="text-capitalize mr-0">
+      <v-flex shrink v-if="item.openJob">
+        <v-btn :href="item.openJob" color="primary" text class="text-capitalize mr-0">
           há vagas!
           <v-icon right>
             mdi-open-in-new
