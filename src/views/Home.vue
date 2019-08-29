@@ -102,8 +102,15 @@
             hide-details
             class="mt-0"
             v-model="remote"
-            :disabled="remoteDisabled"
             label="Somente remoto"
+          ></v-checkbox>
+          </v-flex>
+          <v-flex shrink>
+            <v-checkbox
+            hide-details
+            class="mt-0"
+            v-model="openJob"
+            label="Tem vagas"
           ></v-checkbox>
           </v-flex>
           <v-flex shrink >
@@ -139,6 +146,7 @@ export default {
       loading: true,
       companies: [],
       remote: false,
+      openJob: false,
       companyName: '',
       state: [],
       city: [],
@@ -152,6 +160,8 @@ export default {
       this.city = []
       this.tech = []
       this.companyName = ''
+      this.openJob = false
+      this.remote = false
     },
     calculateAnchor (index) {
       if (index === 0) {
@@ -165,7 +175,26 @@ export default {
     async loadCompanies () {
       this.loading = true
       this.companies = await this.getCompanies()
+      this.loadJobs()
       this.loading = false
+    },
+    async loadJobs () {
+      const issues = await fetch('https://api.github.com/repos/vuejs-br/vagas/issues').then(response => response.json())
+      const jobs = issues.reduce((acc, elem) => {
+        const company = elem.title.split('@')[1]
+        return company
+          ? acc.concat({
+            url: elem.html_url,
+            company: company.trim()
+          })
+          : acc
+      }, [])
+      this.companies = this.companies.map(elem => {
+        const hasJob = jobs.find(job => job.company === elem.name)
+        return hasJob
+          ? { ...elem, openJob: hasJob.url }
+          : elem
+      })
     },
     async getCompanies () {
       let md = await this.getMdfile()
@@ -252,13 +281,30 @@ export default {
       if (this.remote) {
         filter.push('')
       }
+      if (this.openJob) {
+        filter.push('')
+      }
       return filter.length
     },
     filteredCompanies () {
       const nameRegex = new RegExp(this.companyName, 'i')
       const hasAddress = [...this.state, ...this.city].length > 0
       return this.badge === 0 && this.companyName === '' ? this.companies : this.companies.filter(company => {
-        let isFilter = this.remote ? company.remote === this.remote : false
+        let isFilter = false
+        if (this.remote === true) {
+          if (company.remote === undefined) {
+            return false
+          } else {
+            isFilter = true
+          }
+        }
+        if (this.openJob === true) {
+          if (company.openJob === undefined) {
+            return false
+          } else {
+            isFilter = true
+          }
+        }
         if (this.companyName !== '') {
           if (company.name.search(nameRegex) === -1) {
             return false
@@ -302,9 +348,6 @@ export default {
     },
     techList () {
       return [...this.companies.reduce((acc, elem) => acc.concat(elem.tech), [])]
-    },
-    remoteDisabled () {
-      return this.companies.filter(elem => elem.remote === true).length === 0
     }
   },
   mounted () {
