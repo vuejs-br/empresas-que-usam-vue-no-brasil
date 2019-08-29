@@ -451,9 +451,13 @@ _Joinville/SC_
 Vue, Quasar, Nuxt, NodeJS, MongoDB    
 _São Paulo/SP_
 
-[Pipoca Digital](https://www.pipocadigital.com.br)
-Vue
-_Rio de Janeiro/RJ | São Paulo/SP_
+[Pine](https://www.pine.com)    
+Vue, VueRouter, Angular, Docker, MongoDB, C#, .Net Core    
+_São Paulo/SP_    
+
+[Pipoca Digital](https://www.pipocadigital.com.br)    
+Vue    
+_Rio de Janeiro/RJ | São Paulo/SP_    
 
 [Planos Assessoria](https://www.planosassessoria.com.br)    
 Node, MongoDB, PostgreSQL, PHP, Vue, Firebase, Node, Laravel, WordPress  
@@ -522,6 +526,10 @@ _Natal/RN | São Paulo/SP | Miami/EUA_
 [Rock Content](http://rockcontent.com/)        
 Vue, Rails, Postgres, Redis, AWS    
 _Belo Horizonte/MG_
+
+[Rua Dois](http://ruadois.com.br/)        
+Vue, Nodejs, Postgres, AWS    
+_Brasília, DF_ | _São Paulo, SP_
 
 # S
 
