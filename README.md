@@ -347,6 +347,9 @@ _Custódia/PE_
 Node, Vue, Vuex, Vue-Apollo, GraphQL, Quasar, Rethinkdb, AWS, PostgreSQL, Python, Ruby on Rails, Kubernetes    
 _Brasília/DF_ 
 
+[Lemoney](https://www.lemoney.com)
+Vue
+_ Rio de janeiro/RJ | Remoto_
 
 [Let's Grow Sistemas](http://www.letsgrow.com.br/)  
 Vue, Vuex, Laravel, PostgreSQL    
