@@ -56,7 +56,7 @@ Vue, Vuex, React, React Native, Netlify, Perl
 _São Paulo/SP_
 
 [ARPNET](http://arpnet.biz/)  
-Laravel & Vue.js, ASPNET, VB.net, SQLServer    
+Laravel, Vue.js, ASPNET, VB.net, SQLServer    
 _Teresina/PI_
 
 [Asser Data](http://asserdata.tech/)  
@@ -91,7 +91,7 @@ _Rio de Janeiro/RJ_
 
 [Boxnet](http://www.boxnet.com.br)  
 Vue, Vuex, Vuetify, Node, Phyton, C#, AWS Lambda
-_Porto Alegre/RS_
+_São Paulo/SP_
 
 [Brazil Paralelo](https://www.brasilparalelo.com.br/)  
 Vue, Vuex, Nuxt    
@@ -117,7 +117,7 @@ _São Luís/MA_
 
 [Conta Azul](https://contaazul.com)       
 Vue, Vuex, VueRouter, AngularJS, Java, Go, AWS    
-_Joinville/SC *&* São Paulo/SP_
+_Joinville/SC | São Paulo/SP_
 
 [Conta Sob Controle](https://contasobcontrole.com.br/)  
 Vue, Vuex, Node, PHP    
@@ -347,6 +347,9 @@ _Custódia/PE_
 Node, Vue, Vuex, Vue-Apollo, GraphQL, Quasar, Rethinkdb, AWS, PostgreSQL, Python, Ruby on Rails, Kubernetes    
 _Brasília/DF_ 
 
+[Lemoney](https://www.lemoney.com)
+Vue
+_ Rio de janeiro/RJ | Remoto_
 
 [Let's Grow Sistemas](http://www.letsgrow.com.br/)  
 Vue, Vuex, Laravel, PostgreSQL    
@@ -572,7 +575,7 @@ _Ribeiro Preto/SP_
 
 [Spacetime Analytics](https://www.spacetimeanalytics.com/)       
 Vue, AngularJS 1.x, Python, Machine learning, Visão computacional    
-_São Paulo/Remoto_
+_São Paulo/SP | Remoto_
 
 [Stelo](http://stelo.com.br)  
 Vue, Nuxt, Vuex, Axios, java    
@@ -584,7 +587,7 @@ _Juazeiro/BA_
 
 [Stilingue Inteligencia Artificial](https://stilingue.com.br/)      
 Vue, Vuex, VueRouter, Data Mining, Natural Language Processing, Computer Vision    
-_Ouro Preto/MG & São Paulo/SP_
+_Ouro Preto/MG | São Paulo/SP_
 
 # T
 
@@ -670,9 +673,34 @@ _Uberlândia/MG_
 # 1-9
 
 [128Bits](http://128bits.cc/)     
-Django, PostgreSQL, VueJs,Vuex     
+Django, PostgreSQL, VueJs, Vuex     
 _Teresina/PI_
 
 [7Virtual](http://7virtual.com.br/)      
 Entity(C#), SQLServer, VueJs, Quasar     
 _Serrinha/BA_
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Run your tests
+```
+yarn run test
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
