@@ -569,6 +569,10 @@ _Uberlândia/MG_
 Vue, Angular, NativeScript, TotalCross, Java, Spring, MySQL    
 _Cascavel/PR_
 
+[SocialBase](https://www.socialbase.com.br/)  
+Vue, Vue Router, MySql, PHP   
+_Florianópolis/SC_
+
 [STORED E-commerce](http://stored.com.br/)  
 Vue, Vuex, Nuxt, Node    
 _Ribeiro Preto/SP_
@@ -646,6 +650,10 @@ _São Leopoldo/RS_
 
 [Way2 Technology](https://way2.com.br)   
 Vue, Vuex, Knockout, React, .NET, Oracle    
+_Florianópolis/SC_
+
+[WorkBetter by SocialBase](https://workbetter.socialbase.com.br)   
+Vue, Vue Router, Java Spring, Rest, MySql    
 _Florianópolis/SC_
 
 # Y
