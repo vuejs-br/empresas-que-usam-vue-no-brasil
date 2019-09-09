@@ -591,6 +591,10 @@ _Ouro Preto/MG | São Paulo/SP_
 
 # T
 
+[Take 5](https://take5.com.br/)  
+Vue, Quasar, Python, Django, Node.js, AWS, Firebase   
+_São Paulo/SP_
+
 [TecnoSpeed S.A](https://tecnospeed.com.br/)  
 Vue, Nuxt, Vuex, AWS, Node, Go, React   
 _Maringá/PR_
