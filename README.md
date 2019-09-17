@@ -23,6 +23,10 @@ Os criadores do repositório não tem autoridade para gerenciar à lista. Cada u
 Vue, Vuex, Node, Laravel, AWS    
 _Rio de Janeiro/RJ_    
 
+[Abler Recrutamento Digital](http://abler.com.br)  
+Vue, Nuxt, Vuex, Axios, Ruby on Rails, ElasticSearch, Google Cloud    
+_Curitiba/PR_
+
 [Accellog Global Technology](http://accellog.com/)  
 VueJS, Vuex, Node, Spring Boot, PHP, AWS, Azure, Heroku    
 _Maringá/PR_
