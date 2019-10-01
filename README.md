@@ -553,10 +553,6 @@ _São José dos Campos/SP_
 Vue, Vuex, Angular, Node, Java, PHP, Python, MongoDB
 _Uberlândia/MG_
 
-[Sorte7](http://www.sorte7.com.br/)    
-Vue, Node, Vuex, Angular, Node, Java, PHP, Python, MongoDB
-_Uberlândia/MG_
-
 [Sovis](https://www.sovis.com.br/)  
 Vue, Angular, NativeScript, TotalCross, Java, Spring, MySQL    
 _Cascavel/PR_
