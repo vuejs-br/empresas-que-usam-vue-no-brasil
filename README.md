@@ -51,10 +51,6 @@ _Belo Horizonte/MG_
 Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ, Hapijs, Firebase pra push    
 _Chapecó/SC_
 
-[App2Sales](http://app2sales.com/)  
-Laravel, Vue, React, Electron, Firebase, Heroku    
-_Feira de Santana/BA_
-
 [AppCívico](https://appcivico.com/)  
 Vue, Vuex, React, React Native, Netlify, Perl    
 _São Paulo/SP_
