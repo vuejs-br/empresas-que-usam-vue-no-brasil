@@ -59,10 +59,6 @@ _São Paulo/SP_
 Laravel, Vue.js, ASPNET, VB.net, SQLServer    
 _Teresina/PI_
 
-[Asser Data](http://asserdata.tech/)  
-VueJS, Nuxt.JS    
-_Garanhuns/PE_
-
 [AutoSeg](http://autoseg.com/)  
 Ruby on Rails, Vue, Electron    
 _São Paulo/SP_
