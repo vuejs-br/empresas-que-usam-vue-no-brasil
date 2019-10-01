@@ -138,10 +138,6 @@ _Gurupi/TO_
 
 # D
 
-[Dataview](http://www.dataview.com.br)  
-Vue, Vuex, VueRouter, Quasar, Axios    
-_Gurupi/TO_
-
 [DB1 Global Software](https://db1it.com.br/)  
 Vue, Vuex, Vue Router, Axios, PixiJS, NestJs, Phaser, SocketIO, Redis, AWS, Java, Spring, PostgreSQL, PHP, Laravel, Docker  
 _Maringá/PR_
