@@ -660,6 +660,10 @@ _São Leopoldo/RS_
 Vue, Vuex, Knockout, React, .NET, Oracle    
 _Florianópolis/SC_
 
+[Warren Brasil](https://warrenbrasil.com)   
+Vue, Node, TypeScript, MongoDB, C#    
+_Porto Alegre/RS_
+
 [WorkBetter by SocialBase](https://workbetter.socialbase.com.br)   
 Vue, Vue Router, Java Spring, Rest, MySql    
 _Florianópolis/SC_
