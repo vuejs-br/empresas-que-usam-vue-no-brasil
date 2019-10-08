@@ -51,10 +51,6 @@ _Belo Horizonte/MG_
 Vue, Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ, Hapijs, Firebase pra push    
 _Chapecó/SC_
 
-[App2Sales](http://app2sales.com/)  
-Laravel, Vue, React, Electron, Firebase, Heroku    
-_Feira de Santana/BA_
-
 [AppCívico](https://appcivico.com/)  
 Vue, Vuex, React, React Native, Netlify, Perl    
 _São Paulo/SP_
@@ -62,10 +58,6 @@ _São Paulo/SP_
 [ARPNET](http://arpnet.biz/)  
 Laravel, Vue.js, ASPNET, VB.net, SQLServer    
 _Teresina/PI_
-
-[Asser Data](http://asserdata.tech/)  
-VueJS, Nuxt.JS    
-_Garanhuns/PE_
 
 [AutoSeg](http://autoseg.com/)  
 Ruby on Rails, Vue, Electron    
@@ -145,10 +137,6 @@ _Gurupi/TO_
 
 
 # D
-
-[Dataview](http://www.dataview.com.br)  
-Vue, Vuex, VueRouter, Quasar, Axios    
-_Gurupi/TO_
 
 [DB1 Global Software](https://db1it.com.br/)  
 Vue, Vuex, Vue Router, Axios, PixiJS, NestJs, Phaser, SocketIO, Redis, AWS, Java, Spring, PostgreSQL, PHP, Laravel, Docker  
@@ -563,10 +551,6 @@ _São José dos Campos/SP_
 
 [Softbox](http://www.softbox.com.br/)  
 Vue, Vuex, Angular, Node, Java, PHP, Python, MongoDB
-_Uberlândia/MG_
-
-[Sorte7](http://www.sorte7.com.br/)    
-Vue, Node, Vuex, Angular, Node, Java, PHP, Python, MongoDB
 _Uberlândia/MG_
 
 [Sovis](https://www.sovis.com.br/)  
