@@ -401,6 +401,11 @@ _São Paulo/SP_
 Vue, Vuex, Laravel    
 _Maringá/PR_
 
+[Movva](https://movva.tech/)
+Vue, Symfony, Laravel, .NET Core, Python
+_São Paulo/SP_
+
+
 [Multitherm Sistemas e Automação](http://multitherm.com.br/)  
 Vue, Java    
 _Blumenau/SC_
