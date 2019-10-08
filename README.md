@@ -405,7 +405,6 @@ _Maringá/PR_
 Vue, Symfony, Laravel, .NET Core, Python
 _São Paulo/SP_
 
-
 [Multitherm Sistemas e Automação](http://multitherm.com.br/)  
 Vue, Java    
 _Blumenau/SC_
