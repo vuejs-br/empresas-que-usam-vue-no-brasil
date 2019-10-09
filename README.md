@@ -254,7 +254,11 @@ Vue, Vuex
 _Juiz de Fora/MG_
 
 # H
-
+     
+[H5soluções](https://h5solucoes.com.br/)         
+Vue, Vuex, Mysql, PHP     
+_Divinésia/MG_    
+       
 [HiMaker](http://himaker.com.br/)  
 Vue, Vuex, Node, Laravel    
 _Blumenau/SC_
