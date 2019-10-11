@@ -226,6 +226,10 @@ _São Paulo/SP_
 Vue, Vuex, Vue-router, Nuxt    
 _Joinville/SC_
 
+[Firework Web](https://fireworkweb.com.br)  
+Vue, Vuex, Laravel, React, Tailwind CSS, Node, Golang, AWS, Digital Ocean, Docker, Kubernetes    
+_Bauru/SP_
+
 [Focus Concursos](http://www.focusconcursos.com.br/)  
 Vue, Vuex, Vue-router, Axios, Laravel    
 _Cascavel/PR_
