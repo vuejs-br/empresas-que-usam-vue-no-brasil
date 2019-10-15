@@ -562,7 +562,7 @@ Vue, Node.js, ReactN Native, C#, .NET, NativeScript-Vue
 _São Paulo/SP_
 
 [SINFO/UFRN](https://info.ufrn.br)
-Vue, Vuex, Java, MySQL
+Vue, Vuex, NuxtJS, Java, MySQL
 _Natal/RN_
 
 [Sistema Athos](http://www.sistemaathos.com.br)  
