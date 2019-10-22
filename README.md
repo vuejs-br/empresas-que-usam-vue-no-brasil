@@ -409,6 +409,10 @@ _Belo Horizonte/MG_
 Vue, Ruby, Java, AWS    
 _São Paulo/SP_
 
+[Monetizze](https://monetizze.com.br/)  
+Vue, PHP, Javascript, Python, Laravel, Node, AWS, Docker, Flutter    
+_Belo Horizonte/MG_
+
 [Monk](https://agmonk.com/)       
 Vue, Vuex, Laravel    
 _Maringá/PR_
