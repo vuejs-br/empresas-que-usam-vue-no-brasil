@@ -1,0 +1,68 @@
+{
+  "name": "empresas-que-usam-vue-no-brasil",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "heroku-postbuild": "yarn run build"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "register-service-worker": "^1.6.2",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuetify": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.5",
+    "@vue/cli-plugin-eslint": "^3.0.5",
+    "@vue/cli-plugin-pwa": "^3.0.5",
+    "@vue/cli-service": "^3.0.5",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "lint-staged": "^8.1.5",
+    "sass": "^1.17.4",
+    "sass-loader": "^7.1.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-cli-plugin-vuetify": "^0.6.3",
+    "vue-template-compiler": "^2.6.10",
+    "vuetify-loader": "^1.2.2"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "@vue/standard"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,vue}": [
+      "vue-cli-service lint",
+      "git add"
+    ]
+  }
+}
