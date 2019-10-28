@@ -480,7 +480,7 @@ Node, MongoDB, PostgreSQL, PHP, Vue, Firebase, Node, Laravel, WordPress
 _Rio de Janeiro/RJ_
 
 [Playerlink](https://playerlink.gg)    
-PHP, Vue, Laravel, Redis
+PHP, Vue, Laravel, Redis  
 _Rio de Janeiro/RJ_
 
 [PLING](https://pling.net.br)  
