@@ -619,6 +619,10 @@ _São Paulo/SP_
 Vue, Nuxt, Vuex, AWS, Node, Go, React   
 _Maringá/PR_
 
+[TerraMagna](https://terramagna.com.br/)  
+Vue, Vuex, GCP, Node.js, Rust, Firebase, Python
+_São José dos Campos/SP_
+
 [TradeUp Group](http://www.tradeupgroup.com.br/)  
 Vue, Vuex, Laravel, MongoDB, AWS, React Native    
 _Barueri/SP_
