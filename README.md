@@ -244,6 +244,10 @@ _Cascavel/PR_
 Vue, Vuex, Vue Router, Vuetify, Vue-i18n    
 _Feira de Santana/BA_
 
+[GlobalWeb](https://www.globalweb.com.br/)  
+Vue, Vuex, Vue Router, Vuetify, Vue-i18n, Nuxtjs    
+_São Paulo/SP_
+
 [Grupo Acert](http://www.grupoacert.com.br)  
 Vue, Vuex, Vue Router, Laravel    
 _Araçatuba/SP_
