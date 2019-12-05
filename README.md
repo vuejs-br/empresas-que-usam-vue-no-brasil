@@ -585,6 +585,10 @@ _São José dos Campos/SP_
 Vue, Vuex, Angular, Node, Java, PHP, Python, MongoDB
 _Uberlândia/MG_
 
+[SoluCX](https://www.solucx.com.br/)  
+Vue, Vuex, Typescript, Node   
+_São José dos Campos/SP_
+
 [Sovis](https://www.sovis.com.br/)  
 Vue, Angular, NativeScript, TotalCross, Java, Spring, MySQL    
 _Cascavel/PR_
