@@ -551,6 +551,10 @@ _Natal/RN | São Paulo/SP | Miami/EUA_
 Vue, Rails, Postgres, Redis, AWS    
 _Belo Horizonte/MG_
 
+[RotaExata](http://rotaexata.com.br)    
+Vue, Vuex, Nuxt, Node, PHP, Postgres, MongoDB, AWS     
+_Joinville/SC_
+
 [Rua Dois](http://ruadois.com.br/)        
 Vue, Nodejs, Postgres, AWS    
 _Brasília, DF_ | _São Paulo, SP_
