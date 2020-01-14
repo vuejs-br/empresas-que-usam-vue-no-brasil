@@ -172,6 +172,10 @@ _Curitiba/PR_
 
 # E
 
+[E-Com Club](https://github.com/ecomclub)    
+Vue, Vuex, VueRouter, Antdv, Bootstrap, Netlify, NodeJS, Mongo, ElasticSearch, Redis     
+_Belo Horizonte/MG_
+
 [EBANX](https://ebanx.com)    
 Vue, VueRouter, VueMC, Ruby on Rails, Docker     
 _Curitiba/PR_
