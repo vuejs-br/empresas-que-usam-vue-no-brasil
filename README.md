@@ -667,6 +667,10 @@ _São Paulo/SP_
 Vue, Vuex, PHP, Laravel, MySQL    
 _Natal/RN_
 
+[Veed | Software Intelligence](https://app.ecall.tech)  
+Vue, Vuex, VueRouter, Vuetify, Axios, PWA, Google Cloud, Postgres, Node, Adonis  
+_Marau/RS_
+
 [Vitta Tecnologia](https://vitta.com.br)  
 Vue, Vuex, Axios, Webpack, Node, MySql, MongoDB, AWS    
 _Uberlândia/MG | São Paulo/MG_
