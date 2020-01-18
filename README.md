@@ -107,6 +107,10 @@ _Florianópolis/SC_
 Vue, Ruby on Rails, Postgres, Docker, Heroku    
 _Curitiba/PR_
 
+[CGI](https://webcgi.com.br/)  
+Vue, Vuex, VueRouter, Vuetify, Axios, PWA, Google Cloud, Progress    
+_Marau/RS_
+
 [Chico Rei](https://chicorei.com/)    
 Vue, Vuex, VueRouter, Axios, Angular, Laravel, NodeJS, PHP, AWS     
 _Juiz de Fora/MG_
