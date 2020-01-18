@@ -107,6 +107,10 @@ _Florianópolis/SC_
 Vue, Ruby on Rails, Postgres, Docker, Heroku    
 _Curitiba/PR_
 
+[CGI](https://webcgi.com.br/)  
+Vue, Vuex, VueRouter, Vuetify, Axios, PWA, Google Cloud, Progress    
+_Marau/RS_
+
 [Chico Rei](https://chicorei.com/)    
 Vue, Vuex, VueRouter, Axios, Angular, Laravel, NodeJS, PHP, AWS     
 _Juiz de Fora/MG_
@@ -171,6 +175,10 @@ Leaflet, Python
 _Curitiba/PR_
 
 # E
+
+[E-Com Club](https://github.com/ecomclub)    
+Vue, Vuex, VueRouter, Antdv, Bootstrap, Netlify, NodeJS, Mongo, ElasticSearch, Redis     
+_Belo Horizonte/MG_
 
 [EBANX](https://ebanx.com)    
 Vue, VueRouter, VueMC, Ruby on Rails, Docker     
@@ -243,6 +251,10 @@ _Cascavel/PR_
 [Gerenciagram](https://gerenciagram.com.br)  
 Vue, Vuex, Vue Router, Vuetify, Vue-i18n    
 _Feira de Santana/BA_
+
+[GlobalWeb](https://www.globalweb.com.br/)  
+Vue, Vuex, Vue Router, Vuetify, Vue-i18n, Nuxtjs    
+_São Paulo/SP_
 
 [Grupo Acert](http://www.grupoacert.com.br)  
 Vue, Vuex, Vue Router, Laravel    
@@ -547,6 +559,10 @@ _Natal/RN | São Paulo/SP | Miami/EUA_
 Vue, Rails, Postgres, Redis, AWS    
 _Belo Horizonte/MG_
 
+[RotaExata](http://rotaexata.com.br)    
+Vue, Vuex, Nuxt, Node, PHP, Postgres, MongoDB, AWS     
+_Joinville/SC_
+
 [Rua Dois](http://ruadois.com.br/)        
 Vue, Nodejs, Postgres, AWS    
 _Brasília, DF_ | _São Paulo, SP_
@@ -580,6 +596,10 @@ _São José dos Campos/SP_
 [Softbox](http://www.softbox.com.br/)  
 Vue, Vuex, Angular, Node, Java, PHP, Python, MongoDB
 _Uberlândia/MG_
+
+[SoluCX](https://www.solucx.com.br/)  
+Vue, Vuex, Typescript, Node   
+_São José dos Campos/SP_
 
 [Sovis](https://www.sovis.com.br/)  
 Vue, Angular, NativeScript, TotalCross, Java, Spring, MySQL    
@@ -623,6 +643,14 @@ _Maringá/PR_
 Vue, Vuex, GCP, Node.js, Rust, Firebase, Python  
 _São José dos Campos/SP_
 
+[Tenda Digital](https://tenda.digital/)  
+Vue.js, Node.js, Ionic, Angular, Cordova, Elastic Search, Google Cloud, Cloud Functions, Heroku...  
+_São Caetano do Sul/SP_
+
+[Thamus](https://thamus.com.br/)  
+Vue, Vuex, Cordova, Nuxt.js, Python, AWS Lambda, MongoDB, Node.js...  
+_São Caetano do Sul/SP_
+
 [TradeUp Group](http://www.tradeupgroup.com.br/)  
 Vue, Vuex, Laravel, MongoDB, AWS, React Native    
 _Barueri/SP_
@@ -630,6 +658,7 @@ _Barueri/SP_
 [Tilix Digital](https://tilix.com/)  
 Vue, Vuex, Node.js, Golang, GraphQL, AWS Lambda, AWS AppSync, AWS DynamoDB, AWS RDS, AWS API Gateway...
 _Barueri/SP_
+
 
 # U
 
@@ -662,6 +691,10 @@ _São Paulo/SP_
 [Varlik Tecnologia](https://varlik.com.br)    
 Vue, Vuex, PHP, Laravel, MySQL    
 _Natal/RN_
+
+[Veed | Software Intelligence](https://app.ecall.tech)  
+Vue, Vuex, VueRouter, Vuetify, Axios, PWA, Google Cloud, Postgres, Node, Adonis  
+_Marau/RS_
 
 [Vitta Tecnologia](https://vitta.com.br)  
 Vue, Vuex, Axios, Webpack, Node, MySql, MongoDB, AWS    
