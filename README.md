@@ -639,6 +639,14 @@ _São Paulo/SP_
 Vue, Nuxt, Vuex, AWS, Node, Go, React   
 _Maringá/PR_
 
+[Tenda Digital](https://tenda.digital/)  
+Vue.js, Node.js, Ionic, Angular, Cordova, Elastic Search, Google Cloud, Cloud Functions, Heroku...  
+_São Caetano do Sul/SP_
+
+[Thamus](https://thamus.com.br/)  
+Vue, Vuex, Cordova, Nuxt.js, Python, AWS Lambda, MongoDB, Node.js...  
+_São Caetano do Sul/SP_
+
 [TradeUp Group](http://www.tradeupgroup.com.br/)  
 Vue, Vuex, Laravel, MongoDB, AWS, React Native    
 _Barueri/SP_
@@ -646,6 +654,7 @@ _Barueri/SP_
 [Tilix Digital](https://tilix.com/)  
 Vue, Vuex, Node.js, Golang, GraphQL, AWS Lambda, AWS AppSync, AWS DynamoDB, AWS RDS, AWS API Gateway...
 _Barueri/SP_
+
 
 # U
 
