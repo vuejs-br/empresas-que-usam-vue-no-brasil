@@ -639,6 +639,10 @@ _São Paulo/SP_
 Vue, Nuxt, Vuex, AWS, Node, Go, React   
 _Maringá/PR_
 
+[TerraMagna](https://terramagna.com.br/)  
+Vue, Vuex, GCP, Node.js, Rust, Firebase, Python  
+_São José dos Campos/SP_
+
 [Tenda Digital](https://tenda.digital/)  
 Vue.js, Node.js, Ionic, Angular, Cordova, Elastic Search, Google Cloud, Cloud Functions, Heroku...  
 _São Caetano do Sul/SP_
