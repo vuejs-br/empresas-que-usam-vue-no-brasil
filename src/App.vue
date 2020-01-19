@@ -2,6 +2,8 @@
   <div id="app">
     <AppHeader />
 
+    <AppHero />
+
     <div class="container">
       <LetterRow
         v-for="group in groups"
@@ -15,11 +17,12 @@
 import { groupBy, orderBy } from 'lodash-es'
 import { loadCompanies } from './lib/companies'
 import AppHeader from './components/AppHeader'
+import AppHero from './components/AppHero'
 import LetterRow from './components/LetterRow'
 
 export default {
   name: 'app',
-  components: { AppHeader, LetterRow },
+  components: { AppHeader, LetterRow, AppHero },
   data: () => ({
     companies: [],
     meta: {}
