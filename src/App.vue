@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <AppHeader />
+    <!-- <AppHeader /> -->
 
     <AppHero />
 
@@ -16,13 +16,13 @@
 <script>
 import { groupBy, orderBy } from 'lodash-es'
 import { loadCompanies } from './lib/companies'
-import AppHeader from './components/AppHeader'
+// import AppHeader from './components/AppHeader'
 import AppHero from './components/AppHero'
 import LetterRow from './components/LetterRow'
 
 export default {
   name: 'app',
-  components: { AppHeader, LetterRow, AppHero },
+  components: { LetterRow, AppHero },
   data: () => ({
     companies: [],
     meta: {}
