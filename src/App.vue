@@ -1,34 +1,41 @@
 <template>
   <div id="app">
-    <!-- <AppHeader /> -->
-
     <AppHero />
 
     <div class="container">
-      <LetterRow
-        v-for="group in groups"
-        :key="group.letter"
-        v-bind="group"/>
+      <div class="columns">
+        <div class="column">
+          <AppTagFilter v-model="tagsSelecteds" :tags="meta.tags" />
+        </div>
+        <main class="column is-three-quarters">
+          <LetterRow
+          v-for="group in groups"
+          :key="group.letter"
+          v-bind="group"/>
+        </main>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
 import { groupBy, orderBy } from 'lodash-es'
-import { loadCompanies } from './lib/companies'
-// import AppHeader from './components/AppHeader'
+import { loadCompanies, filterCompanies } from './lib/companies'
+import AppTagFilter from './components/AppTagFilter'
 import AppHero from './components/AppHero'
 import LetterRow from './components/LetterRow'
 
 export default {
   name: 'app',
-  components: { LetterRow, AppHero },
+  components: { LetterRow, AppHero, AppTagFilter },
   data: () => ({
+    tagsSelecteds: [],
     companies: [],
     meta: {}
   }),
   computed: {
     groups () {
+      const tags = this.tagsSelecteds
       const companies = orderBy(this.companies, 'name')
       const groups = groupBy(companies, 'letter')
 
@@ -36,7 +43,7 @@ export default {
         .map(([letter, companies]) => {
           return {
             letter,
-            companies: Object.freeze(companies)
+            companies: filterCompanies({ tags }, companies)
           }
         })
     }

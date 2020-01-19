@@ -20,12 +20,12 @@ export default {
 
 <template>
   <div v-bind="{ id }" class="company-row">
-    <h3 class="title is-5">
+    <h3 class="title is-4">
       <a :href="'#' + id" class="has-text-light">#</a>
       {{ company.name }}
     </h3>
 
-    <div class="tags are-large">
+    <div class="tags are-medium">
       <div
         class="tag is-dark"
         v-for="location in company.location"
