@@ -24,7 +24,7 @@ export default {
           </a>
 
           <a target="_blank"
-            class="button is-link is-light is-large"
+            class="button is-link is-light is-large is-hidden-mobile"
             href="https://github.com/vuejs-br/vagas">
             Vagas
           </a>
@@ -36,7 +36,7 @@ export default {
           </a>
 
           <a target="_blank"
-            class="button is-link is-light is-large"
+            class="button is-link is-light is-large is-hidden-mobile"
             href="https://github.com/vuejs-br/forum">
             Forum
           </a>

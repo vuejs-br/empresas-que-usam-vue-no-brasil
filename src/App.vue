@@ -4,13 +4,13 @@
 
     <div class="container">
       <div class="columns">
-        <div class="column">
+        <div class="column is-hidden-mobile">
           <AppTagFilter
             v-model="filters.tags"
             :tags="meta.tags" />
         </div>
         <main class="column is-three-quarters">
-          <div class="columns">
+          <div class="columns is-mobile">
             <div class="column">
               <AppFilter
                 label="Nome da empresa"
