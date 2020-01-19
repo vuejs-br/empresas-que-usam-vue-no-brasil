@@ -16,11 +16,32 @@ export default {
           A lista possui os dados básicos das empresas para que desenvolvedores e contratantes possam ter conhecimento sobre as stacks de cada um e motivar interações entre ambas as partes.
         </p>
 
-        <a target="_blank"
-          class="button is-danger is-light is-large"
-          href="https://github.com/vuejs-br/empresas-que-usam-vue-no-brasil/pulls">
-          Envie seu PR
-        </a>
+        <div class="buttons">
+          <a target="_blank"
+            class="button is-info is-large"
+            href="https://github.com/vuejs-br/empresas-que-usam-vue-no-brasil/pulls">
+            Envie seu PR
+          </a>
+
+          <a target="_blank"
+            class="button is-link is-light is-large"
+            href="https://github.com/vuejs-br/vagas">
+            Vagas
+          </a>
+
+          <a target="_blank"
+            class="button is-link is-light is-large"
+            href="https://t.me/vuejsbrasil">
+            Telegram
+          </a>
+
+          <a target="_blank"
+            class="button is-link is-light is-large"
+            href="https://github.com/vuejs-br/forum">
+            Forum
+          </a>
+        </div>
+
       </div>
     </div>
   </section>
