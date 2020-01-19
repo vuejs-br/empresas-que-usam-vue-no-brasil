@@ -2,7 +2,9 @@ import Vue from 'vue'
 import App from './App.vue'
 import './registerServiceWorker'
 
-Vue.config.productionTip = false
+import './assets/scss/main.scss'
+
+Vue.config.productionTip = process.env !== 'production'
 
 new Vue({
   render: h => h(App)
