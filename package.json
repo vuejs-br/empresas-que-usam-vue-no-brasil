@@ -13,6 +13,7 @@
     "bulma": "^0.8.0",
     "core-js": "^3.4.4",
     "lodash-es": "^4.17.15",
+    "p-filter": "^2.1.0",
     "p-map": "^3.0.0",
     "p-waterfall": "^2.1.0",
     "register-service-worker": "^1.6.2",

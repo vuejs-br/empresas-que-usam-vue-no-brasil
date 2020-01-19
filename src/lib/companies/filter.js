@@ -1,38 +1,42 @@
-import { isEmpty, filter } from 'lodash-es'
+import { isEmpty } from 'lodash-es'
 import pWaterfall from 'p-waterfall'
+import pFilter from 'p-filter'
 import { sanitize } from '../utils'
+import { onIdle } from '../on-idle'
 
-const filterByTags = (tags, companies) => {
+const filter = (data, cb) => {
+  return pFilter(data, async row => {
+    return onIdle(() => cb(row))
+  })
+}
+
+const filterByTags = async (tags, companies) => {
   if (isEmpty(tags)) {
     return companies
   }
 
-  const result = filter(companies, company => {
+  return filter(companies, company => {
     return tags.every(tagName => {
       return company.tags.includes(tagName)
     })
   })
-
-  return result
 }
 
-const filterByLocation = (location, companies) => {
+const filterByLocation = async (location, companies) => {
   if (isEmpty(location)) {
     return companies
   }
 
   const val = sanitize(location)
 
-  const result = filter(companies, company => {
+  return filter(companies, company => {
     return company.location.some(row => {
       return sanitize(row).includes(val)
     })
   })
-
-  return result
 }
 
-const filterByName = (name, companies) => {
+const filterByName = async (name, companies) => {
   if (isEmpty(name)) {
     return companies
   }
@@ -48,9 +52,9 @@ const filterCompanies = (rules, companies) => {
   const { tags, name, location } = rules
 
   return pWaterfall([
-    result => filterByTags(tags, result),
-    result => filterByName(name, result),
-    result => filterByLocation(location, result),
+    result => onIdle(() => filterByTags(tags, result)),
+    result => onIdle(() => filterByName(name, result)),
+    result => onIdle(() => filterByLocation(location, result)),
     result => Object.freeze(result)
   ], companies)
 }
