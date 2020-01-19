@@ -1,9 +1,11 @@
 <script>
 import slug from 'slug'
 import { toLower } from 'lodash-es'
+import ExternalIcon from './ExternalIcon'
 
 export default {
   name: 'CompanyRow',
+  components: { ExternalIcon },
   props: {
     company: Object
   },
@@ -22,7 +24,9 @@ export default {
   <div v-bind="{ id }" class="company-row">
     <h3 class="title is-4">
       <a :href="'#' + id" class="has-text-light">#</a>
-      {{ company.name }}
+      <a :href="company.url" target="_blank">
+        {{ company.name }} <ExternalIcon />
+      </a>
     </h3>
 
     <div class="tags are-medium">
