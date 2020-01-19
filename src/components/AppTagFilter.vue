@@ -30,7 +30,7 @@ export default {
       const result = filter(
         tagListBase,
         tag => {
-          return sanitize(tag.name).indexOf(name) >= 0
+          return sanitize(tag.name).indexOf(sanitize(name)) >= 0
         }
       )
 
