@@ -34,12 +34,15 @@
         </main>
       </div>
     </div>
+    <hr>
+    <AppFooter />
   </div>
 </template>
 
 <script>
 import { groupBy, orderBy, isEmpty, negate, debounce } from 'lodash-es'
 import { loadCompanies, filterCompanies } from './lib/companies'
+import AppFooter from './components/AppFooter'
 import AppTagFilter from './components/AppTagFilter'
 import LoadingBar from './components/LoadingBar'
 import AppFilter from './components/AppFilter'
@@ -49,7 +52,7 @@ import pMap from 'p-map'
 
 export default {
   name: 'app',
-  components: { LetterRow, AppHero, AppTagFilter, AppFilter, LoadingBar },
+  components: { AppFooter, LetterRow, AppHero, AppTagFilter, AppFilter, LoadingBar },
   data: () => ({
     loading: true,
     tagsSelecteds: Object.freeze([]),
@@ -134,7 +137,3 @@ export default {
   }
 }
 </script>
-
-<style lang="scss">
-
-</style>
