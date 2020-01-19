@@ -35,12 +35,13 @@
 </template>
 
 <script>
-import { groupBy, orderBy, isEmpty, negate, debounce, map } from 'lodash-es'
+import { groupBy, orderBy, isEmpty, negate, debounce } from 'lodash-es'
 import { loadCompanies, filterCompanies } from './lib/companies'
 import AppTagFilter from './components/AppTagFilter'
 import AppFilter from './components/AppFilter'
 import AppHero from './components/AppHero'
 import LetterRow from './components/LetterRow'
+import pMap from 'p-map'
 
 export default {
   name: 'app',
@@ -77,7 +78,7 @@ export default {
     }
   },
   methods: {
-    applyFilter () {
+    async applyFilter () {
       const { groupsBase } = this
 
       this.loading = true
@@ -88,8 +89,8 @@ export default {
         return
       }
 
-      const groups = map(groupsBase, group => {
-        const records = filterCompanies(this.filters, group.companies)
+      const groups = await pMap(groupsBase, async group => {
+        const records = await filterCompanies(this.filters, group.companies)
 
         return Object.freeze({
           ...group,

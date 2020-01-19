@@ -1,4 +1,5 @@
 import { isEmpty, filter } from 'lodash-es'
+import pWaterfall from 'p-waterfall'
 import { sanitize } from '../utils'
 
 const filterByTags = (tags, companies) => {
@@ -46,9 +47,12 @@ const filterByName = (name, companies) => {
 const filterCompanies = (rules, companies) => {
   const { tags, name, location } = rules
 
-  return Object.freeze(
-    filterByName(name, filterByTags(tags, filterByLocation(location, companies)))
-  )
+  return pWaterfall([
+    result => filterByTags(tags, result),
+    result => filterByName(name, result),
+    result => filterByLocation(location, result),
+    result => Object.freeze(result)
+  ], companies)
 }
 
 export { filterCompanies }
