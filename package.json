@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "dev": "yarn extract && vue-cli-service serve",
+    "build": "yarn extract && vue-cli-service build",
+    "extract": "node scripts/generate-companies",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
@@ -25,8 +26,17 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
     "eslint-plugin-vue": "^6.1.2",
+    "hast-util-select": "^3.0.1",
+    "lodash": "^4.17.15",
+    "mdast-util-compact": "^2.0.0",
+    "mdast-util-to-hast": "^7.0.0",
     "node-sass": "^4.12.0",
+    "ora": "^4.0.3",
+    "pretty-bytes": "^5.3.0",
+    "remark-parse": "^7.0.2",
     "sass-loader": "^8.0.0",
+    "to-vfile": "^6.0.0",
+    "unified": "^8.4.2",
     "vue-template-compiler": "^2.6.10"
   }
 }
