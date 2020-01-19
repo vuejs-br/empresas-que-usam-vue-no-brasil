@@ -24,10 +24,13 @@
                 v-model="filters.location" />
             </div>
           </div>
-          <LetterRow
-            v-for="group in groups"
-            :key="group.letter"
-            v-bind="group"/>
+          <div>
+            <LoadingBar v-if="loading" />
+            <LetterRow
+              v-for="group in groups"
+              :key="group.letter"
+              v-bind="group"/>
+          </div>
         </main>
       </div>
     </div>
@@ -38,6 +41,7 @@
 import { groupBy, orderBy, isEmpty, negate, debounce } from 'lodash-es'
 import { loadCompanies, filterCompanies } from './lib/companies'
 import AppTagFilter from './components/AppTagFilter'
+import LoadingBar from './components/LoadingBar'
 import AppFilter from './components/AppFilter'
 import AppHero from './components/AppHero'
 import LetterRow from './components/LetterRow'
@@ -45,7 +49,7 @@ import pMap from 'p-map'
 
 export default {
   name: 'app',
-  components: { LetterRow, AppHero, AppTagFilter, AppFilter },
+  components: { LetterRow, AppHero, AppTagFilter, AppFilter, LoadingBar },
   data: () => ({
     loading: true,
     tagsSelecteds: Object.freeze([]),
@@ -120,7 +124,10 @@ export default {
 
     this.$stopFilterWatch = this.$watch(() => {
       return { ...this.filters }
-    }, this.$onFilter)
+    }, () => {
+      this.loading = true
+      this.$onFilter()
+    })
   },
   beforeDestroy () {
     this.$stopFilterWatch()
