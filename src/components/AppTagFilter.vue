@@ -1,7 +1,6 @@
 <script>
-import { orderBy, filter, toLower, deburr, isEmpty } from 'lodash-es'
-
-const sanitize = val => toLower(deburr(val))
+import { orderBy, filter, isEmpty } from 'lodash-es'
+import { sanitize } from '../lib/utils'
 
 export default {
   name: 'AppTagFilter',
