@@ -1,5 +1,5 @@
 <script>
-import slug from 'slug'
+import slugify from 'slugify'
 import { toLower } from 'lodash-es'
 import ExternalIcon from './ExternalIcon'
 
@@ -11,7 +11,7 @@ export default {
   },
   computed: {
     slug () {
-      return slug(toLower(this.company.name))
+      return slugify(toLower(this.company.name))
     },
     id () {
       return `company-${this.slug}`

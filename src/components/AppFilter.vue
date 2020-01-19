@@ -1,5 +1,5 @@
 <script>
-import slug from 'slug'
+import slugify from 'slugify'
 
 export default {
   name: 'AppFilter',
@@ -10,7 +10,7 @@ export default {
   },
   computed: {
     id () {
-      return slug(this.label)
+      return slugify(this.label)
     }
   }
 }

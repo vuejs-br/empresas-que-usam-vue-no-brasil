@@ -1,5 +1,5 @@
 import { PromisePipeFactory } from './p-pipe'
-import { isFunction, isArray } from 'lodash'
+import { isFunction, isArray } from 'lodash-es'
 const w = window
 
 /**
