@@ -1,4 +1,4 @@
-const { isEmpty, split, trim, size, flatMap, countBy, negate, toLower, toUpper } = require('lodash')
+const { isEmpty, split, trim, size, flatMap, countBy, negate, toLower, toUpper, uniq } = require('lodash')
 
 const getLetter = name => {
   const first = name[0]
@@ -32,9 +32,10 @@ const extractChildrenData = children => {
     }
 
     if (node.type === 'text' && !isEmpty(node.value) && node.value !== '\n') {
+      const tags = split(node.value, ',').map(trim).filter(negate(isEmpty))
       return {
         ...acc,
-        tags: split(node.value, ',').map(trim).filter(negate(isEmpty))
+        tags: uniq(tags)
       }
     }
 
