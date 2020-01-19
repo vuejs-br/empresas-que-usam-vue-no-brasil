@@ -1,9 +1,7 @@
-import axios from 'axios'
-
 const loadCompanies = async () => {
-  const { data } = await axios.get('/data.json')
+  const data = await import(/* webpackChunkName: "companies-json" */ '../../../public/data.json')
 
-  return data
+  return data.default
 }
 
 export { loadCompanies }
