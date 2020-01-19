@@ -84,8 +84,8 @@ export default {
       <li @click="select(tag)" v-for="tag in tagList" :key="tag.name">
         <a>
           <div class="tags has-addons">
-            <span class="tag is-dark">{{ tag.count }}</span>
-            <span class="tag is-info">{{ tag.name }}</span>
+            <span class="tag is-info">{{ tag.count }}</span>
+            <span class="tag is-dark">{{ tag.name }}</span>
           </div>
         </a>
       </li>

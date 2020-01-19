@@ -40,7 +40,7 @@ export default {
 
     <div class="tags">
       <div
-        class="tag is-info"
+        class="tag is-link is-light"
         v-for="tag in company.tags"
         :key="slug + '-' + tag">
         {{ tag }}

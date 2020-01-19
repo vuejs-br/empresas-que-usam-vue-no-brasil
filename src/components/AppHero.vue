@@ -18,7 +18,7 @@ export default {
 
         <div class="buttons">
           <a target="_blank"
-            class="button is-info is-large"
+            class="button is-dark is-large"
             href="https://github.com/vuejs-br/empresas-que-usam-vue-no-brasil/pulls">
             Envie seu PR
           </a>

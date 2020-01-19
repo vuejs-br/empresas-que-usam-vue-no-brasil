@@ -1,4 +1,15 @@
 module.exports = {
+  pwa: {
+    name: 'Empresas que usam Vue.js no Brasil',
+    themeColor: '#40b882',
+    msTileColor: '#35495e',
+    appleMobileWebAppCapable: 'yes',
+    appleMobileWebAppStatusBarStyle: 'black',
+    workboxOptions: {
+      importScripts: ['/precache-sw.js'],
+      skipWaiting: true
+    }
+  },
   configureWebpack: {
     optimization: {
       splitChunks: {
