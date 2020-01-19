@@ -25,9 +25,9 @@
             </div>
           </div>
           <LetterRow
-          v-for="group in groupsVisibles"
-          :key="group.letter"
-          v-bind="group"/>
+            v-for="group in groups"
+            :key="group.letter"
+            v-bind="group"/>
         </main>
       </div>
     </div>
@@ -35,7 +35,7 @@
 </template>
 
 <script>
-import { groupBy, orderBy, isEmpty, negate } from 'lodash-es'
+import { groupBy, orderBy, isEmpty, negate, debounce, map } from 'lodash-es'
 import { loadCompanies, filterCompanies } from './lib/companies'
 import AppTagFilter from './components/AppTagFilter'
 import AppFilter from './components/AppFilter'
@@ -46,43 +46,63 @@ export default {
   name: 'app',
   components: { LetterRow, AppHero, AppTagFilter, AppFilter },
   data: () => ({
-    tagsSelecteds: [],
+    loading: true,
+    tagsSelecteds: Object.freeze([]),
+    groups: Object.freeze([]),
+    companies: Object.freeze([]),
+    meta: {},
     filters: {
-      tags: [],
+      tags: Object.freeze([]),
       name: '',
       location: ''
-    },
-    companies: [],
-    meta: {}
+    }
   }),
   computed: {
     hasFilter () {
       return Object.values(this.filters)
         .some(negate(isEmpty))
     },
-    groupsVisibles () {
-      const { groups } = this
-      if (!this.hasFilter) {
-        return Object.freeze(groups)
-      }
-
-      return Object.freeze(
-        orderBy(groups, ['count'], ['desc'])
-      )
-    },
-    groups () {
+    groupsBase () {
       const companies = orderBy(this.companies, 'name')
       const groups = groupBy(companies, 'letter')
 
       return Object.entries(groups)
         .map(([letter, companies]) => {
-          const records = filterCompanies(this.filters, companies)
           return {
             letter,
-            count: records.length,
-            companies: records
+            companies,
+            count: companies.length
           }
         })
+    }
+  },
+  methods: {
+    applyFilter () {
+      const { groupsBase } = this
+
+      this.loading = true
+
+      if (!this.hasFilter) {
+        this.groups = Object.freeze(groupsBase)
+        this.loading = false
+        return
+      }
+
+      const groups = map(groupsBase, group => {
+        const records = filterCompanies(this.filters, group.companies)
+
+        return Object.freeze({
+          ...group,
+          count: records.length,
+          companies: records
+        })
+      })
+
+      this.groups = Object.freeze(
+        orderBy(groups, ['count'], ['desc'])
+      )
+
+      this.loading = false
     }
   },
   async mounted () {
@@ -90,6 +110,19 @@ export default {
 
     this.meta = Object.freeze(meta)
     this.companies = Object.freeze(companies)
+
+    this.applyFilter()
+
+    this.$onFilter = debounce(() => {
+      this.applyFilter()
+    }, 900)
+
+    this.$stopFilterWatch = this.$watch(() => {
+      return { ...this.filters }
+    }, this.$onFilter)
+  },
+  beforeDestroy () {
+    this.$stopFilterWatch()
   }
 }
 </script>
