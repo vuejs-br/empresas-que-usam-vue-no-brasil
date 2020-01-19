@@ -9,7 +9,7 @@
         </div>
         <main class="column is-three-quarters">
           <LetterRow
-          v-for="group in groups"
+          v-for="group in groupsVisibles"
           :key="group.letter"
           v-bind="group"/>
         </main>
@@ -19,7 +19,7 @@
 </template>
 
 <script>
-import { groupBy, orderBy } from 'lodash-es'
+import { groupBy, orderBy, isEmpty } from 'lodash-es'
 import { loadCompanies, filterCompanies } from './lib/companies'
 import AppTagFilter from './components/AppTagFilter'
 import AppHero from './components/AppHero'
@@ -34,6 +34,19 @@ export default {
     meta: {}
   }),
   computed: {
+    hasFilter () {
+      return !isEmpty(this.tagsSelecteds)
+    },
+    groupsVisibles () {
+      const { groups } = this
+      if (!this.hasFilter) {
+        return Object.freeze(groups)
+      }
+
+      return Object.freeze(
+        orderBy(groups, ['count'], ['desc'])
+      )
+    },
     groups () {
       const tags = this.tagsSelecteds
       const companies = orderBy(this.companies, 'name')
@@ -41,9 +54,11 @@ export default {
 
       return Object.entries(groups)
         .map(([letter, companies]) => {
+          const records = filterCompanies({ tags }, companies)
           return {
             letter,
-            companies: filterCompanies({ tags }, companies)
+            count: records.length,
+            companies: records
           }
         })
     }

@@ -20,7 +20,7 @@ export default {
 </script>
 
 <template>
-  <section v-bind="{ id }" class="panel is-primary">
+  <section v-bind="{ id }" :class="count === 0 ? 'is-gray' : 'is-primary'" class="panel">
     <h2 class="panel-heading">
       <a :href="'#' + id" class="has-text-dark">#</a> {{ letter }}
 
