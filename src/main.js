@@ -1,13 +1,22 @@
+import './assets/scss/main.scss'
+
 import Vue from 'vue'
-import App from './App.vue'
-import router from './router'
+import Root from './Root.vue'
+import useIdle from './lib/on-idle/plugin'
+import { onIdle } from './lib/on-idle'
+
 import './registerServiceWorker'
-import vuetify from './plugins/vuetify'
 
-Vue.config.productionTip = false
+Vue.use(useIdle)
 
-new Vue({
-  router,
-  vuetify,
-  render: h => h(App)
-}).$mount('#app')
+Vue.config.productionTip = process.env !== 'production'
+
+onIdle(() => {
+  new Vue({
+    created () {
+      document
+        .body.classList.remove('starting')
+    },
+    render: h => h(Root)
+  }).$mount('#app')
+})

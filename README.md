@@ -1,23 +1,37 @@
 # Empresas que usam Vue.js no Brasil
 
-##### O que é esta lista?
+## O que é esta lista?
 Esta lista é uma iniciativa pública que tem o intuito de divulgar o nome de empresas que usam Vue.js de alguma forma. Os dados das empresas são de inteira responsabilidade do usuário que criar o PR e não somos capazes de avaliar o quanto e onde cada empresa usa.
 A lista possui os dados básicos das empresas para que desenvolvedores e contratantes possam ter conhecimento sobre as stacks de cada um e motivar interações entre ambas as partes.
 
-##### O que não é esta lista?
+## O que não é esta lista?
 Uma forma de dizer que o Vue.js é muito difundido ou uma estratégia comercial. Não há qualquer motivação comercial por trás da iniciativa, nem tampouco é um benchmark ou coisa do gênero. A lista não é onde a empresa usa o Vue.js, o site que é listado é apenas uma forma de achar a empresa, como o telefone, rede social, email ou qualquer outro contato tradicional (só que mais legal).
 
-##### Sobre as reponsabilidades em relação à lista
+## Sobre as reponsabilidades em relação à lista
 Os criadores do repositório não tem autoridade para gerenciar à lista. Cada usuário que adicionar uma empresa na lista tem responsabilidade sobre essa informação e nos reservamos o direito de não modificar arbitrariamente nenhuma informação contida na lista.
 
 > Importante:
 >
 > Ao adicionar a empresa na lista é obrigatório que seja avaliado com representantes legais dela se é uma informação que deveria ser compartilhada.
+
+
+## Project setup
+
+```
+yarn install
+yarn run dev
+```
+
+### Compiles and minifies for production
+```	
+yarn run build	
+```	
+
 ----
 
-## Lista de empresas
+# Lista de empresas
 
-# A
+## A
 
 [Abacomm](http://www.abacomm.com.br)  
 Vue, Vuex, Node, Laravel, AWS    
@@ -67,7 +81,7 @@ _Teresina/PI_
 Ruby on Rails, Vue, Electron    
 _São Paulo/SP_
 
-# B
+## B
 
 [B2rent](http://b2rent.com.br/)   
 Laravel, TypeScript, Sass, Node    
@@ -101,7 +115,7 @@ _Porto Alegre/RS_
 Vue, Laravel    
 _Florianópolis/SC_
 
-# C
+## C
 
 [Cálculo Juridico](https://calculojuridico.com.br/)  
 Vue, Ruby on Rails, Postgres, Docker, Heroku    
@@ -144,7 +158,7 @@ Vue, Quasar, Axios, Parcel-Bundler
 _Gurupi/TO_
 
 
-# D
+## D
 
 [DB1 Global Software](https://db1it.com.br/)  
 Vue, Vuex, Vue Router, Axios, PixiJS, NestJs, Phaser, SocketIO, Redis, AWS, Java, Spring, PostgreSQL, PHP, Laravel, Docker  
@@ -174,7 +188,7 @@ _São Paulo/SP_
 Leaflet, Python    
 _Curitiba/PR_
 
-# E
+## E
 
 [E-Com Club](https://github.com/ecomclub)    
 Vue, Vuex, VueRouter, Antdv, Bootstrap, Netlify, NodeJS, Mongo, ElasticSearch, Redis     
@@ -220,7 +234,7 @@ _Belém/PA_
 Vue, .net core, Node, Mongo, Ionic, React native, MySql, Firebase,    
 _Bauru/SP_
 
-# F
+## F
 
 [Facilite](https://facilite.online)  
 Vue, Firebase    
@@ -250,7 +264,7 @@ _Bauru/SP_
 Vue, Vuex, Vue-router, Axios, Laravel    
 _Cascavel/PR_
 
-# G
+## G
 
 [Gerenciagram](https://gerenciagram.com.br)  
 Vue, Vuex, Vue Router, Vuetify, Vue-i18n    
@@ -277,7 +291,7 @@ _São Paulo/SP_
 Vue, Vuex    
 _Juiz de Fora/MG_
 
-# H
+## H
      
 [H5soluções](https://h5solucoes.com.br/)         
 Vue, Vuex, Mysql, PHP     
@@ -299,7 +313,7 @@ _Belo Horizonte/MG_
 Vue, Nuxt, Moleculer, Express, Spring, AWS    
 _Joinville/SC _
 
-# I
+## I
 
 [iMasters](https://imasters.com.br/)  
 Vue, Vuex, VueRouter, Laravel, Electron    
@@ -329,7 +343,7 @@ _São Paulo/SP_
 Vue, Vuex, Vue-Router, Vuetify, Webpack, GraphQL, .NET    
 _Vitória/ES_
 
-# J
+## J
 
 [Jambu Tecnologia](http://www.jambu.com.br/xss/)    
 Vue, Quasar, Linux, Java, Spring, Ubuntu   
@@ -343,7 +357,7 @@ _Rio de Janeiro /RJ_
 Node, PHP    
 _São Paulo/SP_
 
-# K
+## K
 
 [Kazap](http://www.kazap.com.br)  
 Node, VueJs, Vuex, Vue-Router, GraphQL, Ruby on Rails, React, Docker, MongoDB, Axios, Nuxt.js, Vuetify, Dialogflow, Firebase,   Electron-Vue, PWA  
@@ -361,7 +375,7 @@ _Santos/SP_
 Vue, Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA    
 _Belo Horizonte/MG_
 
-# L
+## L
 
 [Laboratorio IMEC](https://www.laboratorioimec.com.br)  
 NodeJS, WP-API    
@@ -399,7 +413,7 @@ _Curitiba/PR_
 Vue, Vuex, Laravel    
 _Curitiba/PR_
 
-# M
+## M
 
 [Magnetis](https://magnetis.com.br)  
 Vue, Ruby on Rails, Heroku, PWA    
@@ -441,7 +455,7 @@ _São Paulo/SP_
 Vue, Java    
 _Blumenau/SC_
 
-# N
+## N
 
 [Neoassist](https://site.neoassist.com/)     
 Vue, Vuex, Vue Router, PWA    
@@ -459,7 +473,7 @@ _Brasília/DF_
 Vue, React, Laravel, CakePHP  Natal RN  
 _Portugal/LX_
 
-# O
+## O
 
 [O Boticário](http://www.boticario.com.br/)  
 Vuejs    
@@ -477,7 +491,7 @@ _São Paulo/SP_
 Vue.js, Vuex, VueRouter, Axios, PHP, Phalcon PHP, Node.js, MariaDB, Redis, Memcached    
 _Joinville/SC_
 
-# P
+## P
 
 [PAX](https://paxexpress.com.br/)  
 Vue, Quasar, Nuxt, NodeJS, MongoDB    
@@ -527,13 +541,13 @@ _Manaus/AM_
 Vue, Vuex    
 _Passa Quatro/MG_
 
-# Q
+## Q
 
 [Quero Educação](https://quero.education)  
 Vue, Vuex, Vue Router, Nuxt, Jest    
 _São José dos Campos/SP_
 
-# R
+## R
 
 [Raro Labs](https://rarolabs.com.br/)  
 Vue, Vuex, Angular, Node, Ruby on Rails    
@@ -571,7 +585,7 @@ _Joinville/SC_
 Vue, Nodejs, Postgres, AWS    
 _Brasília, DF_ | _São Paulo, SP_
 
-# S
+## S
 
 [SAS Plataforma de Educação](http://portalsas.com.br)  
 Vue, Vuex, Node, Mongo, AWS    
@@ -633,7 +647,7 @@ _Juazeiro/BA_
 Vue, Vuex, VueRouter, Data Mining, Natural Language Processing, Computer Vision    
 _Ouro Preto/MG | São Paulo/SP_
 
-# T
+## T
 
 [Take 5](https://take5.com.br/)  
 Vue, Quasar, Python, Django, Node.js, AWS, Firebase   
@@ -664,7 +678,7 @@ Vue, Vuex, Node.js, Golang, GraphQL, AWS Lambda, AWS AppSync, AWS DynamoDB, AWS 
 _Barueri/SP_
 
 
-# U
+## U
 
 [uMov](http://www.umov.me/)              
 Vue, Java, Ruby, Go, Swift, Kotlin    
@@ -690,7 +704,7 @@ _São Paulo/SP_
 Vue, Python, Django, Django Rest Framework    
 _São Paulo/SP_
 
-# V
+## V
 
 [Varlik Tecnologia](https://varlik.com.br)    
 Vue, Vuex, PHP, Laravel, MySQL    
@@ -704,7 +718,7 @@ _Marau/RS_
 Vue, Vuex, Axios, Webpack, Node, MySql, MongoDB, AWS    
 _Uberlândia/MG | São Paulo/MG_
 
-# W
+## W
 
 [W3 Automação e Sistemas](http://w3as.com.br)  
 Vue, Electron-Vue, NodeJs, .Net Core, Java, Vuex, SQLServer    
@@ -726,7 +740,7 @@ _Porto Alegre/RS_
 Vue, Vue Router, Java Spring, Rest, MySql    
 _Florianópolis/SC_
 
-# Y
+## Y
 
 [Yampi](https://www.yampi.com.br/)  
 Vue, Vuex, Axios, Laravel, AWS    
@@ -737,7 +751,7 @@ Vue, Vuex, Axios, Ruby, Lodash
 _Marília/SP_
 
 
-# Z
+## Z
 
 [Zerum](http://www.zerum.com/)        
 Django, DjangoRestFramework, PostgresSQL, VueJS, Vuex    
@@ -748,7 +762,7 @@ Vue, Vuex, React, Redux, Angular, ngrx, Node
 _Uberlândia/MG_
 
 
-# 1-9
+## 1-9
 
 [128Bits](http://128bits.cc/)     
 Django, PostgreSQL, VueJs, Vuex     
@@ -757,28 +771,3 @@ _Teresina/PI_
 [7Virtual](http://7virtual.com.br/)      
 Entity(C#), SQLServer, VueJs, Quasar     
 _Serrinha/BA_
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```	
-yarn run build	
-```	
-
-### Run your tests	
-```	
-yarn run test	
-```	
-
-### Lints and fixes files	
-```	
-yarn run lint	
-```

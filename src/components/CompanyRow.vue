@@ -1,59 +1,50 @@
-<template>
-  <v-card row wrap class="company" :class="{'has-anchor': anchor !== ''}">
-    <v-flex class="primary--text anchor" :id="anchor" v-if="anchor">
-      #{{ anchor }}
-    </v-flex>
-    <v-card-title class="mb-3">
-      <v-flex>
-        {{ item.name }}
-      </v-flex>
-      <v-flex shrink v-if="item.openJob">
-        <v-btn :href="item.openJob" color="primary" text class="text-capitalize mr-0">
-          há vagas!
-          <v-icon right>
-            mdi-open-in-new
-          </v-icon>
-        </v-btn>
-      </v-flex>
-    </v-card-title>
-    <v-card-text>
-      <v-chip v-for="(tech, index) in item.tech" :key="index" class="mr-2 mb-2">
-        {{ tech }}
-      </v-chip>
-      <v-layout row wrap class="pt-0">
-        <v-flex shrink v-if="item.remote" class="primary--text pr-2">
-          Remoto
-        </v-flex>
-        <v-flex shrink v-for="(address, index) in item.address" :key="index" class="pr-2">
-          {{ address.city }} / {{ address.state}}
-        </v-flex>
-      </v-layout>
-    </v-card-text>
-  </v-card>
-</template>
-
 <script>
+import slugify from 'slugify'
+import { toLower } from 'lodash-es'
+import ExternalIcon from './ExternalIcon'
+
 export default {
+  name: 'CompanyRow',
+  components: { ExternalIcon },
   props: {
-    item: {
-      type: Object
+    company: Object
+  },
+  computed: {
+    slug () {
+      return slugify(toLower(this.company.name))
     },
-    anchor: {
-      type: String
+    id () {
+      return `company-${this.slug}`
     }
   }
 }
 </script>
 
-<style>
-.company {
-  margin-top: 30px;
-}
-.anchor {
-  position: absolute;
-  margin-top: -40px;
-}
-.has-anchor {
-  margin-top: 70px;
-}
-</style>
+<template>
+  <div v-bind="{ id }" class="company-row">
+    <h3 class="title is-4">
+      <a :href="'#' + id" class="has-text-light">#</a>
+      <a :href="company.url" target="_blank">
+        {{ company.name }} <ExternalIcon />
+      </a>
+    </h3>
+
+    <div class="tags are-medium">
+      <div
+        class="tag is-dark"
+        v-for="location in company.location"
+        :key="slug + '-' + location">
+        {{ location }}
+      </div>
+    </div>
+
+    <div class="tags">
+      <div
+        class="tag is-link is-light"
+        v-for="tag in company.tags"
+        :key="slug + '-' + tag">
+        {{ tag }}
+      </div>
+    </div>
+  </div>
+</template>
