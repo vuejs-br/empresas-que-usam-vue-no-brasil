@@ -1,4 +1,4 @@
-import { serialOnIdle } from './utils'
+import { serialOnIdle } from './index'
 
 const install = Vue => {
   Object.defineProperty(Vue.prototype, '$onIdle', {

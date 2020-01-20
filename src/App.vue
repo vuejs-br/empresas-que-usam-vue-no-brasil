@@ -96,7 +96,9 @@ export default {
         return
       }
 
+      await this.$onIdle()
       const groups = await pMap(groupsBase, async group => {
+        await this.$onIdle()
         const records = await filterCompanies(this.filters, group.companies)
 
         return Object.freeze({
@@ -114,23 +116,25 @@ export default {
     }
   },
   async mounted () {
-    const { meta, companies } = await loadCompanies()
-
-    this.meta = Object.freeze(meta)
-    this.companies = Object.freeze(companies)
-
-    this.applyFilter()
-
     this.$onFilter = debounce(() => {
       this.applyFilter()
     }, 900)
 
-    this.$stopFilterWatch = this.$watch(() => {
-      return { ...this.filters }
-    }, () => {
-      this.loading = true
-      this.$onFilter()
-    })
+    await this.$onIdle() // each promise in idle frame
+      .then(() => loadCompanies())
+      .then(({ meta, companies }) => {
+        this.meta = Object.freeze(meta)
+        this.companies = Object.freeze(companies)
+      })
+      .then(() => this.applyFilter())
+      .then(() => {
+        this.$stopFilterWatch = this.$watch(() => {
+          return { ...this.filters }
+        }, () => {
+          this.loading = true
+          this.$onFilter()
+        })
+      })
   },
   beforeDestroy () {
     this.$stopFilterWatch()
