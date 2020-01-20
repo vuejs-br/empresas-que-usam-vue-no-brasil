@@ -212,6 +212,10 @@ _São Paulo/SP_
 Vue, Laravel, Php, Python, MySQL     
 _Salvador/BA_
 
+[Exodus Sistemas](https://www.exodus.eti.br/)  
+Vue, Vuex, Nuxt, .net core, Node, Ionic, Python, MongoDb, Sql Server   
+_Belém/PA_
+
 [EzDevs](http://ezdevs.com.br)  
 Vue, .net core, Node, Mongo, Ionic, React native, MySql, Firebase,    
 _Bauru/SP_
