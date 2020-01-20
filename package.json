@@ -33,6 +33,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "eslint-plugin-vue": "^6.1.2",
     "hast-util-select": "^3.0.1",
+    "html-critical-webpack-plugin": "^2.1.0",
     "lodash": "^4.17.15",
     "mdast-util-compact": "^2.0.0",
     "mdast-util-to-hast": "^7.0.0",
