@@ -674,7 +674,7 @@ Vue, Vuex, Laravel, MongoDB, AWS, React Native
 _Barueri/SP_
 
 [Track.co](https://track.co/)  
-Vue, Vuex, VueRouter, Vuetify, Golang, Postgres, AWS, AWS Lambda...
+Vue, Vuex, VueRouter, Vuetify, Golang, Postgres, AWS, AWS Lambda       
 _Belo Horizonte/MG_
 
 [Tilix Digital](https://tilix.com/)  
