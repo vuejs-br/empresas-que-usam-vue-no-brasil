@@ -14,8 +14,112 @@
     <meta property="og:title" content="Empresas que usam Vue.js no Brasil - Vue.js Brasil">
     <meta property="og:description" content="Esta lista é uma iniciativa pública que tem o intuito de divulgar o nome de empresas que usam Vue.js de alguma forma.">
     <title>Empresas que usam Vue.js no Brasil - Vue.js Brasil</title>
+    <style>
+      body, html {
+        padding: 0;
+        margin: 0;
+      }
+      .pre-loader,
+      .pre-loader:before,
+      .pre-loader:after {
+        border-radius: 50%;
+      }
+      .pre-loader {
+        margin: 0 auto;
+        color: #40b882;
+        font-size: 11px;
+        text-indent: -99999em;
+        position: relative;
+        width: 10em;
+        height: 10em;
+        box-shadow: inset 0 0 0 1em;
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+      }
+      .pre-loader:before,
+      .pre-loader:after {
+        position: absolute;
+        content: '';
+      }
+      .pre-loader:before {
+        width: 5.2em;
+        height: 10.2em;
+        background: #304455;
+        border-radius: 10.2em 0 0 10.2em;
+        top: -0.1em;
+        left: -0.1em;
+        -webkit-transform-origin: 5.1em 5.1em;
+        transform-origin: 5.1em 5.1em;
+        -webkit-animation: load2 2s infinite ease 1.5s;
+        animation: load2 2s infinite ease 1.5s;
+      }
+      .pre-loader:after {
+        width: 5.2em;
+        height: 10.2em;
+        background: #304455;
+        border-radius: 0 10.2em 10.2em 0;
+        top: -0.1em;
+        left: 4.9em;
+        -webkit-transform-origin: 0.1em 5.1em;
+        transform-origin: 0.1em 5.1em;
+        -webkit-animation: load2 2s infinite ease;
+        animation: load2 2s infinite ease;
+      }
+      @-webkit-keyframes load2 {
+        0% {
+          -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+        }
+        100% {
+          -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+        }
+      }
+      @keyframes load2 {
+        0% {
+          -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+        }
+        100% {
+          -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+        }
+      }
+      .pre-loader-title, .pre-loader-title a {
+        text-align: center;
+        font-weight: normal;
+        margin: 0;
+        font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+        text-decoration: none;
+      }
+      .pre-loader-title{
+        color: #fff;
+        font-size: 2em;
+        line-height: 1.5;
+        margin-top: 1em;
+      }
+      .pre-loader-title a, .pre-loader-title a:hover {
+        color: #40b882;
+      }
+      .pre-loader-title a:hover {
+        text-decoration: underline;
+      }
+      body.starting {
+        background-color: #304455;
+      }
+      body.starting .no-script {
+        background-color: #fff;
+      }
+      body.starting #app {
+        padding-top: 55px;
+      }
+      html {
+        overflow-y: scroll;
+      }
+    </style>
   </head>
-  <body>
+  <body class="starting">
     <noscript>
       <div class="no-script container is-fluid">
         <h1 class="title">Empresas que usam Vue.js no Brasil</h1>
@@ -37,7 +141,10 @@
 
       </div>
     </noscript>
-    <div id="app"></div>
+    <div id="app">
+      <div class="pre-loader"></div>
+      <h1 class="pre-loader-title">Empresas que usam Vue.js no Brasil</h1>
+    </div>
     <!-- built files will be auto injected -->
   </body>
 </html>

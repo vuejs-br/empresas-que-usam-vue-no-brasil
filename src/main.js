@@ -11,5 +11,9 @@ Vue.use(useIdle)
 Vue.config.productionTip = process.env !== 'production'
 
 new Vue({
+  created () {
+    document
+      .body.classList.remove('starting')
+  },
   render: h => h(Root)
 }).$mount('#app')
