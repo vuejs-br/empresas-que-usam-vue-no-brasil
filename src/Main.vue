@@ -1,58 +1,15 @@
-<template>
-  <div id="app">
-    <AppHero />
-
-    <div class="container is-fullhd">
-      <div class="columns">
-        <div class="column is-hidden-mobile">
-          <AppTagFilter
-            v-model="filters.tags"
-            :tags="meta.tags" />
-        </div>
-        <main class="column is-three-quarters">
-          <div class="columns is-mobile">
-            <div class="column">
-              <AppFilter
-                label="Nome da empresa"
-                placeholder="Encontre uma empresa por nome"
-                v-model="filters.name" />
-            </div>
-            <div class="column">
-              <AppFilter
-                label="Localização"
-                placeholder="Encontre uma empresa local"
-                v-model="filters.location" />
-            </div>
-          </div>
-          <div>
-            <LoadingBar v-if="loading" />
-            <LetterRow
-              v-for="group in groups"
-              :key="group.letter"
-              v-bind="group"/>
-          </div>
-        </main>
-      </div>
-    </div>
-    <hr>
-    <AppFooter />
-  </div>
-</template>
-
 <script>
+import pMap from 'p-map'
 import { groupBy, orderBy, isEmpty, negate, debounce } from 'lodash-es'
 import { loadCompanies, filterCompanies } from './lib/companies'
-import AppFooter from './components/AppFooter'
 import AppTagFilter from './components/AppTagFilter'
 import LoadingBar from './components/LoadingBar'
 import AppFilter from './components/AppFilter'
-import AppHero from './components/AppHero'
 import LetterRow from './components/LetterRow'
-import pMap from 'p-map'
 
 export default {
-  name: 'app',
-  components: { AppFooter, LetterRow, AppHero, AppTagFilter, AppFilter, LoadingBar },
+  name: 'AppMain',
+  components: { LetterRow, AppTagFilter, AppFilter, LoadingBar },
   data: () => ({
     loading: true,
     tagsSelecteds: Object.freeze([]),
@@ -142,14 +99,37 @@ export default {
 }
 </script>
 
-<style lang="scss">
-
-@media (max-width: 1407px) {
-  #app > .container {
-    max-width: none;
-    padding-left: 22px;
-    padding-right: 22px;
-    width: 100%;
-  }
-}
-</style>
+<template>
+  <div class="container is-fullhd">
+    <div class="columns">
+      <div class="column is-hidden-mobile">
+        <AppTagFilter
+          v-model="filters.tags"
+          :tags="meta.tags" />
+      </div>
+      <main class="column is-three-quarters">
+        <div class="columns is-mobile">
+          <div class="column">
+            <AppFilter
+              label="Nome da empresa"
+              placeholder="Encontre uma empresa por nome"
+              v-model="filters.name" />
+          </div>
+          <div class="column">
+            <AppFilter
+              label="Localização"
+              placeholder="Encontre uma empresa local"
+              v-model="filters.location" />
+          </div>
+        </div>
+        <div>
+          <LoadingBar v-if="loading" />
+          <LetterRow
+            v-for="group in groups"
+            :key="group.letter"
+            v-bind="group"/>
+        </div>
+      </main>
+    </div>
+  </div>
+</template>

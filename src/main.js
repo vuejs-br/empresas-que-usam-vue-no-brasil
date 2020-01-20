@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import App from './App.vue'
+import Root from './Root.vue'
 import useIdle from './lib/on-idle/plugin'
 
 import './registerServiceWorker'
@@ -11,5 +11,5 @@ Vue.use(useIdle)
 Vue.config.productionTip = process.env !== 'production'
 
 new Vue({
-  render: h => h(App)
+  render: h => h(Root)
 }).$mount('#app')
