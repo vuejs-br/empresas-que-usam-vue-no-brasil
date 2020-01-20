@@ -2,7 +2,7 @@
   <div id="app">
     <AppHero />
 
-    <div class="container">
+    <div class="container is-fullhd">
       <div class="columns">
         <div class="column is-hidden-mobile">
           <AppTagFilter
@@ -19,7 +19,7 @@
             </div>
             <div class="column">
               <AppFilter
-                label="Localização da empresa"
+                label="Localização"
                 placeholder="Encontre uma empresa local"
                 v-model="filters.location" />
             </div>
@@ -137,3 +137,15 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+
+@media (max-width: 1407px) {
+  #app > .container {
+    max-width: none;
+    padding-left: 22px;
+    padding-right: 22px;
+    width: 100%;
+  }
+}
+</style>
