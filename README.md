@@ -675,7 +675,7 @@ _Barueri/SP_
 
 [Track.co](https://track.co/)  
 Vue, Vuex, VueRouter, Vuetify, Golang, Postgres, AWS, AWS Lambda...
-_Belo Horizonte/MG
+_Belo Horizonte/MG_
 
 [Tilix Digital](https://tilix.com/)  
 Vue, Vuex, Node.js, Golang, GraphQL, AWS Lambda, AWS AppSync, AWS DynamoDB, AWS RDS, AWS API Gateway...
