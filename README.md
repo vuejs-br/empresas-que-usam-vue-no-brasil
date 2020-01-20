@@ -252,7 +252,7 @@ _Taquaritinga/SP_
 Vue, Vuex, Nuxt, Node    
 _São Paulo/SP_
 
-[FESC Tecnologia - Unimed SC](http://www.fesctecnologia.com.br/)  
+[FESC Tecnologia - Unimed SC](https://br.linkedin.com/company/fesctecnologia)  
 Vue, Vuex, Vue-router, Nuxt    
 _Joinville/SC_
 
