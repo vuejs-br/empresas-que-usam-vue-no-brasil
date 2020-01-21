@@ -1,6 +1,8 @@
 const { resolve, join } = require('path')
 const HtmlCriticalPlugin = require('html-critical-webpack-plugin')
 
+process.env.VUE_APP_VERSION = require('./package.json').version
+
 const isProd = (process.env.NODE_ENV === 'production')
 
 const plugins = []
