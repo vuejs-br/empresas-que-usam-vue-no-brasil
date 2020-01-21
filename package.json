@@ -1,6 +1,6 @@
 {
   "name": "empresas-que-usam-vue-no-brasil",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "yarn extract && vue-cli-service serve",
