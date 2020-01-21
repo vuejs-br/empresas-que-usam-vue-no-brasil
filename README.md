@@ -461,9 +461,9 @@ _Blumenau/SC_
 Vuex, Vue Router, PWA    
 _Sinop/MT_
 
-[Neopag](https://www.neopag.com/)
-Vuex, Vue Router, React, Redux, React Router Dom, React Native, Flutter, Elixir, PostgresSQL
-_São Paulo/SP_
+[Neopag](https://www.neopag.com/)  
+Vuex, Vue Router, React, Redux, React Router Dom, React Native, Flutter, Elixir, PostgresSQL  
+_São Paulo/SP_  
 
 [NOALVO](https://midianoalvo.com.br/)     
 Vuex, Mongo, Redis, Angular 1.x, Node, Express, Docker    
