@@ -27,6 +27,12 @@ export default {
       <a :href="company.url" target="_blank">
         {{ company.name }} <ExternalIcon />
       </a>
+      <img
+        class="icon-remote"
+        v-if="company.remote"
+        src="../assets/icon-remote.svg"
+        title="Suporte a trabalho remoto"
+        alt="Suporte a trabalho remoto"/>
     </h3>
 
     <div class="tags are-medium">
@@ -48,3 +54,15 @@ export default {
     </div>
   </div>
 </template>
+
+<style lang="scss" scoped>
+
+.icon-remote {
+  width: 20px;
+  height: 20px;
+  display: block;
+  float: right;
+
+}
+
+</style>
