@@ -16,6 +16,11 @@ export default {
     id () {
       return `company-${this.slug}`
     }
+  },
+  methods: {
+    setFilterRemote () {
+      this.$emit('filter-remote')
+    }
   }
 }
 </script>
@@ -32,7 +37,9 @@ export default {
         v-if="company.remote"
         src="../assets/icon-remote.svg"
         title="Suporte a trabalho remoto"
-        alt="Suporte a trabalho remoto"/>
+        alt="Suporte a trabalho remoto"
+        @click="setFilterRemote"
+      />
     </h3>
 
     <div class="tags are-medium">
@@ -56,13 +63,11 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-
 .icon-remote {
   width: 20px;
   height: 20px;
   display: block;
   float: right;
-
+  cursor: pointer;
 }
-
 </style>

@@ -15,6 +15,11 @@ export default {
     id () {
       return `letter-${this.letter}`
     }
+  },
+  methods: {
+    onFilterRemote () {
+      this.$emit('filter-remote')
+    }
   }
 }
 </script>
@@ -33,7 +38,9 @@ export default {
       class="panel-block"
       v-for="(company, index) in companies"
       :key="letter + '-' + index"
-      v-bind="{ company }"/>
+      v-bind="{ company }"
+      @filter-remote="onFilterRemote"
+    />
   </section>
 </template>
 
