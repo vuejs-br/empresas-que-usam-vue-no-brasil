@@ -1,7 +1,4 @@
-$primary: #40b882;
-$link: #304455;
-$dark: #35495e;
-$gap: 22px;
+@import "./variables.scss";
 
 @import "bulma/sass/utilities/_all.sass";
 @import "bulma/sass/base/_all.sass";

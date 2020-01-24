@@ -118,7 +118,7 @@ export default {
           :tags="meta.tags" />
       </div>
       <main class="column is-three-quarters">
-        <div class="columns is-mobile">
+        <div class="columns">
           <div class="column">
             <AppFilter
               label="Nome da empresa"
@@ -131,7 +131,7 @@ export default {
               placeholder="Encontre uma empresa local"
               v-model="filters.location" />
           </div>
-          <div class="column is-2">
+          <div class="column is-2 checkbox-column">
             <AppCheckbox
               id="remote"
               label="Remoto?"
@@ -152,3 +152,10 @@ export default {
     </div>
   </div>
 </template>
+
+<style scoped>
+.checkbox-column {
+  display: flex;
+  align-items: center;
+}
+</style>
