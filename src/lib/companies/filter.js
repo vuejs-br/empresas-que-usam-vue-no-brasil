@@ -48,13 +48,24 @@ const filterByName = async (name, companies) => {
   })
 }
 
+const filterByRemote = async (remote, companies) => {
+  if (remote) {
+    return filter(companies, company => {
+      return company.remote
+    })
+  }
+
+  return companies
+}
+
 const filterCompanies = (rules, companies) => {
-  const { tags, name, location } = rules
+  const { tags, name, location, remote } = rules
 
   return pWaterfall([
     result => onIdle(() => filterByTags(tags, result)),
     result => onIdle(() => filterByName(name, result)),
     result => onIdle(() => filterByLocation(location, result)),
+    result => onIdle(() => filterByRemote(remote, result)),
     result => Object.freeze(result)
   ], companies)
 }

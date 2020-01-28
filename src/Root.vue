@@ -12,7 +12,7 @@
 import AppFooter from './components/AppFooter'
 import AppHero from './components/AppHero'
 
-const AppMain = () => import(/* webpackChunkName: "app-main" */'./Main')
+const AppMain = () => import(/* webpackChunkName: "app-main" */'./Main.vue')
 
 export default {
   name: 'app',

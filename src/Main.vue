@@ -6,10 +6,11 @@ import AppTagFilter from './components/AppTagFilter'
 import LoadingBar from './components/LoadingBar'
 import AppFilter from './components/AppFilter'
 import LetterRow from './components/LetterRow'
+import AppCheckbox from './components/AppCheckbox'
 
 export default {
   name: 'AppMain',
-  components: { LetterRow, AppTagFilter, AppFilter, LoadingBar },
+  components: { LetterRow, AppTagFilter, AppFilter, LoadingBar, AppCheckbox },
   data: () => ({
     loading: true,
     tagsSelecteds: Object.freeze([]),
@@ -19,11 +20,16 @@ export default {
     filters: {
       tags: Object.freeze([]),
       name: '',
-      location: ''
+      location: '',
+      remote: false
     }
   }),
   computed: {
     hasFilter () {
+      if (this.filters.remote) {
+        return true
+      }
+
       return Object.values(this.filters)
         .some(negate(isEmpty))
     },
@@ -70,6 +76,10 @@ export default {
       )
 
       this.loading = false
+    },
+    onFilterRemote () {
+      window.scrollTo(0, 0)
+      this.filters.remote = true
     }
   },
   async mounted () {
@@ -108,7 +118,7 @@ export default {
           :tags="meta.tags" />
       </div>
       <main class="column is-three-quarters">
-        <div class="columns is-mobile">
+        <div class="columns">
           <div class="column">
             <AppFilter
               label="Nome da empresa"
@@ -121,15 +131,31 @@ export default {
               placeholder="Encontre uma empresa local"
               v-model="filters.location" />
           </div>
+          <div class="column is-2 checkbox-column">
+            <AppCheckbox
+              id="remote"
+              label="Remoto?"
+              v-model="filters.remote"
+            />
+          </div>
         </div>
         <div>
           <LoadingBar v-if="loading" />
           <LetterRow
             v-for="group in groups"
             :key="group.letter"
-            v-bind="group"/>
+            v-bind="group"
+            @filter-remote="onFilterRemote"
+          />
         </div>
       </main>
     </div>
   </div>
 </template>
+
+<style scoped>
+.checkbox-column {
+  display: flex;
+  align-items: center;
+}
+</style>

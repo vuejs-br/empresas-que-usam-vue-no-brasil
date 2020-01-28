@@ -32,6 +32,8 @@ export default {
 </template>
 
 <style lang="scss" scoped>
+@import "../assets/scss/variables.scss";
+
 .app-filter {
   margin-top: 5px;
   margin-bottom: 10px;
@@ -40,6 +42,12 @@ export default {
     font-size: 0.75em;
     letter-spacing: 0.1em;
     text-transform: uppercase;
+  }
+}
+
+@media screen and (max-width: $tablet) {
+  .app-filter {
+    margin: 0;
   }
 }
 </style>
