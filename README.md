@@ -551,6 +551,10 @@ _Passa Quatro/MG_
 Vuex, Vue Router, Nuxt, Jest    
 _São José dos Campos/SP_
 
+[Quero Quitar](https://www.queroquitar.com.br)
+Vuex, Vue Router, Nuxt, Axios
+_São Paulo/SP_
+
 ## R
 
 [Raro Labs](https://rarolabs.com.br/)  
