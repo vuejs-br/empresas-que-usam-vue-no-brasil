@@ -236,6 +236,10 @@ _Bauru/SP_
 
 ## F
 
+[FACE Digital](https://facedigital.com.br/)  
+Vue, Vuex, Nuxt, Axios, Vue-router, Laravel  
+_Joinville/SC_  
+
 [Facilite](https://facilite.online)  
 Firebase    
 _Jaraguá do Sul/SC_
