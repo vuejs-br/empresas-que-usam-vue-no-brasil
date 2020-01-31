@@ -9,10 +9,13 @@
 </template>
 
 <script>
+import './assets/css/critical.css'
+import './assets/scss/main.scss'
+
 import AppFooter from './components/AppFooter'
 import AppHero from './components/AppHero'
 
-const AppMain = () => import(/* webpackChunkName: "app-main" */'./Main.vue')
+const AppMain = () => import(/* webpackChunkName: "main-component" */'./Main.vue')
 
 export default {
   name: 'app',

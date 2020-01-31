@@ -1,30 +1,12 @@
-const { resolve, join } = require('path')
-const HtmlCriticalPlugin = require('html-critical-webpack-plugin')
+const HtmlWebpackInlineSourcePlugin = require('webpack-inline-modern-source-plugin')
 
 process.env.VUE_APP_VERSION = require('./package.json').version
 
 const isProd = (process.env.NODE_ENV === 'production')
 
-const plugins = []
-
-if (isProd) {
-  plugins.push(
-    new HtmlCriticalPlugin({
-      base: join(resolve(__dirname), 'dist/'),
-      src: 'index.html',
-      dest: 'index.html',
-      inline: true,
-      minify: true,
-      extract: true,
-      width: 375,
-      height: 565,
-      timeout: 30000,
-      penthouse: {
-        blockJSRequests: false
-      }
-    })
-  )
-}
+const plugins = isProd
+  ? [new HtmlWebpackInlineSourcePlugin()]
+  : []
 
 module.exports = {
   pwa: {
@@ -36,6 +18,15 @@ module.exports = {
     workboxOptions: {
       skipWaiting: true
     }
+  },
+  chainWebpack (config) {
+    config
+      .plugin('html')
+      .tap(args => {
+        args[0].inlineSource = '(/css/root.*.css)$'
+
+        return args
+      })
   },
   configureWebpack: {
     plugins,
