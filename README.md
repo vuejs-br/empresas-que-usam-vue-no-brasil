@@ -150,7 +150,7 @@ Vuex, Apollo, Nuxt, Node, GraphQL, MongoDB, ElasticSearch, Azure
 _São Paulo/SP_
 
 [Consulta Remédios](https://consultaremedios.com.br/)  
-Vue, Vuex, Axios, Ruby On Rails
+Vue, Vuex, Axios, Ruby On Rails  
 _Curitiba/PR_ / Remoto
 
 [Convenia](https://www.convenia.com.br)  
