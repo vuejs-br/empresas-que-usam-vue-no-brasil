@@ -280,7 +280,7 @@ _Feira de Santana/BA_
 
 [GlobalWeb](https://www.globalweb.com.br/)  
 Vuex, Vue Router, Vuetify, Vue-i18n, Nuxtjs    
-_São Paulo/SP_
+_São Paulo/SP | Brasília/DF_
 
 [Grupo Acert](http://www.grupoacert.com.br)  
 Vuex, Vue Router, Laravel    
