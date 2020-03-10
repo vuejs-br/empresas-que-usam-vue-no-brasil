@@ -230,6 +230,10 @@ _São Paulo/SP_
 Laravel, Php, Python, MySQL     
 _Salvador/BA_
 
+[Estuda.com](https://www.estuda.com)      
+Vue, React Native, JQuery, MySQL, AWS  
+_Salvador/BA_
+
 [Exodus Sistemas](https://www.exodus.eti.br/)  
 Vuex, Nuxt, .net core, Node, Ionic, Python, MongoDb, Sql Server   
 _Belém/PA_
