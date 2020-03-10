@@ -232,7 +232,7 @@ _Salvador/BA_
 
 [Estuda.com](https://www.estuda.com)      
 Vue, React Native, JQuery, MySQL, AWS  
-_Salvador/BA_
+_Cuiabá/MT_
 
 [Exodus Sistemas](https://www.exodus.eti.br/)  
 Vuex, Nuxt, .net core, Node, Ionic, Python, MongoDb, Sql Server   
