@@ -477,6 +477,10 @@ _Sinop/MT_
 Vuex, Vue Router, React, Redux, React Router Dom, React Native, Flutter, Elixir, PostgresSQL  
 _São Paulo/SP_  
 
+[Niduu](https://www.niduu.com/)
+Vue, Django, Flutter, Elastic Search, PostgreSQL, MongoDB, Firebase, Laravel
+_São Luís/MA_
+
 [NOALVO](https://midianoalvo.com.br/)     
 Vuex, Mongo, Redis, Angular 1.x, Node, Express, Docker    
 _São Paulo/SP_
