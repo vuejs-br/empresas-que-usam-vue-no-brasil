@@ -481,9 +481,9 @@ _São Paulo/SP_
 Vuex, Mongo, Redis, Angular 1.x, Node, Express, Docker    
 _São Paulo/SP_
 
-[Nofaro](https://nofaro.com/)
-Vuex, Nuxtjs, Vue Router
-_Porto Alegre/RS_
+[Nofaro](https://nofaro.com/)     
+Vuex, Nuxtjs, Vue Router, Laravel     
+_Porto Alegre/RS_ 
 
 [Notoriun Tecnologia](http://www.notoriun.com.br)  
 Vuex, Mongo, Redis, ArcGIS, PostGIS, GeoServer, ESRI JS, Node    
