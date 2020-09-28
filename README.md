@@ -73,6 +73,10 @@ _Chapecó/SC_
 Vuex, React, React Native, Netlify, Perl    
 _São Paulo/SP_
 
+[Arivo](https://arivo.com.br)  
+Vuex, Ruby on Rails    
+_São Paulo/SP_
+
 [ARPNET](http://arpnet.biz/)  
 Laravel, ASPNET, VB.net, SQLServer    
 _Teresina/PI_
