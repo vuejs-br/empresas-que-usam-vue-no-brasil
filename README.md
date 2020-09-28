@@ -115,6 +115,10 @@ _Porto Alegre/RS_
 Laravel    
 _Florianópolis/SC_
 
+[Buser](https://www.buser.com.br)  
+Vue, Nuxt, Django    
+_São José dos Campos/SP_
+
 ## C
 
 [Cálculo Juridico](https://calculojuridico.com.br/)  
