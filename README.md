@@ -256,6 +256,10 @@ _Bauru/SP_
 Vue, Vuex, Nuxt, Axios, Vue-router, Laravel  
 _Joinville/SC_  
 
+[FacilitaPay](https://www.facilitapay.com/)
+Vue, Node, Elixir, Vue-router, Vuetify, DigitalOcean, Docker
+_Nova Lima/MS_
+
 [Facilite](https://facilite.online)  
 Firebase    
 _Jaraguá do Sul/SC_
