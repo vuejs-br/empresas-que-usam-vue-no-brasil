@@ -405,6 +405,10 @@ _Belo Horizonte/MG_
 Node, WP-API    
 _Custódia/PE_
 
+[LEAD](http://leadfortaleza.com.br/portal)  
+Node, Vuex, Vue Router, Java, AWS 
+_Fortaleza/CE_ 
+
 [Legal Labs](http://legalabs.com.br/)  
 Node, Vuex, Apollo, GraphQL, Quasar, Rethinkdb, AWS, PostgreSQL, Python, Ruby on Rails, Kubernetes    
 _Brasília/DF_ 
