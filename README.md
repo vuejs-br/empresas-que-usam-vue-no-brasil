@@ -687,6 +687,10 @@ _Juazeiro/BA_
 Vuex, VueRouter, Data Mining, Natural Language Processing, Computer Vision    
 _Ouro Preto/MG | São Paulo/SP_
 
+[Suntech/Verint](https://suntech.com.br/)      
+React, Java, Springboot 
+_Florianópolis/SC_
+
 ## T
 
 [Take 5](https://take5.com.br/)  
