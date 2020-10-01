@@ -527,6 +527,10 @@ _São Paulo/SP_
 Vuex, VueRouter, Axios, PHP, Phalcon PHP, Node, MariaDB, Redis, Memcached    
 _Joinville/SC_
 
+[OW Interactive](http://www.owinteractive.com/)  
+PHP, Laravel, Vuex  
+_Ribeirão Preto/SP_
+
 ## P
 
 [PAX](https://paxexpress.com.br/)  
@@ -757,6 +761,10 @@ _Natal/RN_
 [Veed | Software Intelligence](https://app.ecall.tech)  
 Vuex, VueRouter, Vuetify, Axios, PWA, Google Cloud, Postgres, Node, Adonis  
 _Marau/RS_
+
+[Venda.la](https://vendala.com.br)  
+PHP, Laravel, NodeJs, MongoDb, AWS, Vuex, React Native  
+_Ribeirão Preto/SP_
 
 [Vitta Tecnologia](https://vitta.com.br)  
 Vuex, Axios, Webpack, Node, MySql, MongoDB, AWS    
