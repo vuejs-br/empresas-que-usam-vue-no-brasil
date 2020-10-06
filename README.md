@@ -399,11 +399,11 @@ _Brasília/DF_
 
 [Lemoney](https://www.lemoney.com)
 Vue
-_ Rio de janeiro/RJ | Remoto_
+_ Rio de janeiro/RJ
 
 [Levante Lab](https://levantelab.com.br/)
 Vue, QuasarJS, PHP
-_ Florianópolis/SC | Remoto_
+_ Florianópolis/SC
 
 [Let's Grow Sistemas](http://www.letsgrow.com.br/)  
 Vuex, Laravel, PostgreSQL    
