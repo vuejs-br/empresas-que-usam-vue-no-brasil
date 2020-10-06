@@ -401,6 +401,10 @@ _Brasília/DF_
 Vue
 _ Rio de janeiro/RJ | Remoto_
 
+[Levante Lab](https://levantelab.com.br/)
+Vue, QuasarJS, PHP
+_ Florianópolis/SC | Remoto_
+
 [Let's Grow Sistemas](http://www.letsgrow.com.br/)  
 Vuex, Laravel, PostgreSQL    
 _Guarapuava/PR_
