@@ -788,7 +788,7 @@ _Uberlândia/MG | São Paulo/MG_
 Electron, .Net Core, Java, Vuex, SQLServer    
 _Belém/PA_
 
-[Wedy](https://wedy.com)   
+[Wedy](https://casamento.wedy.com)   
 Vuex, Nuxt, GraphQL, Capacitor, Lottie, Testcafe, Webpack    
 _São Leopoldo/RS_
 
