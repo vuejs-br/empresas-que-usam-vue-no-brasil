@@ -399,6 +399,10 @@ _Santos/SP_
 Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA    
 _Belo Horizonte/MG_
 
+[Kovi](https://kovi.com.br)  
+Vue, Vuex, Vue-Router, Vue-i18n, Quasar Framework, TypeScript, Node, Elixir, Flutter, Serverless, MySQL, Postgress, MongoDB
+_São Paulo/SP_
+
 ## L
 
 [Laboratorio IMEC](https://www.laboratorioimec.com.br)  
