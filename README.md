@@ -399,6 +399,10 @@ _Santos/SP_
 Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA    
 _Belo Horizonte/MG_
 
+[Ks Gestão](https://www.ksgestao.com.br/)
+Vue Router, Vuex, Vue, Adonis, Node, PWA, SPA, Redis, Flutter, Docker
+_São Gonçalo/RJ_
+
 ## L
 
 [Laboratorio IMEC](https://www.laboratorioimec.com.br)  
