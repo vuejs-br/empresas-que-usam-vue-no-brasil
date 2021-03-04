@@ -180,6 +180,10 @@ _Maringá/PR_
 Quasar, Node, GraphQL      
 _Rio de Janeiro/RJ_
 
+[Deepview Smart Technologies](https://dpview.com.br)
+Vuex, Vuetify, Vue-router, Node, PostgreSQL, Axios, Django, Heroku, Docker, Tensorflow, PyTorch
+_Presidente Prudente/SP_
+
 [Dessis Sistemas](http://dessis.com.br)  
 Vuex, Quasar, Node, Hapi, Mongo    
 _Jaraguá do Sul/SC_
