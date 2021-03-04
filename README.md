@@ -316,7 +316,7 @@ _São Paulo/SP_
 
 
 [Guiando](http://www.guiandotelecom.com.br/)  
-Vuex    
+VueJs, Vuex, VueRouter    
 _Juiz de Fora/MG_
 
 ## H
