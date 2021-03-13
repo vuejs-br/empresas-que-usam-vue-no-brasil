@@ -540,7 +540,7 @@ AngularJS, Angular, Polymer, Node, C#, .Net Core, Docker, MongoDB
 _São Paulo/SP_
 
 [Olist Pax](https://olistpax.com)
-VueJs, Vuex, PHP, Laravel, Redis, Laravel, Go, Node, MongoDB
+VueJs, Vuex, PHP, Laravel, Redis, PhpRedis, Go, Node, MongoDB, Flutter, MySQL, PWA
 _São Paulo/SP_
 
 [Operand](https://www.operand.com.br)  
