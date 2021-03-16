@@ -180,6 +180,10 @@ _Maringá/PR_
 Quasar, Node, GraphQL      
 _Rio de Janeiro/RJ_
 
+[Deepview Smart Technologies](https://dpview.com.br)
+Vuex, Vuetify, Vue-router, Node, PostgreSQL, Axios, Django, Heroku, Docker, Tensorflow, PyTorch
+_Presidente Prudente/SP_
+
 [Dessis Sistemas](http://dessis.com.br)  
 Vuex, Quasar, Node, Hapi, Mongo    
 _Jaraguá do Sul/SC_
@@ -312,7 +316,7 @@ _São Paulo/SP_
 
 
 [Guiando](http://www.guiandotelecom.com.br/)  
-Vuex    
+VueJs, Vuex, VueRouter    
 _Juiz de Fora/MG_
 
 ## H
@@ -402,6 +406,10 @@ _Belo Horizonte/MG_
 [Ks Gestão](https://www.ksgestao.com.br/)
 Vue Router, Vuex, Vue, Adonis, Node, PWA, SPA, Redis, Flutter, Docker
 _São Gonçalo/RJ_
+
+[Kovi](https://kovi.com.br)  
+Vue, Vuex, Vue-Router, Vue-i18n, Quasar Framework, TypeScript, Node, Elixir, Flutter, Serverless, MySQL, Postgress, MongoDB
+_São Paulo/SP_
 
 ## L
 
