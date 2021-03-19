@@ -403,6 +403,10 @@ _Santos/SP_
 Vuex, PHP, Laravel, Node, Go, Cordova, PWA, SPA    
 _Belo Horizonte/MG_
 
+[Ks Gestão](https://www.ksgestao.com.br/)
+Vue Router, Vuex, Vue, Adonis, Node, PWA, SPA, Redis, Flutter, Docker
+_São Gonçalo/RJ_
+
 [Kovi](https://kovi.com.br)  
 Vue, Vuex, Vue-Router, Vue-i18n, Quasar Framework, TypeScript, Node, Elixir, Flutter, Serverless, MySQL, Postgress, MongoDB
 _São Paulo/SP_
