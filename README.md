@@ -543,6 +543,10 @@ _Jaraguá do Sul/SC_
 AngularJS, Angular, Polymer, Node, C#, .Net Core, Docker, MongoDB    
 _São Paulo/SP_
 
+[Olist Pax](https://olistpax.com)
+VueJs, Vuex, PHP, Laravel, Redis, PhpRedis, Go, Node, MongoDB, Flutter, MySQL, PWA
+_São Paulo/SP_
+
 [Operand](https://www.operand.com.br)  
 Vuex, VueRouter, Axios, PHP, Phalcon PHP, Node, MariaDB, Redis, Memcached    
 _Joinville/SC_
