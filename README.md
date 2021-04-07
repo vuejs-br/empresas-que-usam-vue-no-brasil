@@ -471,6 +471,10 @@ _Curitiba/PR_
 Laravel    
 _Pelotas/RS_
 
+[Manycontent](https://manycontent.com)  
+Vue, Firebase, Node, Tailwindcss   
+_São Paulo/SP_
+
 [Mercado Eletrônico](https://me.com.br)  
 Vuex, Vue Router, ASP.NET    
 _São Paulo/SP_
