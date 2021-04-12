@@ -310,11 +310,6 @@ _Araçatuba/SP_
 Vuex, Vue Router, Node, PHP, React Native, Docker, Firebase, SQL Server, Google Cloud    
 _Campo Mourão/PR_
 
-[Grupo Zap](http://www.grupozap.com)      
-Vuex, Vue Router, Backbone, React, Axios, Node, GraphQL, Apollo, Storybook, Docker, Python, AWS, Kubernetes     
-_São Paulo/SP_
-
-
 [Guiando](http://www.guiandotelecom.com.br/)  
 VueJs, Vuex, VueRouter    
 _Juiz de Fora/MG_
@@ -550,6 +545,10 @@ _São Paulo/SP_
 [Olist Pax](https://olistpax.com)
 VueJs, Vuex, PHP, Laravel, Redis, PhpRedis, Go, Node, MongoDB, Flutter, MySQL, PWA
 _São Paulo/SP_
+
+[OLX Brasil](http://www.olx.com.br)
+Vuex, Vue Router, Backbone, React, Axios, Node, GraphQL, Apollo, Storybook, Docker, Python, Java, Go, AWS, Kubernetes
+_São Paulo/SP | Rio de Janeiro/RJ | Remoto_
 
 [Operand](https://www.operand.com.br)  
 Vuex, VueRouter, Axios, PHP, Phalcon PHP, Node, MariaDB, Redis, Memcached    
