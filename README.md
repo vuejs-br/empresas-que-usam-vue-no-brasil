@@ -547,7 +547,7 @@ VueJs, Vuex, PHP, Laravel, Redis, PhpRedis, Go, Node, MongoDB, Flutter, MySQL, P
 _São Paulo/SP_
 
 [OLX Brasil](http://www.olx.com.br)
-Vuex, Vue Router, Backbone, React, Axios, Node, GraphQL, Apollo, Storybook, Docker, Python, Java, Go, AWS, Kubernetes
+Vuex, Vue Router, Backbone, React, Axios, Node, GraphQL, Apollo, Storybook, Docker, Python, Java, Swift, Kotlin, Go, AWS, Kubernetes
 _São Paulo/SP | Rio de Janeiro/RJ | Remoto_
 
 [Operand](https://www.operand.com.br)  
