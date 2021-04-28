@@ -165,6 +165,10 @@ _Curitiba/PR_ / Remoto
 Vuex, Axios, Laravel, GraphQL    
 _São Paulo/SP_
 
+[Cuponomia](https://www.cuponomia.com.br)
+Vue, Vue Router, Axios, React Native, AWS, Redis, Node, C#  
+_São José dos Campos/SP | Remoto_
+
 [CNT Sistemas](http://cntsistemas.com.br)  
 Quasar, Axios, Parcel-Bundler    
 _Gurupi/TO_
