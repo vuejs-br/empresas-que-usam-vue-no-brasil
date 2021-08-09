@@ -39,6 +39,12 @@ export default {
 
           <a target="_blank"
             class="button is-link is-light is-large is-hidden-mobile"
+            href="https://discord.com/invite/B58SXdP">
+            Discord
+          </a>
+
+          <a target="_blank"
+            class="button is-link is-light is-large is-hidden-mobile"
             href="https://github.com/vuejs-br/forum">
             Forum
           </a>
