@@ -38,7 +38,12 @@ export default {
   },
   watch: {
     selecteds (val) {
-      this.$emit('input', Object.freeze([...val]))
+      this.$emit('input', [...val])
+    },
+    value (newVal, oldVal) {
+      if (oldVal.join() !== newVal.join()) {
+        this.selecteds = newVal
+      }
     }
   },
   methods: {
