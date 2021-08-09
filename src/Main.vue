@@ -2,6 +2,7 @@
 import pMap from 'p-map'
 import { groupBy, orderBy, isEmpty, negate, debounce } from 'lodash-es'
 import { loadCompanies, filterCompanies } from './lib/companies'
+import { paramsToFilters } from './lib/utils'
 import AppTagFilter from './components/AppTagFilter'
 import LoadingBar from './components/LoadingBar'
 import AppFilter from './components/AppFilter'
@@ -59,6 +60,8 @@ export default {
         return
       }
 
+      window.history.pushState({}, '', `/?${new URLSearchParams(this.filters)}`)
+
       await this.$onIdle()
       const groups = await pMap(groupsBase, async group => {
         await this.$onIdle()
@@ -102,6 +105,8 @@ export default {
           this.$onFilter()
         })
       })
+
+    paramsToFilters.bind(this)()
   },
   beforeDestroy () {
     this.$stopFilterWatch()
