@@ -564,6 +564,10 @@ _Ribeirão Preto/SP_
 
 ## P
 
+[PagSeguro PagBank](https://pagseguro.uol.com.br/)  
+Vue3, Vuex, Redis, FastAPI    
+_São Paulo/SP_
+
 [PAX](https://paxexpress.com.br/)  
 Quasar, Nuxt, Node, MongoDB    
 _São Paulo/SP_
