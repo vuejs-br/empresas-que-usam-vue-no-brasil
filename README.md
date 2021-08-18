@@ -69,6 +69,10 @@ _São Paulo/SP_
 Vuex, Node, PHP, AWS, Mongolab, Coronasdk, QZ, Hapijs, Firebase    
 _Chapecó/SC_
 
+[Apê11](https://ape11.com.br/)  
+Vuex, PHP, Postgres    
+_São Paulo/SP_
+
 [AppCívico](https://appcivico.com/)  
 Vuex, React, React Native, Netlify, Perl    
 _São Paulo/SP_
@@ -563,6 +567,10 @@ PHP, Laravel, Vuex
 _Ribeirão Preto/SP_
 
 ## P
+
+[PagSeguro PagBank](https://pagseguro.uol.com.br/)  
+Vue3, Vuex, Redis, FastAPI    
+_São Paulo/SP_
 
 [PAX](https://paxexpress.com.br/)  
 Quasar, Nuxt, Node, MongoDB    
