@@ -310,6 +310,10 @@ _Feira de Santana/BA_
 Vuex, Vue Router, Vuetify, Vue-i18n, Nuxtjs    
 _São Paulo/SP | Brasília/DF_
 
+[Griffo Oficinas](https://www.griffooficinas.com.br/)  
+Vue, Vuex, Bootstrap-vue, NodeJS, MongoDB, DigitalOcean
+_Blumenau/SC_
+
 [Grupo Acert](http://www.grupoacert.com.br)  
 Vuex, Vue Router, Laravel    
 _Araçatuba/SP_
