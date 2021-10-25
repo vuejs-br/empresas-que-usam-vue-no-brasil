@@ -582,7 +582,7 @@ _São Paulo/SP_
 
 [Petlove](http://petlove.com.br/)  
 Vue, Vuex, Nuxt, Node, Docker, Storybook   
-_São Paulo/SP_
+_São Paulo/SP | Remoto_
 
 [Pine](https://www.pine.com)    
 VueRouter, Angular, Docker, MongoDB, C#, .Net Core    
