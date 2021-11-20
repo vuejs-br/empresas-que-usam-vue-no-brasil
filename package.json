@@ -2,6 +2,9 @@
   "name": "empresas-que-usam-vue-no-brasil",
   "version": "1.1.0",
   "private": true,
+  "engines": {
+    "node": "^16.11"
+  },
   "scripts": {
     "dev": "yarn extract && vue-cli-service serve",
     "build": "yarn extract && vue-cli-service build --modern",
