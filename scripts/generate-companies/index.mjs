@@ -1,10 +1,13 @@
-const { writeFile, stat } = require('fs').promises
-const { resolve, relative } = require('path')
-const { parse } = require('./parse-md')
-const { extractCompanies, generateMeta } = require('./extract')
-const prettyBytes = require('pretty-bytes')
+import { writeFile, stat } from 'node:fs/promises'
+import { resolve, relative, dirname } from 'node:path'
+import { fileURLToPath } from 'url'
+import { parse } from './parse-md.mjs'
+import { extractCompanies, generateMeta } from './extract.mjs'
+import prettyBytes from 'pretty-bytes'
+import ora from 'ora'
 
-const ora = require('ora')
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = dirname(__filename)
 
 const SOURCE = resolve(__dirname, '../../README.md')
 const TARGET = resolve(__dirname, '../../public/data.json')

@@ -1,4 +1,5 @@
-const { isEmpty, split, trim, size, flatMap, countBy, negate, toLower, toUpper, uniq } = require('lodash')
+import lodash from 'lodash'
+const { isEmpty, split, trim, size, flatMap, countBy, negate, toLower, toUpper, uniq } = lodash
 
 const getLetter = name => {
   const first = name[0]
@@ -54,4 +55,4 @@ const extractCompanies = nodes => {
   return nodes.map(({ children }) => extractChildrenData(children))
 }
 
-module.exports = { extractCompanies, generateMeta }
+export { extractCompanies, generateMeta }
