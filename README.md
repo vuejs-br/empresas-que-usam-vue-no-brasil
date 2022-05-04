@@ -580,6 +580,10 @@ _Ribeirão Preto/SP_
 Vue3, Vuex, Redis, FastAPI    
 _São Paulo/SP_
 
+[Panda Video](https://pandavideo.com.br/)  
+Vue, Node, AWS Lambda  
+_São Paulo/SP_
+
 [PAX](https://paxexpress.com.br/)  
 Quasar, Nuxt, Node, MongoDB    
 _São Paulo/SP_
