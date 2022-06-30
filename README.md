@@ -843,6 +843,10 @@ _Porto Alegre/RS_
 Vuex, Nuxt, GraphQL, Capacitor, Lottie, Testcafe, Webpack    
 _São Leopoldo/RS_
 
+[Wine](https://www.wine.com.br)   
+Vue, Vuex, Nuxt, GraphQL, React, Redux, React Native, Webpack    
+_Vitória/ES_
+
 [WorkBetter by SocialBase](https://workbetter.socialbase.com.br)   
 Vue Router, Java Spring, Rest, MySql    
 _Florianópolis/SC_
