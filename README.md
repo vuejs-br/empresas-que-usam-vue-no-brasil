@@ -304,8 +304,8 @@ _Bauru/SP_
 Vuex, Vue-router, Axios, Laravel    
 _Cascavel/PR_
 
-[Friday Finance](https://www.fridayfinance.com/)
-Vue 2.7, Nuxt, Tailwind, Apollo Client, Node, GraphQL, Apollo Server, Prisma, PostgreSQL, Docker, Google Cloud Platform
+[Friday Finance](https://www.fridayfinance.com/)  
+Vue 2.7, Nuxt, Tailwind, Apollo Client, Node, GraphQL, Apollo Server, Prisma, PostgreSQL, Docker, Google Cloud Platform  
 _Remoto | Berlin/Alemanha | Viena/Austria | Barcelona/Espanha_
 
 ## G
