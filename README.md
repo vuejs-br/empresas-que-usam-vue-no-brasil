@@ -835,10 +835,6 @@ _Uberlândia/MG | São Paulo/MG_
 Electron, .Net Core, Java, Vuex, SQLServer    
 _Belém/PA_
 
-[Wedy](https://casamento.wedy.com)   
-Vuex, Nuxt, GraphQL, Capacitor, Lottie, Testcafe, Webpack    
-_São Leopoldo/RS_
-
 [Way2 Technology](https://way2.com.br)   
 Vuex, Knockout, React, .NET, Oracle    
 _Florianópolis/SC_
@@ -846,6 +842,14 @@ _Florianópolis/SC_
 [Warren Brasil](https://warrenbrasil.com)   
 Node, TypeScript, MongoDB, C#    
 _Porto Alegre/RS_
+
+[Wedy](https://casamento.wedy.com)   
+Vuex, Nuxt, GraphQL, Capacitor, Lottie, Testcafe, Webpack    
+_São Leopoldo/RS_
+
+[Wine](https://www.wine.com.br)   
+Vue, Vuex, Nuxt, GraphQL, React, Redux, React Native, Webpack    
+_Vitória/ES_
 
 [WorkBetter by SocialBase](https://workbetter.socialbase.com.br)   
 Vue Router, Java Spring, Rest, MySql    
